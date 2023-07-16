@@ -1,0 +1,1578 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-07-16">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="Weight" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Net Ratings" type="long" />
+      <attribute id="1" title="Median Play Time" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Action" label="Action">
+        <attvalues>
+          <attvalue for="0" value="14583186" />
+          <attvalue for="1" value="1409572" />
+        </attvalues>
+      </node>
+      <node id="Free to Play" label="Free to Play">
+        <attvalues>
+          <attvalue for="0" value="5871662" />
+          <attvalue for="1" value="906776" />
+        </attvalues>
+      </node>
+      <node id="Strategy" label="Strategy">
+        <attvalues>
+          <attvalue for="0" value="3587791" />
+          <attvalue for="1" value="1086322" />
+        </attvalues>
+      </node>
+      <node id="Adventure" label="Adventure">
+        <attvalues>
+          <attvalue for="0" value="6387107" />
+          <attvalue for="1" value="1569720" />
+        </attvalues>
+      </node>
+      <node id="Indie" label="Indie">
+        <attvalues>
+          <attvalue for="0" value="8716117" />
+          <attvalue for="1" value="2370656" />
+        </attvalues>
+      </node>
+      <node id="RPG" label="RPG">
+        <attvalues>
+          <attvalue for="0" value="4604968" />
+          <attvalue for="1" value="1255990" />
+        </attvalues>
+      </node>
+      <node id="Animation &amp; Modeling" label="Animation &amp; Modeling">
+        <attvalues>
+          <attvalue for="0" value="83328" />
+          <attvalue for="1" value="6043" />
+        </attvalues>
+      </node>
+      <node id="Video Production" label="Video Production">
+        <attvalues>
+          <attvalue for="0" value="18024" />
+          <attvalue for="1" value="1114" />
+        </attvalues>
+      </node>
+      <node id="Casual" label="Casual">
+        <attvalues>
+          <attvalue for="0" value="2299082" />
+          <attvalue for="1" value="985296" />
+        </attvalues>
+      </node>
+      <node id="Simulation" label="Simulation">
+        <attvalues>
+          <attvalue for="0" value="3392420" />
+          <attvalue for="1" value="734171" />
+        </attvalues>
+      </node>
+      <node id="Racing" label="Racing">
+        <attvalues>
+          <attvalue for="0" value="537855" />
+          <attvalue for="1" value="135868" />
+        </attvalues>
+      </node>
+      <node id="Violent" label="Violent">
+        <attvalues>
+          <attvalue for="0" value="146148" />
+          <attvalue for="1" value="41472" />
+        </attvalues>
+      </node>
+      <node id="Massively Multiplayer" label="Massively Multiplayer">
+        <attvalues>
+          <attvalue for="0" value="1145249" />
+          <attvalue for="1" value="366281" />
+        </attvalues>
+      </node>
+      <node id="Nudity" label="Nudity">
+        <attvalues>
+          <attvalue for="0" value="162305" />
+          <attvalue for="1" value="25263" />
+        </attvalues>
+      </node>
+      <node id="Sports" label="Sports">
+        <attvalues>
+          <attvalue for="0" value="506768" />
+          <attvalue for="1" value="137014" />
+        </attvalues>
+      </node>
+      <node id="Early Access" label="Early Access">
+        <attvalues>
+          <attvalue for="0" value="786798" />
+          <attvalue for="1" value="239307" />
+        </attvalues>
+      </node>
+      <node id="Gore" label="Gore">
+        <attvalues>
+          <attvalue for="0" value="107455" />
+          <attvalue for="1" value="26393" />
+        </attvalues>
+      </node>
+      <node id="Design &amp; Illustration" label="Design &amp; Illustration">
+        <attvalues>
+          <attvalue for="0" value="72084" />
+          <attvalue for="1" value="8820" />
+        </attvalues>
+      </node>
+      <node id="Education" label="Education">
+        <attvalues>
+          <attvalue for="0" value="2466" />
+          <attvalue for="1" value="2376" />
+        </attvalues>
+      </node>
+      <node id="Sexual Content" label="Sexual Content">
+        <attvalues>
+          <attvalue for="0" value="105157" />
+          <attvalue for="1" value="21984" />
+        </attvalues>
+      </node>
+      <node id="Audio Production" label="Audio Production">
+        <attvalues>
+          <attvalue for="0" value="924" />
+          <attvalue for="1" value="65" />
+        </attvalues>
+      </node>
+      <node id="Utilities" label="Utilities">
+        <attvalues>
+          <attvalue for="0" value="76805" />
+          <attvalue for="1" value="21499" />
+        </attvalues>
+      </node>
+      <node id="Web Publishing" label="Web Publishing">
+        <attvalues>
+          <attvalue for="0" value="8068" />
+          <attvalue for="1" value="3874" />
+        </attvalues>
+      </node>
+      <node id="Software Training" label="Software Training">
+        <attvalues>
+          <attvalue for="0" value="1920" />
+          <attvalue for="1" value="487" />
+        </attvalues>
+      </node>
+      <node id="Game Development" label="Game Development">
+        <attvalues>
+          <attvalue for="0" value="1100" />
+          <attvalue for="1" value="1972" />
+        </attvalues>
+      </node>
+      <node id="Photo Editing" label="Photo Editing">
+        <attvalues>
+          <attvalue for="0" value="637" />
+          <attvalue for="1" value="5160" />
+        </attvalues>
+      </node>
+      <node id="Accounting" label="Accounting">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Documentary" label="Documentary">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="Tutorial" label="Tutorial">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Action" target="Free to Play" id="0">
+        <attvalues>
+          <attvalue for="2" value="673" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Strategy" id="1">
+        <attvalues>
+          <attvalue for="2" value="1505" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Adventure" id="2">
+        <attvalues>
+          <attvalue for="2" value="4528" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Indie" id="3">
+        <attvalues>
+          <attvalue for="2" value="9184" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="RPG" id="4">
+        <attvalues>
+          <attvalue for="2" value="1768" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Animation &amp; Modeling" id="5">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Video Production" id="6">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Casual" id="7">
+        <attvalues>
+          <attvalue for="2" value="3403" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Simulation" id="8">
+        <attvalues>
+          <attvalue for="2" value="1559" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Racing" id="9">
+        <attvalues>
+          <attvalue for="2" value="511" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Violent" id="10">
+        <attvalues>
+          <attvalue for="2" value="607" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Massively Multiplayer" id="11">
+        <attvalues>
+          <attvalue for="2" value="434" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Nudity" id="12">
+        <attvalues>
+          <attvalue for="2" value="87" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Sports" id="13">
+        <attvalues>
+          <attvalue for="2" value="557" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Early Access" id="14">
+        <attvalues>
+          <attvalue for="2" value="1715" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Gore" id="15">
+        <attvalues>
+          <attvalue for="2" value="384" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Design &amp; Illustration" id="16">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Education" id="17">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Sexual Content" id="18">
+        <attvalues>
+          <attvalue for="2" value="58" />
+        </attvalues>
+      </edge>
+      <edge source="Action" target="Audio Production" id="19">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Strategy" id="20">
+        <attvalues>
+          <attvalue for="2" value="411" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Adventure" id="21">
+        <attvalues>
+          <attvalue for="2" value="499" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Indie" id="22">
+        <attvalues>
+          <attvalue for="2" value="1079" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="RPG" id="23">
+        <attvalues>
+          <attvalue for="2" value="380" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Animation &amp; Modeling" id="24">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Video Production" id="25">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Casual" id="26">
+        <attvalues>
+          <attvalue for="2" value="660" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Simulation" id="27">
+        <attvalues>
+          <attvalue for="2" value="339" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Racing" id="28">
+        <attvalues>
+          <attvalue for="2" value="55" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Violent" id="29">
+        <attvalues>
+          <attvalue for="2" value="39" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Massively Multiplayer" id="30">
+        <attvalues>
+          <attvalue for="2" value="350" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Nudity" id="31">
+        <attvalues>
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Sports" id="32">
+        <attvalues>
+          <attvalue for="2" value="91" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Early Access" id="33">
+        <attvalues>
+          <attvalue for="2" value="241" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Gore" id="34">
+        <attvalues>
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Utilities" id="35">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Design &amp; Illustration" id="36">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Web Publishing" id="37">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Education" id="38">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Software Training" id="39">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Sexual Content" id="40">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Audio Production" id="41">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Game Development" id="42">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Photo Editing" id="43">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Free to Play" target="Accounting" id="44">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Adventure" id="45">
+        <attvalues>
+          <attvalue for="2" value="1227" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Indie" id="46">
+        <attvalues>
+          <attvalue for="2" value="3672" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="RPG" id="47">
+        <attvalues>
+          <attvalue for="2" value="1155" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Animation &amp; Modeling" id="48">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Video Production" id="49">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Casual" id="50">
+        <attvalues>
+          <attvalue for="2" value="1920" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Simulation" id="51">
+        <attvalues>
+          <attvalue for="2" value="1623" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Racing" id="52">
+        <attvalues>
+          <attvalue for="2" value="69" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Violent" id="53">
+        <attvalues>
+          <attvalue for="2" value="110" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Massively Multiplayer" id="54">
+        <attvalues>
+          <attvalue for="2" value="218" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Nudity" id="55">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Sports" id="56">
+        <attvalues>
+          <attvalue for="2" value="213" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Early Access" id="57">
+        <attvalues>
+          <attvalue for="2" value="713" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Gore" id="58">
+        <attvalues>
+          <attvalue for="2" value="59" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Utilities" id="59">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Design &amp; Illustration" id="60">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Web Publishing" id="61">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Education" id="62">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Software Training" id="63">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Sexual Content" id="64">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Audio Production" id="65">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Game Development" id="66">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Photo Editing" id="67">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Strategy" target="Accounting" id="68">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Indie" id="69">
+        <attvalues>
+          <attvalue for="2" value="7620" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="RPG" id="70">
+        <attvalues>
+          <attvalue for="2" value="2410" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Animation &amp; Modeling" id="71">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Video Production" id="72">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Casual" id="73">
+        <attvalues>
+          <attvalue for="2" value="3567" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Simulation" id="74">
+        <attvalues>
+          <attvalue for="2" value="1425" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Racing" id="75">
+        <attvalues>
+          <attvalue for="2" value="195" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Violent" id="76">
+        <attvalues>
+          <attvalue for="2" value="408" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Massively Multiplayer" id="77">
+        <attvalues>
+          <attvalue for="2" value="252" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Nudity" id="78">
+        <attvalues>
+          <attvalue for="2" value="131" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Sports" id="79">
+        <attvalues>
+          <attvalue for="2" value="170" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Early Access" id="80">
+        <attvalues>
+          <attvalue for="2" value="1009" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Gore" id="81">
+        <attvalues>
+          <attvalue for="2" value="294" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Design &amp; Illustration" id="82">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Education" id="83">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Sexual Content" id="84">
+        <attvalues>
+          <attvalue for="2" value="108" />
+        </attvalues>
+      </edge>
+      <edge source="Adventure" target="Accounting" id="85">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="RPG" id="86">
+        <attvalues>
+          <attvalue for="2" value="3217" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Animation &amp; Modeling" id="87">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Video Production" id="88">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Casual" id="89">
+        <attvalues>
+          <attvalue for="2" value="7977" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Simulation" id="90">
+        <attvalues>
+          <attvalue for="2" value="3551" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Racing" id="91">
+        <attvalues>
+          <attvalue for="2" value="666" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Violent" id="92">
+        <attvalues>
+          <attvalue for="2" value="621" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Massively Multiplayer" id="93">
+        <attvalues>
+          <attvalue for="2" value="393" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Nudity" id="94">
+        <attvalues>
+          <attvalue for="2" value="190" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Sports" id="95">
+        <attvalues>
+          <attvalue for="2" value="854" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Early Access" id="96">
+        <attvalues>
+          <attvalue for="2" value="2393" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Gore" id="97">
+        <attvalues>
+          <attvalue for="2" value="435" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Utilities" id="98">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Design &amp; Illustration" id="99">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Web Publishing" id="100">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Education" id="101">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Software Training" id="102">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Sexual Content" id="103">
+        <attvalues>
+          <attvalue for="2" value="182" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Audio Production" id="104">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Game Development" id="105">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Photo Editing" id="106">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Accounting" id="107">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Documentary" id="108">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Indie" target="Tutorial" id="109">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Animation &amp; Modeling" id="110">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Video Production" id="111">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Casual" id="112">
+        <attvalues>
+          <attvalue for="2" value="991" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Simulation" id="113">
+        <attvalues>
+          <attvalue for="2" value="695" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Racing" id="114">
+        <attvalues>
+          <attvalue for="2" value="54" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Violent" id="115">
+        <attvalues>
+          <attvalue for="2" value="144" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Massively Multiplayer" id="116">
+        <attvalues>
+          <attvalue for="2" value="307" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Nudity" id="117">
+        <attvalues>
+          <attvalue for="2" value="62" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Sports" id="118">
+        <attvalues>
+          <attvalue for="2" value="67" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Early Access" id="119">
+        <attvalues>
+          <attvalue for="2" value="666" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Gore" id="120">
+        <attvalues>
+          <attvalue for="2" value="92" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Utilities" id="121">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Design &amp; Illustration" id="122">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Web Publishing" id="123">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Education" id="124">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Software Training" id="125">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Sexual Content" id="126">
+        <attvalues>
+          <attvalue for="2" value="50" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Audio Production" id="127">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Game Development" id="128">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Photo Editing" id="129">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="RPG" target="Accounting" id="130">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Video Production" id="131">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Casual" id="132">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Simulation" id="133">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Early Access" id="134">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Utilities" id="135">
+        <attvalues>
+          <attvalue for="2" value="53" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Design &amp; Illustration" id="136">
+        <attvalues>
+          <attvalue for="2" value="54" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Web Publishing" id="137">
+        <attvalues>
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Education" id="138">
+        <attvalues>
+          <attvalue for="2" value="25" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Software Training" id="139">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Audio Production" id="140">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Game Development" id="141">
+        <attvalues>
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Photo Editing" id="142">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Animation &amp; Modeling" target="Accounting" id="143">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Casual" id="144">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Simulation" id="145">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Violent" id="146">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Early Access" id="147">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Gore" id="148">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Utilities" id="149">
+        <attvalues>
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Design &amp; Illustration" id="150">
+        <attvalues>
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Web Publishing" id="151">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Education" id="152">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Software Training" id="153">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Audio Production" id="154">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Game Development" id="155">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Photo Editing" id="156">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Video Production" target="Accounting" id="157">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Simulation" id="158">
+        <attvalues>
+          <attvalue for="2" value="2275" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Racing" id="159">
+        <attvalues>
+          <attvalue for="2" value="359" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Violent" id="160">
+        <attvalues>
+          <attvalue for="2" value="178" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Massively Multiplayer" id="161">
+        <attvalues>
+          <attvalue for="2" value="191" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Nudity" id="162">
+        <attvalues>
+          <attvalue for="2" value="133" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Sports" id="163">
+        <attvalues>
+          <attvalue for="2" value="578" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Early Access" id="164">
+        <attvalues>
+          <attvalue for="2" value="833" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Gore" id="165">
+        <attvalues>
+          <attvalue for="2" value="99" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Utilities" id="166">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Design &amp; Illustration" id="167">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Web Publishing" id="168">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Education" id="169">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Software Training" id="170">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Sexual Content" id="171">
+        <attvalues>
+          <attvalue for="2" value="131" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Audio Production" id="172">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Game Development" id="173">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Photo Editing" id="174">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Accounting" id="175">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Documentary" id="176">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Casual" target="Tutorial" id="177">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Racing" id="178">
+        <attvalues>
+          <attvalue for="2" value="370" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Violent" id="179">
+        <attvalues>
+          <attvalue for="2" value="129" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Massively Multiplayer" id="180">
+        <attvalues>
+          <attvalue for="2" value="189" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Nudity" id="181">
+        <attvalues>
+          <attvalue for="2" value="57" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Sports" id="182">
+        <attvalues>
+          <attvalue for="2" value="684" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Early Access" id="183">
+        <attvalues>
+          <attvalue for="2" value="863" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Gore" id="184">
+        <attvalues>
+          <attvalue for="2" value="69" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Utilities" id="185">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Design &amp; Illustration" id="186">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Web Publishing" id="187">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Education" id="188">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Software Training" id="189">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Sexual Content" id="190">
+        <attvalues>
+          <attvalue for="2" value="58" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Audio Production" id="191">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Game Development" id="192">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Simulation" target="Accounting" id="193">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Violent" id="194">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Massively Multiplayer" id="195">
+        <attvalues>
+          <attvalue for="2" value="48" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Nudity" id="196">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Sports" id="197">
+        <attvalues>
+          <attvalue for="2" value="348" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Early Access" id="198">
+        <attvalues>
+          <attvalue for="2" value="152" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Gore" id="199">
+        <attvalues>
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Racing" target="Sexual Content" id="200">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Massively Multiplayer" id="201">
+        <attvalues>
+          <attvalue for="2" value="27" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Nudity" id="202">
+        <attvalues>
+          <attvalue for="2" value="98" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Sports" id="203">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Early Access" id="204">
+        <attvalues>
+          <attvalue for="2" value="140" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Gore" id="205">
+        <attvalues>
+          <attvalue for="2" value="447" />
+        </attvalues>
+      </edge>
+      <edge source="Violent" target="Sexual Content" id="206">
+        <attvalues>
+          <attvalue for="2" value="76" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Nudity" id="207">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Sports" id="208">
+        <attvalues>
+          <attvalue for="2" value="49" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Early Access" id="209">
+        <attvalues>
+          <attvalue for="2" value="215" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Gore" id="210">
+        <attvalues>
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Utilities" id="211">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Education" id="212">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Massively Multiplayer" target="Sexual Content" id="213">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Nudity" target="Sports" id="214">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Nudity" target="Early Access" id="215">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Nudity" target="Gore" id="216">
+        <attvalues>
+          <attvalue for="2" value="64" />
+        </attvalues>
+      </edge>
+      <edge source="Nudity" target="Sexual Content" id="217">
+        <attvalues>
+          <attvalue for="2" value="154" />
+        </attvalues>
+      </edge>
+      <edge source="Sports" target="Early Access" id="218">
+        <attvalues>
+          <attvalue for="2" value="224" />
+        </attvalues>
+      </edge>
+      <edge source="Sports" target="Gore" id="219">
+        <attvalues>
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Sports" target="Sexual Content" id="220">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Gore" id="221">
+        <attvalues>
+          <attvalue for="2" value="87" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Utilities" id="222">
+        <attvalues>
+          <attvalue for="2" value="30" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Design &amp; Illustration" id="223">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Web Publishing" id="224">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Education" id="225">
+        <attvalues>
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Software Training" id="226">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Sexual Content" id="227">
+        <attvalues>
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Audio Production" id="228">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Game Development" id="229">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Early Access" target="Accounting" id="230">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gore" target="Sexual Content" id="231">
+        <attvalues>
+          <attvalue for="2" value="43" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Utilities" id="232">
+        <attvalues>
+          <attvalue for="2" value="53" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Web Publishing" id="233">
+        <attvalues>
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Education" id="234">
+        <attvalues>
+          <attvalue for="2" value="27" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Software Training" id="235">
+        <attvalues>
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Audio Production" id="236">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Game Development" id="237">
+        <attvalues>
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Photo Editing" id="238">
+        <attvalues>
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Accounting" id="239">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Documentary" id="240">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Design &amp; Illustration" target="Tutorial" id="241">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Utilities" id="242">
+        <attvalues>
+          <attvalue for="2" value="29" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Web Publishing" id="243">
+        <attvalues>
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Software Training" id="244">
+        <attvalues>
+          <attvalue for="2" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Audio Production" id="245">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Game Development" id="246">
+        <attvalues>
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Photo Editing" id="247">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Education" target="Accounting" id="248">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Utilities" id="249">
+        <attvalues>
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Web Publishing" id="250">
+        <attvalues>
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Software Training" id="251">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Game Development" id="252">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Photo Editing" id="253">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Audio Production" target="Accounting" id="254">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Utilities" target="Web Publishing" id="255">
+        <attvalues>
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Utilities" target="Software Training" id="256">
+        <attvalues>
+          <attvalue for="2" value="26" />
+        </attvalues>
+      </edge>
+      <edge source="Utilities" target="Game Development" id="257">
+        <attvalues>
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Utilities" target="Photo Editing" id="258">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Utilities" target="Accounting" id="259">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Software Training" id="260">
+        <attvalues>
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Game Development" id="261">
+        <attvalues>
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Photo Editing" id="262">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Accounting" id="263">
+        <attvalues>
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Documentary" id="264">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Web Publishing" target="Tutorial" id="265">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Software Training" target="Game Development" id="266">
+        <attvalues>
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Software Training" target="Photo Editing" id="267">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Software Training" target="Accounting" id="268">
+        <attvalues>
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Software Training" target="Documentary" id="269">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Software Training" target="Tutorial" id="270">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Game Development" target="Photo Editing" id="271">
+        <attvalues>
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Game Development" target="Accounting" id="272">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Photo Editing" target="Accounting" id="273">
+        <attvalues>
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Accounting" target="Documentary" id="274">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Accounting" target="Tutorial" id="275">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Documentary" target="Tutorial" id="276">
+        <attvalues>
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

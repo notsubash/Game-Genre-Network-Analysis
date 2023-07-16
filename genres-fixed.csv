@@ -1,0 +1,278 @@
+Source,Target,Type,Id,Label,Weight,MMNT-EdgeType
+Action,Free to Play,Undirected,76418,Genres-Genres,673,Genres<--->Genres
+Action,Strategy,Undirected,76419,Genres-Genres,1505,Genres<--->Genres
+Action,Adventure,Undirected,76420,Genres-Genres,4528,Genres<--->Genres
+Action,Indie,Undirected,76421,Genres-Genres,9184,Genres<--->Genres
+Action,RPG,Undirected,76422,Genres-Genres,1768,Genres<--->Genres
+Action,Animation & Modeling,Undirected,76423,Genres-Genres,1,Genres<--->Genres
+Action,Video Production,Undirected,76424,Genres-Genres,1,Genres<--->Genres
+Action,Casual,Undirected,76425,Genres-Genres,3403,Genres<--->Genres
+Action,Simulation,Undirected,76426,Genres-Genres,1559,Genres<--->Genres
+Action,Racing,Undirected,76427,Genres-Genres,511,Genres<--->Genres
+Action,Violent,Undirected,76428,Genres-Genres,607,Genres<--->Genres
+Action,Massively Multiplayer,Undirected,76429,Genres-Genres,434,Genres<--->Genres
+Action,Nudity,Undirected,76430,Genres-Genres,87,Genres<--->Genres
+Action,Sports,Undirected,76431,Genres-Genres,557,Genres<--->Genres
+Action,Early Access,Undirected,76432,Genres-Genres,1715,Genres<--->Genres
+Action,Gore,Undirected,76433,Genres-Genres,384,Genres<--->Genres
+Action,Design & Illustration,Undirected,76434,Genres-Genres,1,Genres<--->Genres
+Action,Education,Undirected,76435,Genres-Genres,1,Genres<--->Genres
+Action,Sexual Content,Undirected,76436,Genres-Genres,58,Genres<--->Genres
+Action,Audio Production,Undirected,76437,Genres-Genres,1,Genres<--->Genres
+Free to Play,Strategy,Undirected,76438,Genres-Genres,411,Genres<--->Genres
+Free to Play,Adventure,Undirected,76439,Genres-Genres,499,Genres<--->Genres
+Free to Play,Indie,Undirected,76440,Genres-Genres,1079,Genres<--->Genres
+Free to Play,RPG,Undirected,76441,Genres-Genres,380,Genres<--->Genres
+Free to Play,Animation & Modeling,Undirected,76442,Genres-Genres,5,Genres<--->Genres
+Free to Play,Video Production,Undirected,76443,Genres-Genres,2,Genres<--->Genres
+Free to Play,Casual,Undirected,76444,Genres-Genres,660,Genres<--->Genres
+Free to Play,Simulation,Undirected,76445,Genres-Genres,339,Genres<--->Genres
+Free to Play,Racing,Undirected,76446,Genres-Genres,55,Genres<--->Genres
+Free to Play,Violent,Undirected,76447,Genres-Genres,39,Genres<--->Genres
+Free to Play,Massively Multiplayer,Undirected,76448,Genres-Genres,350,Genres<--->Genres
+Free to Play,Nudity,Undirected,76449,Genres-Genres,14,Genres<--->Genres
+Free to Play,Sports,Undirected,76450,Genres-Genres,91,Genres<--->Genres
+Free to Play,Early Access,Undirected,76451,Genres-Genres,241,Genres<--->Genres
+Free to Play,Gore,Undirected,76452,Genres-Genres,22,Genres<--->Genres
+Free to Play,Utilities,Undirected,76453,Genres-Genres,3,Genres<--->Genres
+Free to Play,Design & Illustration,Undirected,76454,Genres-Genres,6,Genres<--->Genres
+Free to Play,Web Publishing,Undirected,76455,Genres-Genres,3,Genres<--->Genres
+Free to Play,Education,Undirected,76456,Genres-Genres,4,Genres<--->Genres
+Free to Play,Software Training,Undirected,76457,Genres-Genres,3,Genres<--->Genres
+Free to Play,Sexual Content,Undirected,76458,Genres-Genres,21,Genres<--->Genres
+Free to Play,Audio Production,Undirected,76459,Genres-Genres,2,Genres<--->Genres
+Free to Play,Game Development,Undirected,76460,Genres-Genres,2,Genres<--->Genres
+Free to Play,Photo Editing,Undirected,76461,Genres-Genres,2,Genres<--->Genres
+Free to Play,Accounting,Undirected,76462,Genres-Genres,2,Genres<--->Genres
+Strategy,Adventure,Undirected,76463,Genres-Genres,1227,Genres<--->Genres
+Strategy,Indie,Undirected,76464,Genres-Genres,3672,Genres<--->Genres
+Strategy,RPG,Undirected,76465,Genres-Genres,1155,Genres<--->Genres
+Strategy,Animation & Modeling,Undirected,76466,Genres-Genres,1,Genres<--->Genres
+Strategy,Video Production,Undirected,76467,Genres-Genres,2,Genres<--->Genres
+Strategy,Casual,Undirected,76468,Genres-Genres,1920,Genres<--->Genres
+Strategy,Simulation,Undirected,76469,Genres-Genres,1623,Genres<--->Genres
+Strategy,Racing,Undirected,76470,Genres-Genres,69,Genres<--->Genres
+Strategy,Violent,Undirected,76471,Genres-Genres,110,Genres<--->Genres
+Strategy,Massively Multiplayer,Undirected,76472,Genres-Genres,218,Genres<--->Genres
+Strategy,Nudity,Undirected,76473,Genres-Genres,20,Genres<--->Genres
+Strategy,Sports,Undirected,76474,Genres-Genres,213,Genres<--->Genres
+Strategy,Early Access,Undirected,76475,Genres-Genres,713,Genres<--->Genres
+Strategy,Gore,Undirected,76476,Genres-Genres,59,Genres<--->Genres
+Strategy,Utilities,Undirected,76477,Genres-Genres,1,Genres<--->Genres
+Strategy,Design & Illustration,Undirected,76478,Genres-Genres,1,Genres<--->Genres
+Strategy,Web Publishing,Undirected,76479,Genres-Genres,1,Genres<--->Genres
+Strategy,Education,Undirected,76480,Genres-Genres,1,Genres<--->Genres
+Strategy,Software Training,Undirected,76481,Genres-Genres,1,Genres<--->Genres
+Strategy,Sexual Content,Undirected,76482,Genres-Genres,19,Genres<--->Genres
+Strategy,Audio Production,Undirected,76483,Genres-Genres,1,Genres<--->Genres
+Strategy,Game Development,Undirected,76484,Genres-Genres,1,Genres<--->Genres
+Strategy,Photo Editing,Undirected,76485,Genres-Genres,1,Genres<--->Genres
+Strategy,Accounting,Undirected,76486,Genres-Genres,1,Genres<--->Genres
+Adventure,Indie,Undirected,76487,Genres-Genres,7620,Genres<--->Genres
+Adventure,RPG,Undirected,76488,Genres-Genres,2410,Genres<--->Genres
+Adventure,Animation & Modeling,Undirected,76489,Genres-Genres,1,Genres<--->Genres
+Adventure,Video Production,Undirected,76490,Genres-Genres,2,Genres<--->Genres
+Adventure,Casual,Undirected,76491,Genres-Genres,3567,Genres<--->Genres
+Adventure,Simulation,Undirected,76492,Genres-Genres,1425,Genres<--->Genres
+Adventure,Racing,Undirected,76493,Genres-Genres,195,Genres<--->Genres
+Adventure,Violent,Undirected,76494,Genres-Genres,408,Genres<--->Genres
+Adventure,Massively Multiplayer,Undirected,76495,Genres-Genres,252,Genres<--->Genres
+Adventure,Nudity,Undirected,76496,Genres-Genres,131,Genres<--->Genres
+Adventure,Sports,Undirected,76497,Genres-Genres,170,Genres<--->Genres
+Adventure,Early Access,Undirected,76498,Genres-Genres,1009,Genres<--->Genres
+Adventure,Gore,Undirected,76499,Genres-Genres,294,Genres<--->Genres
+Adventure,Design & Illustration,Undirected,76500,Genres-Genres,1,Genres<--->Genres
+Adventure,Education,Undirected,76501,Genres-Genres,1,Genres<--->Genres
+Adventure,Sexual Content,Undirected,76502,Genres-Genres,108,Genres<--->Genres
+Adventure,Accounting,Undirected,76503,Genres-Genres,1,Genres<--->Genres
+Indie,RPG,Undirected,76504,Genres-Genres,3217,Genres<--->Genres
+Indie,Animation & Modeling,Undirected,76505,Genres-Genres,8,Genres<--->Genres
+Indie,Video Production,Undirected,76506,Genres-Genres,5,Genres<--->Genres
+Indie,Casual,Undirected,76507,Genres-Genres,7977,Genres<--->Genres
+Indie,Simulation,Undirected,76508,Genres-Genres,3551,Genres<--->Genres
+Indie,Racing,Undirected,76509,Genres-Genres,666,Genres<--->Genres
+Indie,Violent,Undirected,76510,Genres-Genres,621,Genres<--->Genres
+Indie,Massively Multiplayer,Undirected,76511,Genres-Genres,393,Genres<--->Genres
+Indie,Nudity,Undirected,76512,Genres-Genres,190,Genres<--->Genres
+Indie,Sports,Undirected,76513,Genres-Genres,854,Genres<--->Genres
+Indie,Early Access,Undirected,76514,Genres-Genres,2393,Genres<--->Genres
+Indie,Gore,Undirected,76515,Genres-Genres,435,Genres<--->Genres
+Indie,Utilities,Undirected,76516,Genres-Genres,5,Genres<--->Genres
+Indie,Design & Illustration,Undirected,76517,Genres-Genres,6,Genres<--->Genres
+Indie,Web Publishing,Undirected,76518,Genres-Genres,5,Genres<--->Genres
+Indie,Education,Undirected,76519,Genres-Genres,8,Genres<--->Genres
+Indie,Software Training,Undirected,76520,Genres-Genres,4,Genres<--->Genres
+Indie,Sexual Content,Undirected,76521,Genres-Genres,182,Genres<--->Genres
+Indie,Audio Production,Undirected,76522,Genres-Genres,9,Genres<--->Genres
+Indie,Game Development,Undirected,76523,Genres-Genres,1,Genres<--->Genres
+Indie,Photo Editing,Undirected,76524,Genres-Genres,2,Genres<--->Genres
+Indie,Accounting,Undirected,76525,Genres-Genres,4,Genres<--->Genres
+Indie,Documentary,Undirected,76526,Genres-Genres,1,Genres<--->Genres
+Indie,Tutorial,Undirected,76527,Genres-Genres,1,Genres<--->Genres
+RPG,Animation & Modeling,Undirected,76528,Genres-Genres,1,Genres<--->Genres
+RPG,Video Production,Undirected,76529,Genres-Genres,1,Genres<--->Genres
+RPG,Casual,Undirected,76530,Genres-Genres,991,Genres<--->Genres
+RPG,Simulation,Undirected,76531,Genres-Genres,695,Genres<--->Genres
+RPG,Racing,Undirected,76532,Genres-Genres,54,Genres<--->Genres
+RPG,Violent,Undirected,76533,Genres-Genres,144,Genres<--->Genres
+RPG,Massively Multiplayer,Undirected,76534,Genres-Genres,307,Genres<--->Genres
+RPG,Nudity,Undirected,76535,Genres-Genres,62,Genres<--->Genres
+RPG,Sports,Undirected,76536,Genres-Genres,67,Genres<--->Genres
+RPG,Early Access,Undirected,76537,Genres-Genres,666,Genres<--->Genres
+RPG,Gore,Undirected,76538,Genres-Genres,92,Genres<--->Genres
+RPG,Utilities,Undirected,76539,Genres-Genres,2,Genres<--->Genres
+RPG,Design & Illustration,Undirected,76540,Genres-Genres,1,Genres<--->Genres
+RPG,Web Publishing,Undirected,76541,Genres-Genres,1,Genres<--->Genres
+RPG,Education,Undirected,76542,Genres-Genres,1,Genres<--->Genres
+RPG,Software Training,Undirected,76543,Genres-Genres,1,Genres<--->Genres
+RPG,Sexual Content,Undirected,76544,Genres-Genres,50,Genres<--->Genres
+RPG,Audio Production,Undirected,76545,Genres-Genres,1,Genres<--->Genres
+RPG,Game Development,Undirected,76546,Genres-Genres,1,Genres<--->Genres
+RPG,Photo Editing,Undirected,76547,Genres-Genres,1,Genres<--->Genres
+RPG,Accounting,Undirected,76548,Genres-Genres,1,Genres<--->Genres
+Animation & Modeling,Video Production,Undirected,76549,Genres-Genres,19,Genres<--->Genres
+Animation & Modeling,Casual,Undirected,76550,Genres-Genres,9,Genres<--->Genres
+Animation & Modeling,Simulation,Undirected,76551,Genres-Genres,5,Genres<--->Genres
+Animation & Modeling,Early Access,Undirected,76552,Genres-Genres,21,Genres<--->Genres
+Animation & Modeling,Utilities,Undirected,76553,Genres-Genres,53,Genres<--->Genres
+Animation & Modeling,Design & Illustration,Undirected,76554,Genres-Genres,54,Genres<--->Genres
+Animation & Modeling,Web Publishing,Undirected,76555,Genres-Genres,15,Genres<--->Genres
+Animation & Modeling,Education,Undirected,76556,Genres-Genres,25,Genres<--->Genres
+Animation & Modeling,Software Training,Undirected,76557,Genres-Genres,21,Genres<--->Genres
+Animation & Modeling,Audio Production,Undirected,76558,Genres-Genres,7,Genres<--->Genres
+Animation & Modeling,Game Development,Undirected,76559,Genres-Genres,15,Genres<--->Genres
+Animation & Modeling,Photo Editing,Undirected,76560,Genres-Genres,8,Genres<--->Genres
+Animation & Modeling,Accounting,Undirected,76561,Genres-Genres,3,Genres<--->Genres
+Video Production,Casual,Undirected,76562,Genres-Genres,5,Genres<--->Genres
+Video Production,Simulation,Undirected,76563,Genres-Genres,2,Genres<--->Genres
+Video Production,Violent,Undirected,76564,Genres-Genres,1,Genres<--->Genres
+Video Production,Early Access,Undirected,76565,Genres-Genres,6,Genres<--->Genres
+Video Production,Gore,Undirected,76566,Genres-Genres,1,Genres<--->Genres
+Video Production,Utilities,Undirected,76567,Genres-Genres,24,Genres<--->Genres
+Video Production,Design & Illustration,Undirected,76568,Genres-Genres,13,Genres<--->Genres
+Video Production,Web Publishing,Undirected,76569,Genres-Genres,8,Genres<--->Genres
+Video Production,Education,Undirected,76570,Genres-Genres,9,Genres<--->Genres
+Video Production,Software Training,Undirected,76571,Genres-Genres,9,Genres<--->Genres
+Video Production,Audio Production,Undirected,76572,Genres-Genres,7,Genres<--->Genres
+Video Production,Game Development,Undirected,76573,Genres-Genres,3,Genres<--->Genres
+Video Production,Photo Editing,Undirected,76574,Genres-Genres,6,Genres<--->Genres
+Video Production,Accounting,Undirected,76575,Genres-Genres,3,Genres<--->Genres
+Casual,Simulation,Undirected,76576,Genres-Genres,2275,Genres<--->Genres
+Casual,Racing,Undirected,76577,Genres-Genres,359,Genres<--->Genres
+Casual,Violent,Undirected,76578,Genres-Genres,178,Genres<--->Genres
+Casual,Massively Multiplayer,Undirected,76579,Genres-Genres,191,Genres<--->Genres
+Casual,Nudity,Undirected,76580,Genres-Genres,133,Genres<--->Genres
+Casual,Sports,Undirected,76581,Genres-Genres,578,Genres<--->Genres
+Casual,Early Access,Undirected,76582,Genres-Genres,833,Genres<--->Genres
+Casual,Gore,Undirected,76583,Genres-Genres,99,Genres<--->Genres
+Casual,Utilities,Undirected,76584,Genres-Genres,4,Genres<--->Genres
+Casual,Design & Illustration,Undirected,76585,Genres-Genres,8,Genres<--->Genres
+Casual,Web Publishing,Undirected,76586,Genres-Genres,3,Genres<--->Genres
+Casual,Education,Undirected,76587,Genres-Genres,7,Genres<--->Genres
+Casual,Software Training,Undirected,76588,Genres-Genres,3,Genres<--->Genres
+Casual,Sexual Content,Undirected,76589,Genres-Genres,131,Genres<--->Genres
+Casual,Audio Production,Undirected,76590,Genres-Genres,5,Genres<--->Genres
+Casual,Game Development,Undirected,76591,Genres-Genres,1,Genres<--->Genres
+Casual,Photo Editing,Undirected,76592,Genres-Genres,2,Genres<--->Genres
+Casual,Accounting,Undirected,76593,Genres-Genres,4,Genres<--->Genres
+Casual,Documentary,Undirected,76594,Genres-Genres,1,Genres<--->Genres
+Casual,Tutorial,Undirected,76595,Genres-Genres,1,Genres<--->Genres
+Simulation,Racing,Undirected,76596,Genres-Genres,370,Genres<--->Genres
+Simulation,Violent,Undirected,76597,Genres-Genres,129,Genres<--->Genres
+Simulation,Massively Multiplayer,Undirected,76598,Genres-Genres,189,Genres<--->Genres
+Simulation,Nudity,Undirected,76599,Genres-Genres,57,Genres<--->Genres
+Simulation,Sports,Undirected,76600,Genres-Genres,684,Genres<--->Genres
+Simulation,Early Access,Undirected,76601,Genres-Genres,863,Genres<--->Genres
+Simulation,Gore,Undirected,76602,Genres-Genres,69,Genres<--->Genres
+Simulation,Utilities,Undirected,76603,Genres-Genres,2,Genres<--->Genres
+Simulation,Design & Illustration,Undirected,76604,Genres-Genres,4,Genres<--->Genres
+Simulation,Web Publishing,Undirected,76605,Genres-Genres,1,Genres<--->Genres
+Simulation,Education,Undirected,76606,Genres-Genres,4,Genres<--->Genres
+Simulation,Software Training,Undirected,76607,Genres-Genres,1,Genres<--->Genres
+Simulation,Sexual Content,Undirected,76608,Genres-Genres,58,Genres<--->Genres
+Simulation,Audio Production,Undirected,76609,Genres-Genres,3,Genres<--->Genres
+Simulation,Game Development,Undirected,76610,Genres-Genres,1,Genres<--->Genres
+Simulation,Accounting,Undirected,76611,Genres-Genres,1,Genres<--->Genres
+Racing,Violent,Undirected,76612,Genres-Genres,19,Genres<--->Genres
+Racing,Massively Multiplayer,Undirected,76613,Genres-Genres,48,Genres<--->Genres
+Racing,Nudity,Undirected,76614,Genres-Genres,2,Genres<--->Genres
+Racing,Sports,Undirected,76615,Genres-Genres,348,Genres<--->Genres
+Racing,Early Access,Undirected,76616,Genres-Genres,152,Genres<--->Genres
+Racing,Gore,Undirected,76617,Genres-Genres,12,Genres<--->Genres
+Racing,Sexual Content,Undirected,76618,Genres-Genres,2,Genres<--->Genres
+Violent,Massively Multiplayer,Undirected,76619,Genres-Genres,27,Genres<--->Genres
+Violent,Nudity,Undirected,76620,Genres-Genres,98,Genres<--->Genres
+Violent,Sports,Undirected,76621,Genres-Genres,21,Genres<--->Genres
+Violent,Early Access,Undirected,76622,Genres-Genres,140,Genres<--->Genres
+Violent,Gore,Undirected,76623,Genres-Genres,447,Genres<--->Genres
+Violent,Sexual Content,Undirected,76624,Genres-Genres,76,Genres<--->Genres
+Massively Multiplayer,Nudity,Undirected,76625,Genres-Genres,3,Genres<--->Genres
+Massively Multiplayer,Sports,Undirected,76626,Genres-Genres,49,Genres<--->Genres
+Massively Multiplayer,Early Access,Undirected,76627,Genres-Genres,215,Genres<--->Genres
+Massively Multiplayer,Gore,Undirected,76628,Genres-Genres,13,Genres<--->Genres
+Massively Multiplayer,Utilities,Undirected,76629,Genres-Genres,1,Genres<--->Genres
+Massively Multiplayer,Education,Undirected,76630,Genres-Genres,1,Genres<--->Genres
+Massively Multiplayer,Sexual Content,Undirected,76631,Genres-Genres,1,Genres<--->Genres
+Nudity,Sports,Undirected,76632,Genres-Genres,1,Genres<--->Genres
+Nudity,Early Access,Undirected,76633,Genres-Genres,20,Genres<--->Genres
+Nudity,Gore,Undirected,76634,Genres-Genres,64,Genres<--->Genres
+Nudity,Sexual Content,Undirected,76635,Genres-Genres,154,Genres<--->Genres
+Sports,Early Access,Undirected,76636,Genres-Genres,224,Genres<--->Genres
+Sports,Gore,Undirected,76637,Genres-Genres,10,Genres<--->Genres
+Sports,Sexual Content,Undirected,76638,Genres-Genres,2,Genres<--->Genres
+Early Access,Gore,Undirected,76639,Genres-Genres,87,Genres<--->Genres
+Early Access,Utilities,Undirected,76640,Genres-Genres,30,Genres<--->Genres
+Early Access,Design & Illustration,Undirected,76641,Genres-Genres,19,Genres<--->Genres
+Early Access,Web Publishing,Undirected,76642,Genres-Genres,3,Genres<--->Genres
+Early Access,Education,Undirected,76643,Genres-Genres,10,Genres<--->Genres
+Early Access,Software Training,Undirected,76644,Genres-Genres,5,Genres<--->Genres
+Early Access,Sexual Content,Undirected,76645,Genres-Genres,9,Genres<--->Genres
+Early Access,Audio Production,Undirected,76646,Genres-Genres,6,Genres<--->Genres
+Early Access,Game Development,Undirected,76647,Genres-Genres,3,Genres<--->Genres
+Early Access,Accounting,Undirected,76648,Genres-Genres,1,Genres<--->Genres
+Gore,Sexual Content,Undirected,76649,Genres-Genres,43,Genres<--->Genres
+Utilities,Design & Illustration,Undirected,76650,Genres-Genres,53,Genres<--->Genres
+Utilities,Web Publishing,Undirected,76651,Genres-Genres,19,Genres<--->Genres
+Utilities,Education,Undirected,76652,Genres-Genres,29,Genres<--->Genres
+Utilities,Software Training,Undirected,76653,Genres-Genres,26,Genres<--->Genres
+Utilities,Audio Production,Undirected,76654,Genres-Genres,17,Genres<--->Genres
+Utilities,Game Development,Undirected,76655,Genres-Genres,12,Genres<--->Genres
+Utilities,Photo Editing,Undirected,76656,Genres-Genres,8,Genres<--->Genres
+Utilities,Accounting,Undirected,76657,Genres-Genres,4,Genres<--->Genres
+Design & Illustration,Web Publishing,Undirected,76658,Genres-Genres,21,Genres<--->Genres
+Design & Illustration,Education,Undirected,76659,Genres-Genres,27,Genres<--->Genres
+Design & Illustration,Software Training,Undirected,76660,Genres-Genres,20,Genres<--->Genres
+Design & Illustration,Audio Production,Undirected,76661,Genres-Genres,6,Genres<--->Genres
+Design & Illustration,Game Development,Undirected,76662,Genres-Genres,16,Genres<--->Genres
+Design & Illustration,Photo Editing,Undirected,76663,Genres-Genres,11,Genres<--->Genres
+Design & Illustration,Accounting,Undirected,76664,Genres-Genres,4,Genres<--->Genres
+Design & Illustration,Documentary,Undirected,76665,Genres-Genres,1,Genres<--->Genres
+Design & Illustration,Tutorial,Undirected,76666,Genres-Genres,1,Genres<--->Genres
+Web Publishing,Education,Undirected,76667,Genres-Genres,13,Genres<--->Genres
+Web Publishing,Software Training,Undirected,76668,Genres-Genres,12,Genres<--->Genres
+Web Publishing,Audio Production,Undirected,76669,Genres-Genres,6,Genres<--->Genres
+Web Publishing,Game Development,Undirected,76670,Genres-Genres,7,Genres<--->Genres
+Web Publishing,Photo Editing,Undirected,76671,Genres-Genres,4,Genres<--->Genres
+Web Publishing,Accounting,Undirected,76672,Genres-Genres,4,Genres<--->Genres
+Web Publishing,Documentary,Undirected,76673,Genres-Genres,1,Genres<--->Genres
+Web Publishing,Tutorial,Undirected,76674,Genres-Genres,1,Genres<--->Genres
+Education,Software Training,Undirected,76675,Genres-Genres,26,Genres<--->Genres
+Education,Audio Production,Undirected,76676,Genres-Genres,5,Genres<--->Genres
+Education,Game Development,Undirected,76677,Genres-Genres,10,Genres<--->Genres
+Education,Photo Editing,Undirected,76678,Genres-Genres,4,Genres<--->Genres
+Education,Accounting,Undirected,76679,Genres-Genres,4,Genres<--->Genres
+Software Training,Audio Production,Undirected,76680,Genres-Genres,5,Genres<--->Genres
+Software Training,Game Development,Undirected,76681,Genres-Genres,8,Genres<--->Genres
+Software Training,Photo Editing,Undirected,76682,Genres-Genres,5,Genres<--->Genres
+Software Training,Accounting,Undirected,76683,Genres-Genres,5,Genres<--->Genres
+Software Training,Documentary,Undirected,76684,Genres-Genres,1,Genres<--->Genres
+Software Training,Tutorial,Undirected,76685,Genres-Genres,1,Genres<--->Genres
+Audio Production,Game Development,Undirected,76686,Genres-Genres,1,Genres<--->Genres
+Audio Production,Photo Editing,Undirected,76687,Genres-Genres,3,Genres<--->Genres
+Audio Production,Accounting,Undirected,76688,Genres-Genres,3,Genres<--->Genres
+Game Development,Photo Editing,Undirected,76689,Genres-Genres,2,Genres<--->Genres
+Game Development,Accounting,Undirected,76690,Genres-Genres,1,Genres<--->Genres
+Photo Editing,Accounting,Undirected,76691,Genres-Genres,3,Genres<--->Genres
+Accounting,Documentary,Undirected,76692,Genres-Genres,1,Genres<--->Genres
+Accounting,Tutorial,Undirected,76693,Genres-Genres,1,Genres<--->Genres
+Documentary,Tutorial,Undirected,76694,Genres-Genres,1,Genres<--->Genres

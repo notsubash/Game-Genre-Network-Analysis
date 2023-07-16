@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1517.5537"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-752.000000 -733.000000 1517.553711 1473.000000" height="1473.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Action"
+              d="M 213.934845,390.100311 A 293.057468,293.057468 0,0 1,358.065857,520.345459"
+              stroke="#d7191c" stroke-width="9184.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Casual"
+              d="M 95.105705,465.427765 A 327.362785,327.362785 0,0 1,-69.034515,642.800964"
+              stroke="#d7191c" stroke-width="7977.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Adventure"
+              d="M 55.788448,447.222107 A 474.791292,474.791292 0,0 1,-339.766052,593.068359"
+              stroke="#d7191c" stroke-width="7620.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Simulation"
+              d="M 24.935146,408.007507 A 248.037862,248.037862 0,0 1,-130.072281,391.167114"
+              stroke="#e6735b" stroke-width="3551.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Strategy"
+              d="M 198.278610,310.229736 A 220.532065,220.532065 0,0 1,320.369385,297.734253"
+              stroke="#e46652" stroke-width="3672.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_RPG"
+              d="M 198.662140,310.779297 A 426.711816,426.711816 0,0 1,576.634399,299.625366"
+              stroke="#ec9675" stroke-width="3217.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Early_Access"
+              d="M 160.798019,457.373260 A 251.110347,251.110347 0,0 1,147.895630,622.778320"
+              stroke="#fceeb2" stroke-width="2393.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Free_to_Play"
+              d="M 163.221939,279.339020 A 509.888540,509.888540 0,0 1,594.729065,50.933826"
+              stroke="#91baba" stroke-width="1079.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Sports"
+              d="M 17.407413,381.412933 A 442.650841,442.650841 0,0 1,-349.077637,202.142288"
+              stroke="#7cadb9" stroke-width="854.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Racing"
+              d="M 39.805710,303.526001 A 236.668158,236.668158 0,0 1,-9.972387,154.901184"
+              stroke="#6aa2b8" stroke-width="666.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Violent"
+              d="M 19.400545,391.776947 A 697.737501,697.737501 0,0 1,-649.808594,133.015320"
+              stroke="#669fb8" stroke-width="621.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Massively_Multiplayer"
+              d="M 122.782127,267.935638 A 269.878224,269.878224 0,0 1,238.820663,107.272789"
+              stroke="#5192b7" stroke-width="393.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Gore"
+              d="M 32.384941,421.866364 A 600.026221,600.026221 0,0 1,-567.944763,400.425537"
+              stroke="#5594b7" stroke-width="435.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Nudity"
+              d="M 16.469505,367.138428 A 828.846250,828.846250 0,0 1,-695.777893,-146.190811"
+              stroke="#3d86b6" stroke-width="190.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Sexual_Content"
+              d="M 23.152300,331.788452 A 466.005027,466.005027 0,0 1,-226.719208,-30.450668"
+              stroke="#3d85b6" stroke-width="182.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Utilities"
+              d="M 69.831985,279.276428 A 672.522861,672.522861 0,0 1,158.198517,-405.524384"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Design_&amp;_Illustration"
+              d="M 37.742474,306.072998 A 678.062463,678.062463 0,0 1,-163.338516,-361.485565"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Animation_&amp;_Modeling"
+              d="M 55.908577,288.158508 A 439.738701,439.738701 0,0 1,34.295868,-120.271233"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Education"
+              d="M 19.829365,342.025604 A 679.045841,679.045841 0,0 1,-428.467682,-193.598526"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Video_Production"
+              d="M 110.894745,267.891510 A 531.577229,531.577229 0,0 1,382.931732,-175.809784"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Software_Training"
+              d="M 77.693024,275.559509 A 866.770901,866.770901 0,0 1,281.426483,-626.395935"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Web_Publishing"
+              d="M 34.708763,310.155945 A 890.902471,890.902471 0,0 1,-279.960144,-590.200134"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Audio_Production"
+              d="M 105.169044,268.376434 A 758.206299,758.206299 0,0 1,488.525085,-426.967804"
+              stroke="#2c7bb6" stroke-width="9.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Game_Development"
+              d="M 52.590942,290.796112 A 889.215561,889.215561 0,0 1,-15.799553,-658.522583"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Indie id_Photo_Editing"
+              d="M 22.415712,333.762268 A 882.814703,882.814703 0,0 1,-513.251892,-443.663086"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Accounting"
+              d="M 138.506012,270.194733 A 687.612125,687.612125 0,0 1,664.836243,-204.802780"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Casual"
+              d="M 325.650574,643.755981 A 441.083560,441.083560 0,0 1,-71.404274,696.791504"
+              stroke="#e98267" stroke-width="3403.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Adventure"
+              d="M 319.816162,635.753601 A 665.484542,665.484542 0,0 1,-351.662720,621.588379"
+              stroke="#d7191c" stroke-width="4528.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Simulation"
+              d="M 308.760498,607.361389 A 511.093374,511.093374 0,0 1,-147.570480,409.493256"
+              stroke="#bfd7bc" stroke-width="1559.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Strategy"
+              d="M 347.722198,525.174072 A 231.762381,231.762381 0,0 1,348.916290,367.484375"
+              stroke="#bad3bc" stroke-width="1505.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_RPG"
+              d="M 403.271271,517.138123 A 299.548226,299.548226 0,0 1,572.091797,343.109375"
+              stroke="#d3e3bd" stroke-width="1768.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Early_Access"
+              d="M 328.550415,647.054504 A 229.293585,229.293585 0,0 1,173.031784,682.191284"
+              stroke="#cee0bc" stroke-width="1715.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Free_to_Play"
+              d="M 376.396149,515.796997 A 497.838115,497.838115 0,0 1,601.143494,77.497353"
+              stroke="#6ba2b8" stroke-width="673.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Sports"
+              d="M 307.773926,599.549500 A 727.552207,727.552207 0,0 1,-354.657654,205.299988"
+              stroke="#609bb8" stroke-width="557.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Racing"
+              d="M 311.577179,568.834351 A 517.654195,517.654195 0,0 1,-1.719553,155.013031"
+              stroke="#5c99b8" stroke-width="511.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Violent"
+              d="M 308.629730,606.603821 A 976.834475,976.834475 0,0 1,-654.180603,135.826080"
+              stroke="#659eb8" stroke-width="607.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Massively_Multiplayer"
+              d="M 331.752716,536.978027 A 431.982100,431.982100 0,0 1,261.165436,127.362320"
+              stroke="#5494b7" stroke-width="434.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Gore"
+              d="M 313.170135,622.792847 A 844.233823,844.233823 0,0 1,-574.647461,408.145081"
+              stroke="#5091b7" stroke-width="384.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Nudity"
+              d="M 307.554138,592.939819 A 1120.630347,1120.630347 0,0 1,-697.134460,-145.702164"
+              stroke="#3480b6" stroke-width="87.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Sexual_Content"
+              d="M 309.664185,575.556946 A 755.244975,755.244975 0,0 1,-224.153473,-30.705811"
+              stroke="#317eb6" stroke-width="58.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Design_&amp;_Illustration"
+              d="M 316.147217,557.939880 A 941.926944,941.926944 0,0 1,-157.363968,-360.265594"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Animation_&amp;_Modeling"
+              d="M 319.802917,551.548157 A 683.697483,683.697483 0,0 1,44.950581,-116.547142"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Education"
+              d="M 308.917206,579.065186 A 970.314598,970.314598 0,0 1,-427.236450,-193.775238"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Video_Production"
+              d="M 345.503571,526.461914 A 656.957219,656.957219 0,0 1,394.251038,-162.204132"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Action id_Audio_Production"
+              d="M 350.692078,523.596985 A 873.788621,873.788621 0,0 1,496.502319,-416.558319"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Adventure"
+              d="M -210.275467,680.061768 A 239.838985,239.838985 0,0 1,-360.780579,632.384888"
+              stroke="#e6715a" stroke-width="3567.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Simulation"
+              d="M -181.972794,608.053955 A 258.169444,258.169444 0,0 1,-203.734909,415.305267"
+              stroke="#fefabb" stroke-width="2275.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Strategy"
+              d="M -109.791214,599.311218 A 518.847534,518.847534 0,0 1,317.539490,316.403931"
+              stroke="#e1ecbd" stroke-width="1920.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_RPG"
+              d="M -99.222321,604.816956 A 697.706475,697.706475 0,0 1,570.700745,316.373718"
+              stroke="#89b5b9" stroke-width="991.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Early_Access"
+              d="M -72.759979,633.974731 A 216.337323,216.337323 0,0 1,75.311935,642.141968"
+              stroke="#7aacb9" stroke-width="833.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Free_to_Play"
+              d="M -116.218170,596.950134 A 826.661802,826.661802 0,0 1,594.710388,56.077488"
+              stroke="#6aa1b8" stroke-width="660.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Sports"
+              d="M -199.999664,627.434143 A 462.655672,462.655672 0,0 1,-381.231110,209.166626"
+              stroke="#629db8" stroke-width="578.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Racing"
+              d="M -162.082413,597.553101 A 476.134777,476.134777 0,0 1,-37.796177,140.774368"
+              stroke="#4d90b7" stroke-width="359.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Violent"
+              d="M -209.607346,650.336548 A 652.735824,652.735824 0,0 1,-669.421875,141.044022"
+              stroke="#3c85b6" stroke-width="178.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Massively_Multiplayer"
+              d="M -135.310486,593.621094 A 594.708686,594.708686 0,0 1,236.247543,101.435875"
+              stroke="#3d86b6" stroke-width="191.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Gore"
+              d="M -211.483032,667.188477 A 457.098320,457.098320 0,0 1,-586.140686,415.615479"
+              stroke="#3580b6" stroke-width="99.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Nudity"
+              d="M -206.298630,639.741516 A 855.083177,855.083177 0,0 1,-711.633484,-143.505951"
+              stroke="#3882b6" stroke-width="133.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Sexual_Content"
+              d="M -185.836334,611.137817 A 620.017879,620.017879 0,0 1,-248.820526,-35.154507"
+              stroke="#3882b6" stroke-width="131.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Utilities"
+              d="M -161.346146,597.303955 A 957.824364,957.824364 0,0 1,152.338531,-411.582977"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Design_&amp;_Illustration"
+              d="M -180.526520,607.004578 A 889.307623,889.307623 0,0 1,-175.327057,-367.164459"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Animation_&amp;_Modeling"
+              d="M -164.268906,598.344971 A 703.989942,703.989942 0,0 1,22.692961,-129.273026"
+              stroke="#2c7bb6" stroke-width="9.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Education"
+              d="M -196.248291,622.091187 A 789.573333,789.573333 0,0 1,-445.483673,-195.082596"
+              stroke="#2c7bb6" stroke-width="7.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Video_Production"
+              d="M -140.169937,593.588196 A 854.396532,854.396532 0,0 1,381.365509,-179.279434"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Software_Training"
+              d="M -158.798538,596.508118 A 1162.561396,1162.561396 0,0 1,277.705078,-630.904968"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Web_Publishing"
+              d="M -186.041489,611.313843 A 1085.453143,1085.453143 0,0 1,-290.051453,-594.317749"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Audio_Production"
+              d="M -143.559296,593.756348 A 1078.931944,1078.931944 0,0 1,487.127136,-429.867340"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Game_Development"
+              d="M -173.815552,602.784485 A 1139.661413,1139.661413 0,0 1,-22.772858,-663.529419"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Casual id_Photo_Editing"
+              d="M -196.636261,622.598999 A 1008.558106,1008.558106 0,0 1,-526.044983,-445.541321"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Casual id_Accounting"
+              d="M -126.758362,594.467468 A 1014.126445,1014.126445 0,0 1,664.965820,-204.060410"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Simulation"
+              d="M -390.058624,508.992920 A 265.784113,265.784113 0,0 1,-239.308380,373.508759"
+              stroke="#b2cfbb" stroke-width="1425.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Strategy"
+              d="M -367.249512,520.950745 A 692.807335,692.807335 0,0 1,319.785461,299.651489"
+              stroke="#9fc3ba" stroke-width="1227.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_RPG"
+              d="M -363.127716,524.381165 A 891.351588,891.351588 0,0 1,573.661743,306.026245"
+              stroke="#fbecb1" stroke-width="2410.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Early_Access"
+              d="M -344.209290,551.002991 A 451.076134,451.076134 0,0 1,82.364395,632.660400"
+              stroke="#8bb6ba" stroke-width="1009.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Free_to_Play"
+              d="M -376.865479,514.649963 A 981.603863,981.603863 0,0 1,595.225220,46.343235"
+              stroke="#5b98b8" stroke-width="499.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_Sports"
+              d="M -444.308868,512.716553 A 347.482362,347.482362 0,0 1,-402.420990,199.889206"
+              stroke="#3b84b6" stroke-width="170.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_Racing"
+              d="M -401.875580,506.278015 A 517.185089,517.185089 0,0 1,-47.852806,122.206924"
+              stroke="#3e86b6" stroke-width="195.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_Violent"
+              d="M -477.092438,543.489929 A 457.937553,457.937553 0,0 1,-680.121216,141.321609"
+              stroke="#5293b7" stroke-width="408.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Massively_Multiplayer"
+              d="M -386.451752,510.243256 A 706.529716,706.529716 0,0 1,233.709717,87.079193"
+              stroke="#4389b7" stroke-width="252.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_Gore"
+              d="M -482.388916,555.339844 A 232.399232,232.399232 0,0 1,-594.818970,418.394867"
+              stroke="#478cb7" stroke-width="294.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Adventure id_Nudity"
+              d="M -473.113617,537.128418 A 683.683088,683.683088 0,0 1,-720.389282,-144.691391"
+              stroke="#3882b6" stroke-width="131.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Sexual_Content"
+              d="M -434.606171,508.903900 A 563.574603,563.574603 0,0 1,-261.318176,-45.344921"
+              stroke="#3681b6" stroke-width="108.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Design_&amp;_Illustration"
+              d="M -437.150818,509.752869 A 844.750587,844.750587 0,0 1,-183.361954,-374.551544"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Animation_&amp;_Modeling"
+              d="M -414.581024,505.544891 A 725.309572,725.309572 0,0 1,15.521484,-140.725250"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Education"
+              d="M -455.138885,519.060486 A 677.691674,677.691674 0,0 1,-455.858734,-200.023911"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Video_Production"
+              d="M -396.556030,507.247864 A 946.160749,946.160749 0,0 1,378.879028,-188.941605"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adventure id_Accounting"
+              d="M -387.556519,509.838043 A 1140.340633,1140.340633 0,0 1,664.304993,-211.704697"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Strategy"
+              d="M -133.797958,323.397552 A 465.645784,465.645784 0,0 1,324.725128,287.632813"
+              stroke="#c5dabc" stroke-width="1623.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Simulation id_RPG"
+              d="M -133.130066,324.277313 A 673.869144,673.869144 0,0 1,578.464844,296.489197"
+              stroke="#6da4b8" stroke-width="695.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Early_Access"
+              d="M -122.948708,373.947327 A 360.339723,360.339723 0,0 1,110.497147,616.824524"
+              stroke="#7dadb9" stroke-width="863.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Free_to_Play"
+              d="M -146.744949,311.043396 A 731.529105,731.529105 0,0 1,596.166382,41.837704"
+              stroke="#4b8eb7" stroke-width="339.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Simulation id_Sports"
+              d="M -238.539932,343.496735 A 229.132224,229.132224 0,0 1,-363.633606,208.469681"
+              stroke="#6ca3b8" stroke-width="684.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Simulation id_Racing"
+              d="M -175.726608,300.442169 A 253.910156,253.910156 0,0 1,-45.810097,128.238281"
+              stroke="#4e90b7" stroke-width="370.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Violent"
+              d="M -240.609482,365.433472 A 466.895937,466.895937 0,0 1,-655.194275,136.379379"
+              stroke="#3882b6" stroke-width="129.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Massively_Multiplayer"
+              d="M -154.688675,306.341431 A 444.827049,444.827049 0,0 1,233.779282,84.255035"
+              stroke="#3d86b6" stroke-width="189.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Simulation id_Gore"
+              d="M -230.511444,393.600189 A 352.292848,352.292848 0,0 1,-566.740967,398.546722"
+              stroke="#327fb6" stroke-width="69.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Simulation id_Nudity"
+              d="M -239.624451,347.900421 A 633.099035,633.099035 0,0 1,-703.881958,-144.020340"
+              stroke="#317eb6" stroke-width="57.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Sexual_Content"
+              d="M -218.321121,313.221741 A 361.903240,361.903240 0,0 1,-248.363007,-34.915737"
+              stroke="#317eb6" stroke-width="58.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Utilities"
+              d="M -191.345520,301.090820 A 730.140759,730.140759 0,0 1,149.197571,-416.228241"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Design_&amp;_Illustration"
+              d="M -212.756622,309.286469 A 633.994675,633.994675 0,0 1,-176.692673,-368.157196"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Animation_&amp;_Modeling"
+              d="M -190.286041,300.915863 A 472.165102,472.165102 0,0 1,18.307928,-135.209869"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Education"
+              d="M -231.059204,327.187622 A 537.447183,537.447183 0,0 1,-441.700592,-194.106720"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Video_Production"
+              d="M -167.712311,301.715240 A 680.393395,680.393395 0,0 1,378.902679,-188.759964"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Software_Training"
+              d="M -190.621674,300.969177 A 939.136112,939.136112 0,0 1,275.163483,-634.983826"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Web_Publishing"
+              d="M -219.453323,314.146362 A 827.520566,827.520566 0,0 1,-290.256256,-594.436768"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Audio_Production"
+              d="M -174.587448,300.555511 A 892.191228,892.191228 0,0 1,484.886383,-436.628662"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Game_Development"
+              d="M -206.328232,305.797150 A 891.234502,891.234502 0,0 1,-24.649940,-665.322388"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Simulation id_Accounting"
+              d="M -158.441895,304.653015 A 878.080308,878.080308 0,0 1,664.348511,-213.218857"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_RPG"
+              d="M 428.298126,289.822571 A 209.327969,209.327969 0,0 1,578.188904,296.933777"
+              stroke="#99bfba" stroke-width="1155.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Early_Access"
+              d="M 372.355438,374.002686 A 362.905106,362.905106 0,0 1,170.947998,649.426331"
+              stroke="#6fa5b8" stroke-width="713.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Free_to_Play"
+              d="M 389.983063,259.014160 A 310.941735,310.941735 0,0 1,595.685852,63.487206"
+              stroke="#5293b7" stroke-width="411.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Sports"
+              d="M 322.111389,338.369598 A 637.727483,637.727483 0,0 1,-342.761719,197.090622"
+              stroke="#4087b6" stroke-width="213.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Racing"
+              d="M 317.677856,319.784698 A 360.512605,360.512605 0,0 1,15.688807,149.854248"
+              stroke="#327fb6" stroke-width="69.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Violent"
+              d="M 322.284912,338.777405 A 895.254990,895.254990 0,0 1,-645.802429,129.718018"
+              stroke="#3681b6" stroke-width="110.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Massively_Multiplayer"
+              d="M 329.881470,279.793945 A 207.696245,207.696245 0,0 1,271.727631,130.136795"
+              stroke="#4087b6" stroke-width="218.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Gore"
+              d="M 330.146240,351.957031 A 817.772591,817.772591 0,0 1,-567.001038,398.971222"
+              stroke="#317eb6" stroke-width="59.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Nudity"
+              d="M 318.504425,326.302277 A 996.846884,996.846884 0,0 1,-690.046082,-148.887283"
+              stroke="#2d7cb6" stroke-width="20.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Sexual_Content"
+              d="M 317.554535,317.204285 A 598.943458,598.943458 0,0 1,-213.737183,-33.493649"
+              stroke="#2d7cb6" stroke-width="19.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Utilities"
+              d="M 332.137054,277.074829 A 646.862513,646.862513 0,0 1,169.800232,-398.726685"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Design_&amp;_Illustration"
+              d="M 320.706482,296.723511 A 741.462424,741.462424 0,0 1,-151.528183,-359.954865"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Animation_&amp;_Modeling"
+              d="M 321.878601,293.605408 A 476.547375,476.547375 0,0 1,52.768944,-115.776619"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Education"
+              d="M 317.539246,316.383026 A 815.176257,815.176257 0,0 1,-419.556488,-195.793121"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Video_Production"
+              d="M 348.386322,264.209625 A 426.270735,426.270735 0,0 1,393.443787,-162.840088"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Software_Training"
+              d="M 339.449615,270.104248 A 810.046456,810.046456 0,0 1,289.419586,-619.937317"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Web_Publishing"
+              d="M 321.242706,295.229645 A 953.720970,953.720970 0,0 1,-270.906219,-588.952454"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Audio_Production"
+              d="M 352.851318,262.059021 A 646.452204,646.452204 0,0 1,495.021667,-418.018494"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Game_Development"
+              d="M 327.958435,282.406860 A 896.221786,896.221786 0,0 1,-6.665650,-654.750549"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Photo_Editing"
+              d="M 317.939392,308.848938 A 996.818401,996.818401 0,0 1,-505.355225,-444.583099"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Strategy id_Accounting"
+              d="M 374.198914,257.327087 A 517.452626,517.452626 0,0 1,667.598389,-195.413254"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Early_Access"
+              d="M 605.238159,379.751251 A 508.703237,508.703237 0,0 1,174.681458,668.817505"
+              stroke="#6aa2b8" stroke-width="666.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Free_to_Play"
+              d="M 601.304810,275.743561 A 227.977896,227.977896 0,0 1,615.310120,92.567528"
+              stroke="#4f91b7" stroke-width="380.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Sports"
+              d="M 575.388672,351.646698 A 845.168373,845.168373 0,0 1,-341.808716,196.150742"
+              stroke="#327eb6" stroke-width="67.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Racing"
+              d="M 571.701172,341.729156 A 556.609729,556.609729 0,0 1,20.962126,146.497101"
+              stroke="#317eb6" stroke-width="54.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Violent"
+              d="M 575.251404,351.359528 A 1102.402605,1102.402605 0,0 1,-644.977722,128.934067"
+              stroke="#3983b6" stroke-width="144.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Massively_Multiplayer"
+              d="M 569.776306,324.594116 A 353.295910,353.295910 0,0 1,294.008728,127.275955"
+              stroke="#488db7" stroke-width="307.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Gore"
+              d="M 581.588806,361.708527 A 1026.161357,1026.161357 0,0 1,-567.625122,399.947235"
+              stroke="#3480b6" stroke-width="92.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Nudity"
+              d="M 571.566711,341.220947 A 1193.286289,1193.286289 0,0 1,-687.822937,-150.243393"
+              stroke="#317eb6" stroke-width="62.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Sexual_Content"
+              d="M 570.572266,336.620911 A 787.128366,787.128366 0,0 1,-209.096802,-35.765804"
+              stroke="#307db6" stroke-width="50.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Utilities"
+              d="M 575.188416,302.482208 A 735.359824,735.359824 0,0 1,180.468323,-396.268097"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Design_&amp;_Illustration"
+              d="M 570.287048,318.905670 A 888.134934,888.134934 0,0 1,-144.331360,-360.744232"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Animation_&amp;_Modeling"
+              d="M 570.026428,321.056549 A 625.178605,625.178605 0,0 1,63.166557,-117.133369"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Education"
+              d="M 570.205078,334.195923 A 999.487163,999.487163 0,0 1,-415.668152,-197.476578"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Video_Production"
+              d="M 579.980408,294.196747 A 467.466209,467.466209 0,0 1,409.903290,-154.885590"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Software_Training"
+              d="M 581.336182,292.330872 A 858.973253,858.973253 0,0 1,298.274597,-615.879517"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Web_Publishing"
+              d="M 570.869934,315.504272 A 1092.318886,1092.318886 0,0 1,-264.856689,-589.272278"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Audio_Production"
+              d="M 588.685547,284.340790 A 649.574610,649.574610 0,0 1,505.376801,-410.272186"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RPG id_Game_Development"
+              d="M 574.418884,304.186279 A 996.148235,996.148235 0,0 1,0.928614,-653.434509"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Photo_Editing"
+              d="M 569.731689,326.926270 A 1166.185053,1166.185053 0,0 1,-501.068268,-445.774628"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Accounting"
+              d="M 602.671082,275.082245 A 453.088259,453.088259 0,0 1,677.266113,-181.833084"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Free_to_Play"
+              d="M 126.578613,615.962463 A 671.488824,671.488824 0,0 1,596.231506,65.761223"
+              stroke="#4289b6" stroke-width="241.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Sports"
+              d="M 69.061653,658.626221 A 589.470802,589.470802 0,0 1,-366.451202,209.049362"
+              stroke="#4188b6" stroke-width="224.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Racing"
+              d="M 82.712486,632.290710 A 476.729260,476.729260 0,0 1,-21.338827,152.109970"
+              stroke="#3a83b6" stroke-width="152.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Violent"
+              d="M 68.040489,668.426453 A 817.605762,817.605762 0,0 1,-661.463196,139.099625"
+              stroke="#3983b6" stroke-width="140.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Massively_Multiplayer"
+              d="M 104.158989,618.556824 A 502.375417,502.375417 0,0 1,244.254532,115.240585"
+              stroke="#4087b6" stroke-width="215.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Early_Access id_Gore"
+              d="M 69.308029,680.601318 A 651.452763,651.452763 0,0 1,-580.089722,412.338562"
+              stroke="#3480b6" stroke-width="87.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Nudity"
+              d="M 68.916191,659.386292 A 993.437257,993.437257 0,0 1,-704.314087,-143.952850"
+              stroke="#2d7cb6" stroke-width="20.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Sexual_Content"
+              d="M 75.189224,642.353271 A 682.941562,682.941562 0,0 1,-236.526291,-30.956312"
+              stroke="#2c7bb6" stroke-width="9.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Utilities"
+              d="M 93.130371,623.791687 A 922.716536,922.716536 0,0 1,158.793198,-405.035706"
+              stroke="#2e7cb6" stroke-width="30.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Design_&amp;_Illustration"
+              d="M 80.773758,634.444458 A 919.799361,919.799361 0,0 1,-166.926300,-362.690765"
+              stroke="#2d7cb6" stroke-width="19.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Animation_&amp;_Modeling"
+              d="M 87.510185,627.828064 A 689.972863,689.972863 0,0 1,32.365276,-121.336037"
+              stroke="#2d7cb6" stroke-width="21.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Education"
+              d="M 72.376358,647.959167 A 882.882147,882.882147 0,0 1,-436.352295,-193.371307"
+              stroke="#2c7bb6" stroke-width="10.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Video_Production"
+              d="M 106.793076,617.734558 A 760.694092,760.694092 0,0 1,386.065735,-170.660110"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Software_Training"
+              d="M 96.849129,621.673584 A 1113.843238,1113.843238 0,0 1,282.573975,-625.243164"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Web_Publishing"
+              d="M 79.172356,636.417114 A 1129.826208,1129.826208 0,0 1,-283.101593,-591.144531"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Audio_Production"
+              d="M 107.136078,617.638428 A 987.724062,987.724062 0,0 1,490.843262,-423.146179"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Game_Development"
+              d="M 86.761086,628.455078 A 1139.543412,1139.543412 0,0 1,-16.651754,-659.019226"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Access id_Accounting"
+              d="M 119.850365,615.727783 A 879.876471,879.876471 0,0 1,666.940063,-197.028854"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Sports"
+              d="M 606.433594,84.777939 A 851.485257,851.485257 0,0 1,-334.493073,186.386200"
+              stroke="#3480b6" stroke-width="91.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Racing"
+              d="M 605.347412,83.505348 A 541.152526,541.152526 0,0 1,33.070377,132.789108"
+              stroke="#317eb6" stroke-width="55.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Violent"
+              d="M 604.367065,82.272881 A 1098.512326,1098.512326 0,0 1,-639.105347,121.877838"
+              stroke="#2f7db6" stroke-width="39.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Massively_Multiplayer"
+              d="M 604.418579,82.339798 A 304.667982,304.667982 0,0 1,316.285034,106.997467"
+              stroke="#4c8fb7" stroke-width="350.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Free_to_Play id_Gore"
+              d="M 611.504089,89.704742 A 1071.848814,1071.848814 0,0 1,-563.447876,391.847504"
+              stroke="#2d7cb6" stroke-width="22.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Nudity"
+              d="M 599.287415,74.020325 A 1144.131526,1144.131526 0,0 1,-681.639526,-155.192322"
+              stroke="#2d7bb6" stroke-width="14.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Sexual_Content"
+              d="M 599.709900,74.876297 A 733.382234,733.382234 0,0 1,-199.575577,-43.236557"
+              stroke="#2d7cb6" stroke-width="21.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Utilities"
+              d="M 595.763367,43.508484 A 558.709491,558.709491 0,0 1,189.884476,-396.518341"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Design_&amp;_Illustration"
+              d="M 594.852905,58.047653 A 762.090627,762.090627 0,0 1,-135.341934,-363.690765"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Animation_&amp;_Modeling"
+              d="M 596.180542,65.568298 A 520.866729,520.866729 0,0 1,76.344620,-123.368866"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Education"
+              d="M 597.611450,70.086746 A 927.359786,927.359786 0,0 1,-408.035522,-202.419006"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Video_Production"
+              d="M 596.465515,40.744293 A 277.700210,277.700210 0,0 1,425.121613,-154.438461"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Software_Training"
+              d="M 600.987793,30.120680 A 651.202163,651.202163 0,0 1,303.456055,-614.602722"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Web_Publishing"
+              d="M 594.662476,52.546791 A 949.081688,949.081688 0,0 1,-257.925537,-590.800415"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Audio_Production"
+              d="M 607.266418,21.657213 A 427.630446,427.630446 0,0 1,509.572327,-408.385132"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Game_Development"
+              d="M 596.101196,42.090530 A 818.481108,818.481108 0,0 1,7.439324,-653.474548"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Photo_Editing"
+              d="M 595.459351,62.360477 A 1061.941384,1061.941384 0,0 1,-494.346008,-448.766815"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Free_to_Play id_Accounting"
+              d="M 627.377869,8.942739 A 226.924328,226.924328 0,0 1,675.954773,-183.091858"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Sports id_Racing"
+              d="M -339.825348,134.522873 A 310.624606,310.624606 0,0 1,-45.267368,92.808395"
+              stroke="#4c8fb7" stroke-width="348.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Sports id_Violent"
+              d="M -417.099670,179.269699 A 257.562169,257.562169 0,0 1,-644.292786,128.251266"
+              stroke="#2d7cb6" stroke-width="21.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sports id_Massively_Multiplayer"
+              d="M -340.036011,134.281113 A 546.892984,546.892984 0,0 1,238.757996,66.334717"
+              stroke="#307db6" stroke-width="49.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Sports id_Gore"
+              d="M -386.251251,208.086624 A 260.275970,260.275970 0,0 1,-561.278137,368.389160"
+              stroke="#2c7bb6" stroke-width="10.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Sports id_Nudity"
+              d="M -418.583130,154.478668 A 403.977492,403.977492 0,0 1,-703.302551,-144.118195"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sports id_Sexual_Content"
+              d="M -373.948578,118.811531 A 230.578248,230.578248 0,0 1,-266.341583,-53.041420"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none" class="id_Racing id_Violent"
+              d="M -41.987305,135.385269 A 559.003833,559.003833 0,0 1,-639.973267,123.126366"
+              stroke="#2d7cb6" stroke-width="19.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Racing id_Massively_Multiplayer"
+              d="M 30.146650,84.983147 A 236.485917,236.485917 0,0 1,238.351135,67.126015"
+              stroke="#307db6" stroke-width="48.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Racing id_Gore"
+              d="M -28.274714,148.653702 A 545.328449,545.328449 0,0 1,-561.289551,384.295807"
+              stroke="#2d7bb6" stroke-width="12.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Racing id_Nudity"
+              d="M -48.285664,120.381638 A 637.375260,637.375260 0,0 1,-688.409485,-149.866806"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Racing id_Sexual_Content"
+              d="M -48.886013,105.363914 A 241.068487,241.068487 0,0 1,-216.183380,-32.570297"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Violent id_Massively_Multiplayer"
+              d="M -640.024658,71.237915 A 794.541747,794.541747 0,0 1,241.477051,61.849873"
+              stroke="#2e7cb6" stroke-width="27.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Violent id_Gore"
+              d="M -643.976685,127.925827 A 240.276785,240.276785 0,0 1,-590.807800,335.261993"
+              stroke="#5695b7" stroke-width="447.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Violent id_Nudity"
+              d="M -703.486572,62.540298 A 236.855993,236.855993 0,0 1,-727.901001,-147.329529"
+              stroke="#3580b6" stroke-width="98.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Violent id_Sexual_Content"
+              d="M -650.116272,61.197796 A 397.707783,397.707783 0,0 1,-269.662323,-80.994942"
+              stroke="#337fb6" stroke-width="76.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Violent id_Video_Production"
+              d="M -647.686646,63.068298 A 943.888817,943.888817 0,0 1,381.157501,-208.243790"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Massively_Multiplayer id_Gore"
+              d="M 251.408127,121.904449 A 772.800720,772.800720 0,0 1,-562.437012,388.934509"
+              stroke="#2d7bb6" stroke-width="13.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Massively_Multiplayer id_Nudity"
+              d="M 236.355392,101.735130 A 853.859931,853.859931 0,0 1,-684.346375,-152.784607"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Massively_Multiplayer id_Sexual_Content"
+              d="M 235.552887,99.317047 A 442.619967,442.619967 0,0 1,-203.870224,-39.300270"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Massively_Multiplayer id_Utilities"
+              d="M 246.988358,55.340393 A 442.884860,442.884860 0,0 1,167.610168,-399.631958"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Massively_Multiplayer id_Education"
+              d="M 234.468857,94.868027 A 649.851913,649.851913 0,0 1,-413.063354,-198.893478"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none" class="id_Gore id_Nudity"
+              d="M -633.937866,345.966827 A 476.096122,476.096122 0,0 1,-727.055786,-146.949203"
+              stroke="#317eb6" stroke-width="64.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gore id_Sexual_Content"
+              d="M -599.375854,333.540466 A 486.263510,486.263510 0,0 1,-269.211090,-60.433395"
+              stroke="#2f7db6" stroke-width="43.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Gore id_Video_Production"
+              d="M -585.194519,337.440887 A 975.443687,975.443687 0,0 1,378.815338,-198.593369"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nudity id_Sexual_Content"
+              d="M -671.760193,-199.557037 A 411.782744,411.782744 0,0 1,-257.501404,-101.872681"
+              stroke="#3a84b6" stroke-width="154.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Design_&amp;_Illustration"
+              d="M 152.713776,-411.110870 A 281.966847,281.966847 0,0 1,-116.266953,-382.193298"
+              stroke="#307eb6" stroke-width="53.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Animation_&amp;_Modeling"
+              d="M 189.229477,-396.429138 A 257.988805,257.988805 0,0 1,86.794151,-177.766022"
+              stroke="#307eb6" stroke-width="53.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Education"
+              d="M 159.788666,-404.258820 A 541.808094,541.808094 0,0 1,-395.027252,-222.022476"
+              stroke="#2e7cb6" stroke-width="29.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Video_Production"
+              d="M 223.395493,-427.244659 A 281.100504,281.100504 0,0 1,410.824554,-233.369934"
+              stroke="#2e7cb6" stroke-width="24.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Software_Training"
+              d="M 183.251892,-476.790527 A 209.744852,209.744852 0,0 1,275.162415,-634.985779"
+              stroke="#2e7cb6" stroke-width="26.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Web_Publishing"
+              d="M 144.514725,-428.701965 A 411.050602,411.050602 0,0 1,-248.181000,-595.391357"
+              stroke="#2d7cb6" stroke-width="19.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Audio_Production"
+              d="M 217.418930,-459.224487 A 283.245813,283.245813 0,0 1,489.630249,-466.572449"
+              stroke="#2d7bb6" stroke-width="17.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Game_Development"
+              d="M 146.838501,-451.900909 A 261.500590,261.500590 0,0 1,5.729660,-653.361328"
+              stroke="#2d7bb6" stroke-width="12.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Photo_Editing"
+              d="M 149.532532,-415.660675 A 583.015978,583.015978 0,0 1,-482.712189,-458.614838"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Utilities id_Accounting"
+              d="M 223.716095,-444.163422 A 472.351310,472.351310 0,0 1,683.015320,-245.176895"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Animation_&amp;_Modeling"
+              d="M -113.845322,-388.174805 A 265.736226,265.736226 0,0 1,47.524986,-196.067169"
+              stroke="#317eb6" stroke-width="54.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Education"
+              d="M -170.426193,-364.247620 A 272.492334,272.492334 0,0 1,-393.385040,-232.093124"
+              stroke="#2e7cb6" stroke-width="27.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Video_Production"
+              d="M -113.314178,-410.514740 A 505.901164,505.901164 0,0 1,395.350403,-226.670471"
+              stroke="#2d7bb6" stroke-width="13.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Software_Training"
+              d="M -133.999298,-436.187073 A 439.852837,439.852837 0,0 1,270.484161,-657.991394"
+              stroke="#2d7cb6" stroke-width="20.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Web_Publishing"
+              d="M -186.756577,-421.214417 A 214.399990,214.399990 0,0 1,-272.987823,-589.054016"
+              stroke="#2d7cb6" stroke-width="21.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Audio_Production"
+              d="M -120.832138,-425.461456 A 564.764534,564.764534 0,0 1,489.538452,-466.420349"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Game_Development"
+              d="M -155.564285,-440.452087 A 276.792998,276.792998 0,0 1,-31.017023,-673.822021"
+              stroke="#2d7bb6" stroke-width="16.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Photo_Editing"
+              d="M -190.160156,-386.381287 A 309.249306,309.249306 0,0 1,-486.187592,-454.816956"
+              stroke="#2c7bb6" stroke-width="11.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Design_&amp;_Illustration id_Accounting"
+              d="M -115.153809,-415.922180 A 731.002829,731.002829 0,0 1,677.403931,-240.916656"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Education"
+              d="M 16.258768,-139.046585 A 410.395848,410.395848 0,0 1,-404.210358,-206.005814"
+              stroke="#2e7cb6" stroke-width="25.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Video_Production"
+              d="M 84.120216,-181.478134 A 306.529351,306.529351 0,0 1,382.990509,-212.365555"
+              stroke="#2d7cb6" stroke-width="19.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Software_Training"
+              d="M 47.851448,-196.108856 A 467.287681,467.287681 0,0 1,275.077576,-635.142883"
+              stroke="#2d7cb6" stroke-width="21.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Web_Publishing"
+              d="M 15.215363,-170.700012 A 477.173901,477.173901 0,0 1,-270.096710,-588.942200"
+              stroke="#2d7bb6" stroke-width="15.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Audio_Production"
+              d="M 69.224197,-192.914047 A 460.862358,460.862358 0,0 1,483.869965,-447.747833"
+              stroke="#2c7bb6" stroke-width="7.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Game_Development"
+              d="M 27.152037,-187.207321 A 449.578789,449.578789 0,0 1,-15.552805,-658.384033"
+              stroke="#2d7bb6" stroke-width="15.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Photo_Editing"
+              d="M 12.613896,-152.775681 A 545.477833,545.477833 0,0 1,-496.871094,-447.467072"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Animation_&amp;_Modeling id_Accounting"
+              d="M 83.863739,-181.791428 A 544.869516,544.869516 0,0 1,669.634827,-231.264755"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Video_Production"
+              d="M -399.694794,-255.134720 A 710.953290,710.953290 0,0 1,387.017090,-218.673645"
+              stroke="#2c7bb6" stroke-width="9.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Software_Training"
+              d="M -416.405365,-269.831787 A 712.250745,712.250745 0,0 1,270.502533,-658.177429"
+              stroke="#2e7cb6" stroke-width="26.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Web_Publishing"
+              d="M -441.353546,-272.914673 A 356.716854,356.716854 0,0 1,-303.289459,-606.687744"
+              stroke="#2d7bb6" stroke-width="13.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Audio_Production"
+              d="M -406.643951,-263.334137 A 817.250537,817.250537 0,0 1,486.996368,-461.425537"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Game_Development"
+              d="M -427.358032,-273.195190 A 528.961466,528.961466 0,0 1,-35.276588,-685.230591"
+              stroke="#2c7bb6" stroke-width="10.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Photo_Editing"
+              d="M -464.089447,-259.633667 A 218.988105,218.988105 0,0 1,-523.473450,-444.816742"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Education id_Accounting"
+              d="M -400.447327,-256.268707 A 948.401045,948.401045 0,0 1,672.264343,-235.260300"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Software_Training"
+              d="M 389.242523,-221.292374 A 393.887669,393.887669 0,0 1,296.249420,-616.584045"
+              stroke="#2c7bb6" stroke-width="9.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Web_Publishing"
+              d="M 378.606201,-192.003265 A 678.795648,678.795648 0,0 1,-254.615967,-592.006714"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Audio_Production"
+              d="M 412.303711,-233.636185 A 227.389212,227.389212 0,0 1,491.269867,-422.536255"
+              stroke="#2c7bb6" stroke-width="7.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Game_Development"
+              d="M 380.022064,-204.779739 A 540.925322,540.925322 0,0 1,7.403543,-653.471436"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Photo_Editing"
+              d="M 380.562561,-181.498856 A 813.771127,813.771127 0,0 1,-489.669281,-451.836182"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Video_Production id_Accounting"
+              d="M 451.323669,-217.328918 A 238.463507,238.463507 0,0 1,669.182556,-230.457504"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Software_Training id_Web_Publishing"
+              d="M 278.370728,-629.994202 A 484.154440,484.154440 0,0 1,-235.985764,-607.784485"
+              stroke="#2d7bb6" stroke-width="12.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Software_Training id_Audio_Production"
+              d="M 349.713654,-645.742859 A 248.547811,248.547811 0,0 1,514.566162,-484.757233"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Software_Training id_Game_Development"
+              d="M 274.091919,-637.105103 A 257.510366,257.510366 0,0 1,34.752319,-667.787109"
+              stroke="#2c7bb6" stroke-width="8.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Software_Training id_Photo_Editing"
+              d="M 283.022705,-624.816895 A 701.501691,701.501691 0,0 1,-477.226898,-467.685364"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Software_Training id_Accounting"
+              d="M 349.440948,-644.556030 A 493.862845,493.862845 0,0 1,699.358276,-251.005173"
+              stroke="#2c7bb6" stroke-width="5.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Web_Publishing id_Audio_Production"
+              d="M -232.851013,-644.193542 A 678.956119,678.956119 0,0 1,497.168152,-475.649170"
+              stroke="#2c7bb6" stroke-width="6.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Web_Publishing id_Game_Development"
+              d="M -241.719147,-657.501648 A 234.484727,234.484727 0,0 1,-33.985882,-706.251160"
+              stroke="#2c7bb6" stroke-width="7.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Web_Publishing id_Photo_Editing"
+              d="M -288.325348,-593.376587 A 236.629095,236.629095 0,0 1,-473.902313,-482.821228"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Web_Publishing id_Accounting"
+              d="M -230.813080,-637.638489 A 883.396063,883.396063 0,0 1,683.570251,-245.519455"
+              stroke="#2c7bb6" stroke-width="4.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Audio_Production id_Game_Development"
+              d="M 484.317444,-439.521759 A 479.894339,479.894339 0,0 1,24.000385,-658.708069"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Audio_Production id_Photo_Editing"
+              d="M 490.458405,-423.717896 A 865.400661,865.400661 0,0 1,-482.220490,-459.239563"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Audio_Production id_Accounting"
+              d="M 561.466980,-431.959290 A 246.555853,246.555853 0,0 1,700.567078,-251.137131"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Game_Development id_Photo_Editing"
+              d="M -18.196772,-659.993835 A 465.580121,465.580121 0,0 1,-474.821014,-475.108795"
+              stroke="#2c7bb6" stroke-width="2.0" stroke-opacity="0.69411767"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Game_Development id_Accounting"
+              d="M 43.986759,-693.869385 A 708.525922,708.525922 0,0 1,690.485840,-248.849762"
+              stroke="#2c7bb6" stroke-width="1.0" stroke-opacity="0.69803923"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Photo_Editing id_Accounting"
+              d="M -477.119659,-499.418762 A 1040.242167,1040.242167 0,0 1,677.730835,-241.210449"
+              stroke="#2c7bb6" stroke-width="3.0" stroke-opacity="0.69803923"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d7191c" r="92.0" cx="116.46772"
+                class="id_Indie" cy="367.73608" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="16.0"/>
+        <circle fill-opacity="1.0" fill="#f6cd9c" r="72.157036" cx="385.98257"
+                class="id_Action" cy="593.6405" stroke="#ac8f6d"
+                stroke-opacity="1.0" stroke-width="12.54905"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="67.38833" cx="-138.23582"
+                class="id_Casual" cy="666.81085" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="11.719709"/>
+        <circle fill-opacity="1.0" fill="#f6cd9c" r="68.04875" cx="-412.47336"
+                class="id_Adventure" cy="579.4809" stroke="#ac8f6d"
+                stroke-opacity="1.0" stroke-width="11.834565"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="54.999115" cx="-181.07674"
+                class="id_Simulation" cy="359.98392" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="9.565063"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="53.73341" cx="375.94122"
+                class="id_Strategy" cy="315.70697" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="9.34494"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="52.583244" cx="626.8873"
+                class="id_RPG" cy="326.8543" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="9.144912"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="49.0566" cx="121.35948"
+                class="id_Early_Access" cy="669.0288" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="8.531583"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="43.179733" cx="641.5834"
+                class="id_Free_to_Play" cy="53.675835" stroke="#961113"
+                stroke-opacity="1.0" stroke-width="7.509519"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="41.815556" cx="-374.19696"
+                class="id_Sports" cy="164.26254" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="7.27227"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="40.493393" cx="-5.252165"
+                class="id_Racing" cy="111.140465" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="7.042329"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="40.759926" cx="-675.91223"
+                class="id_Violent" cy="97.21773" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="7.0886827"/>
+        <circle fill-opacity="1.0" fill="#679fb8" r="40.270187" cx="277.48038"
+                class="id_Massively_Multiplayer" cy="86.74452" stroke="#486f80"
+                stroke-opacity="1.0" stroke-width="7.0035105"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="39.533607" cx="-603.5127"
+                class="id_Gore" cy="376.3122" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.87541"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="38.095905" cx="-710.4875"
+                class="id_Nudity" cy="-184.89868" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.625375"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="37.93572" cx="-229.51466"
+                class="id_Sexual_Content" cy="-71.59028" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.5975165"/>
+        <circle fill-opacity="1.0" fill="#3d85b6" r="37.120365" cx="184.11174"
+                class="id_Utilities" cy="-436.45148" stroke="#2a5d7f"
+                stroke-opacity="1.0" stroke-width="6.4557157"/>
+        <circle fill-opacity="1.0" fill="#448ab7" r="37.092793" cx="-152.30797"
+                class="id_Design_&amp;_Illustration" cy="-400.26556"
+                stroke="#2f6080" stroke-opacity="1.0" stroke-width="6.45092"/>
+        <circle fill-opacity="1.0" fill="#448ab7" r="37.092793" cx="52.79529"
+                class="id_Animation_&amp;_Modeling" cy="-156.09486"
+                stroke="#2f6080" stroke-opacity="1.0" stroke-width="6.45092"/>
+        <circle fill-opacity="1.0" fill="#a9c9bb" r="36.98513" cx="-433.5625"
+                class="id_Education" cy="-233.47562" stroke="#768c82"
+                stroke-opacity="1.0" stroke-width="6.4321966"/>
+        <circle fill-opacity="1.0" fill="#f5c696" r="36.905037" cx="418.66913"
+                class="id_Video_Production" cy="-194.03027" stroke="#ab8a69"
+                stroke-opacity="1.0" stroke-width="6.4182673"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.939175" cx="310.45032"
+                class="id_Software_Training" cy="-654.14014" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.424204"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.9011" cx="-269.9931"
+                class="id_Web_Publishing" cy="-629.05194" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.417582"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.851208" cx="523.8782"
+                class="id_Audio_Production" cy="-445.799" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.4089055"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.847267" cx="3.9384649"
+                class="id_Game_Development" cy="-693.3726" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.4082203"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.81707" cx="-513.91174"
+                class="id_Photo_Editing" cy="-483.6762" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.4029684"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="36.8" cx="704.30304"
+                class="id_Accounting" cy="-211.31198" stroke="#1e567f"
+                stroke-opacity="1.0" stroke-width="6.3999996"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="36" x="116.46772" y="374.28394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Indie">
+            Indie
+        </text>
+        <text font-size="28" x="385.98257" y="598.7333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Action">
+            Action
+        </text>
+        <text font-size="36" x="-138.23582" y="673.47296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Casual">
+            Casual
+        </text>
+        <text font-size="28" x="-412.47336" y="584.57367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adventure">
+            Adventure
+        </text>
+        <text font-size="34" x="-181.07674" y="366.2759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Simulation">
+            Simulation
+        </text>
+        <text font-size="36" x="375.94122" y="324.15326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Strategy">
+            Strategy
+        </text>
+        <text font-size="36" x="626.8873" y="333.51642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RPG">
+            RPG
+        </text>
+        <text font-size="34" x="121.35948" y="676.9021" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Early_Access">
+            Early Access
+        </text>
+        <text font-size="36" x="641.5834" y="62.01226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Free_to_Play">
+            Free to Play
+        </text>
+        <text font-size="24" x="-374.19696" y="169.82309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sports">
+            Sports
+        </text>
+        <text font-size="24" x="-5.252165" y="116.69808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Racing">
+            Racing
+        </text>
+        <text font-size="25" x="-675.91223" y="101.76485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Violent">
+            Violent
+        </text>
+        <text font-size="26" x="277.48038" y="92.765274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Massively_Multiplayer">
+            Massively Multiplayer
+        </text>
+        <text font-size="25" x="-603.5127" y="380.93866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gore">
+            Gore
+        </text>
+        <text font-size="24" x="-710.4875" y="-179.34106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nudity">
+            Nudity
+        </text>
+        <text font-size="24" x="-229.51466" y="-67.14887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sexual_Content">
+            Sexual Content
+        </text>
+        <text font-size="25" x="184.11174" y="-431.9013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Utilities">
+            Utilities
+        </text>
+        <text font-size="25" x="-152.30797" y="-394.4001" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Design_&amp;_Illustration">
+            Design&amp; Illustration
+        </text>
+        <text font-size="25" x="52.79529" y="-150.22939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Animation_&amp;_Modeling">
+            Animation&amp; Modeling
+        </text>
+        <text font-size="26" x="-433.5625" y="-228.74661" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Education">
+            Education
+        </text>
+        <text font-size="28" x="418.66913" y="-188.9375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Video_Production">
+            Video Production
+        </text>
+        <text font-size="24" x="310.45032" y="-648.5093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Software_Training">
+            Software Training
+        </text>
+        <text font-size="24" x="-269.9931" y="-623.4943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Web_Publishing">
+            Web Publishing
+        </text>
+        <text font-size="25" x="523.8782" y="-441.2519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Audio_Production">
+            Audio Production
+        </text>
+        <text font-size="24" x="3.9384649" y="-687.8121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Game_Development">
+            Game Development
+        </text>
+        <text font-size="24" x="-513.91174" y="-478.1186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Photo_Editing">
+            Photo Editing
+        </text>
+        <text font-size="25" x="704.30304" y="-205.5228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Accounting">
+            Accounting
+        </text>
+    </g>
+</svg>

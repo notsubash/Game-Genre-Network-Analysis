@@ -1,0 +1,3927 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-07-14">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Half-Life 2: Lost Coast" label="Half-Life 2: Lost Coast">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life Deathmatch: Source" label="Half-Life Deathmatch: Source">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life 2: Episode One" label="Half-Life 2: Episode One">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Portal" label="Portal">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life 2: Episode Two" label="Half-Life 2: Episode Two">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Team Fortress 2" label="Team Fortress 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Left 4 Dead" label="Left 4 Dead">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Left 4 Dead 2" label="Left 4 Dead 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rag Doll Kung Fu" label="Rag Doll Kung Fu">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Red Orchestra: Ostfront 41-45" label="Red Orchestra: Ostfront 41-45">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Killing Floor" label="Killing Floor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SiN Episodes: Emergence" label="SiN Episodes: Emergence">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Darwinia" label="Darwinia">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Uplink" label="Uplink">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="DEFCON" label="DEFCON">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Multiwinia" label="Multiwinia">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dangerous Waters" label="Dangerous Waters">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Space Empires IV Deluxe" label="Space Empires IV Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Disciples II: Rise of the Elves " label="Disciples II: Rise of the Elves ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Disciples II: Gallean's Return" label="Disciples II: Gallean's Return">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Iron Warriors: T - 72 Tank Command " label="Iron Warriors: T - 72 Tank Command ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Space Empires V" label="Space Empires V">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Arx Fatalis" label="Arx Fatalis">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Earth 2160" label="Earth 2160">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Two Worlds Epic Edition" label="Two Worlds Epic Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dark Messiah of Might &amp; Magic" label="Dark Messiah of Might &amp; Magic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Quake III Arena" label="Quake III Arena">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Wolfenstein 3D" label="Wolfenstein 3D">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ultimate Doom" label="Ultimate Doom">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Final DOOM" label="Final DOOM">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="DOOM II" label="DOOM II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE" label="QUAKE">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE II" label="QUAKE II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE II Mission Pack: The Reckoning" label="QUAKE II Mission Pack: The Reckoning">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE II Mission Pack: Ground Zero" label="QUAKE II Mission Pack: Ground Zero">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE III: Team Arena" label="QUAKE III: Team Arena">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="HeXen: Beyond Heretic" label="HeXen: Beyond Heretic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="HeXen: Deathkings of the Dark Citadel" label="HeXen: Deathkings of the Dark Citadel">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heretic: Shadow of the Serpent Riders" label="Heretic: Shadow of the Serpent Riders">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Ship: Murder Party" label="The Ship: Murder Party">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Shadowgrounds" label="Shadowgrounds">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gumboy - Crazy Adventures™" label="Gumboy - Crazy Adventures™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Alpha Prime" label="Alpha Prime">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Vampire: The Masquerade - Bloodlines" label="Vampire: The Masquerade - Bloodlines">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="GUN™" label="GUN™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty®" label="Call of Duty®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty® 2" label="Call of Duty® 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty: United Offensive" label="Call of Duty: United Offensive">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Act of War: Direct Action" label="Act of War: Direct Action">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="ThreadSpace: Hyperbol" label="ThreadSpace: Hyperbol">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="ARMA: Combat Operations" label="ARMA: Combat Operations">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X2: The Threat" label="X2: The Threat">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X3: Reunion" label="X3: Reunion">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X3: Terran Conflict" label="X3: Terran Conflict">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="688(I) Hunter/Killer" label="688(I) Hunter/Killer">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fleet Command" label="Fleet Command">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sub Command" label="Sub Command">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="FlatOut 2™" label="FlatOut 2™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Xpand Rally" label="Xpand Rally">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Juarez™" label="Call of Juarez™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Xpand Rally Xtreme" label="Xpand Rally Xtreme">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Men of War: Red Tide" label="Men of War: Red Tide">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="King's Bounty: Armored Princess" label="King's Bounty: Armored Princess">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Genesis Rising" label="Genesis Rising">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Safecracker: The Ultimate Puzzle Adventure" label="Safecracker: The Ultimate Puzzle Adventure">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Painkiller Overdose" label="Painkiller Overdose">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zuma Deluxe" label="Zuma Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heavy Weapon Deluxe" label="Heavy Weapon Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Peggle Deluxe" label="Peggle Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Peggle Extreme" label="Peggle Extreme">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Venice Deluxe" label="Venice Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mystery P.I.™ - The Lottery Ticket" label="Mystery P.I.™ - The Lottery Ticket">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Amazing Adventures The Lost Tomb™" label="Amazing Adventures The Lost Tomb™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mystery P.I.™ - The Vegas Heist" label="Mystery P.I.™ - The Vegas Heist">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Amazing Adventures Around the World" label="Amazing Adventures Around the World">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Peggle™ Nights" label="Peggle™ Nights">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bejeweled Twist" label="Bejeweled Twist">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mystery P.I.™ - The New York Fortune" label="Mystery P.I.™ - The New York Fortune">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Wizard's Pen™" label="The Wizard's Pen™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Plants vs. Zombies GOTY Edition" label="Plants vs. Zombies GOTY Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Escape Rosecliff Island" label="Escape Rosecliff Island">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mystery P.I. - Lost in Los Angeles" label="Mystery P.I. - Lost in Los Angeles">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zuma's Revenge!" label="Zuma's Revenge!">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sniper Elite" label="Sniper Elite">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Judge Dredd: Dredd vs. Death" label="Judge Dredd: Dredd vs. Death">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Evil Genius" label="Evil Genius">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Advent Rising" label="Advent Rising">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="BloodRayne" label="BloodRayne">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="BloodRayne 2" label="BloodRayne 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Psychonauts" label="Psychonauts">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sid Meier's Civilization® IV" label="Sid Meier's Civilization® IV">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sid Meier's Civilization® III Complete" label="Sid Meier's Civilization® III Complete">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sid Meier's Pirates!" label="Sid Meier's Pirates!">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Shattered Union" label="Shattered Union">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="CivCity: Rome" label="CivCity: Rome">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Civilization IV®: Warlords" label="Civilization IV®: Warlords">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Garry's Mod" label="Garry's Mod">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Poker Superstars II" label="Poker Superstars II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="RACE - The WTCC Game" label="RACE - The WTCC Game">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="RACE: Caterham Expansion" label="RACE: Caterham Expansion">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="RoboBlitz" label="RoboBlitz">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silverfall" label="Silverfall">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="City Life 2008" label="City Life 2008">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silverfall: Earth Awakening" label="Silverfall: Earth Awakening">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="S.T.A.L.K.E.R.: Shadow of Chernobyl" label="S.T.A.L.K.E.R.: Shadow of Chernobyl">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Full Spectrum Warrior" label="Full Spectrum Warrior">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Full Spectrum Warrior: Ten Hammers" label="Full Spectrum Warrior: Ten Hammers">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Company of Heroes - Legacy Edition" label="Company of Heroes - Legacy Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warhammer® 40,000: Dawn of War® - Game of the Year Edition" label="Warhammer® 40,000: Dawn of War® - Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warhammer® 40,000: Dawn of War® - Dark Crusade" label="Warhammer® 40,000: Dawn of War® - Dark Crusade">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Total War: MEDIEVAL II – Definitive Edition" label="Total War: MEDIEVAL II – Definitive Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rome: Total War™ - Collection" label="Rome: Total War™ - Collection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rome: Total War™ - Alexander" label="Rome: Total War™ - Alexander">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Medieval II: Total War™ Kingdoms" label="Medieval II: Total War™ Kingdoms">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heroes of Annihilated Empires" label="Heroes of Annihilated Empires">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zen of Sudoku" label="Zen of Sudoku">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Republic Commando™" label="STAR WARS™ Republic Commando™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Indiana Jones® and the Fate of Atlantis™" label="Indiana Jones® and the Fate of Atlantis™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Jedi Knight - Jedi Academy™" label="STAR WARS™ Jedi Knight - Jedi Academy™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Jedi Knight II - Jedi Outcast™" label="STAR WARS™ Jedi Knight II - Jedi Outcast™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Dig®" label="The Dig®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Star Wars: Battlefront 2 (Classic, 2005)" label="Star Wars: Battlefront 2 (Classic, 2005)">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Thrillville®: Off the Rails™" label="Thrillville®: Off the Rails™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Armed and Dangerous®" label="Armed and Dangerous®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ghost Master®" label="Ghost Master®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Vegas: Make It Big™" label="Vegas: Make It Big™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="FlatOut" label="FlatOut">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Making History: The Calm &amp; the Storm" label="Making History: The Calm &amp; the Storm">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ducati World Championship" label="Ducati World Championship">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dreamfall: The Longest Journey" label="Dreamfall: The Longest Journey">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Longest Journey" label="The Longest Journey">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Joint Task Force" label="Joint Task Force">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nexus - The Jupiter Incident" label="Nexus - The Jupiter Incident">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Lost Planet™: Extreme Condition" label="Lost Planet™: Extreme Condition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Devil May Cry® 3 Special Edition" label="Devil May Cry® 3 Special Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Commandos: Behind Enemy Lines" label="Commandos: Behind Enemy Lines">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Commandos: Beyond the Call of Duty" label="Commandos: Beyond the Call of Duty">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Commandos 2: Men of Courage" label="Commandos 2: Men of Courage">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Commandos 3: Destination Berlin" label="Commandos 3: Destination Berlin">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hitman 2: Silent Assassin" label="Hitman 2: Silent Assassin">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hitman: Blood Money" label="Hitman: Blood Money">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Battlestations: Midway" label="Battlestations: Midway">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Just Cause" label="Just Cause">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hitman: Codename 47" label="Hitman: Codename 47">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Deus Ex: Game of the Year Edition" label="Deus Ex: Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Deus Ex: Invisible War" label="Deus Ex: Invisible War">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Thief: Deadly Shadows" label="Thief: Deadly Shadows">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tomb Raider: Legend" label="Tomb Raider: Legend">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Project: Snowblind" label="Project: Snowblind">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rogue Trooper" label="Rogue Trooper">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Jade Empire™: Special Edition" label="Jade Empire™: Special Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Trackmania United Forever Star Edition" label="Trackmania United Forever Star Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Runaway, A Road Adventure" label="Runaway, A Road Adventure">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Runaway, The Dream of The Turtle" label="Runaway, The Dream of The Turtle">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Loki" label="Loki">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-Blades" label="X-Blades">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sid Meier's Railroads!" label="Sid Meier's Railroads!">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Railroad Tycoon 3" label="Railroad Tycoon 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Railroad Tycoon II Platinum" label="Railroad Tycoon II Platinum">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-COM: Terror From the Deep" label="X-COM: Terror From the Deep">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-COM: Apocalypse" label="X-COM: Apocalypse">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-COM: Interceptor" label="X-COM: Interceptor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-COM: UFO Defense" label="X-COM: UFO Defense">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="X-COM: Enforcer" label="X-COM: Enforcer">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Men of War™" label="Men of War™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Death Track®: Resurrection" label="Death Track®: Resurrection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="NecroVision" label="NecroVision">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty® 4: Modern Warfare®" label="Call of Duty® 4: Modern Warfare®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tomb Raider: Anniversary" label="Tomb Raider: Anniversary">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Kane and Lynch: Dead Men™" label="Kane and Lynch: Dead Men™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Conflict: Denied Ops" label="Conflict: Denied Ops">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tomb Raider: Underworld" label="Tomb Raider: Underworld">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Battlestations Pacific" label="Battlestations Pacific">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bone: Out From Boneville" label="Bone: Out From Boneville">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bone: The Great Cow Race" label="Bone: The Great Cow Race">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Telltale Texas Hold ‘Em" label="Telltale Texas Hold ‘Em">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Strong Bad's Cool Game for Attractive People: Season 1" label="Strong Bad's Cool Game for Attractive People: Season 1">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geometry Wars: Retro Evolved" label="Geometry Wars: Retro Evolved">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="RACE 07" label="RACE 07">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Civilization IV: Beyond the Sword" label="Civilization IV: Beyond the Sword">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Freedom Force" label="Freedom Force">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Freedom Force vs. the Third Reich" label="Freedom Force vs. the Third Reich">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Spear of Destiny" label="Spear of Destiny">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Return to Castle Wolfenstein" label="Return to Castle Wolfenstein">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE Mission Pack 2: Dissolution of Eternity" label="QUAKE Mission Pack 2: Dissolution of Eternity">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="QUAKE Mission Pack 1: Scourge of Armagon" label="QUAKE Mission Pack 1: Scourge of Armagon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="DOOM 3" label="DOOM 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="HeXen II" label="HeXen II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Master Levels for Doom II" label="Master Levels for Doom II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Commander Keen" label="Commander Keen">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warhammer® 40,000: Dawn of War® – Winter Assault" label="Warhammer® 40,000: Dawn of War® – Winter Assault">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Company of Heroes: Opposing Fronts" label="Company of Heroes: Opposing Fronts">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warhammer® 40,000: Dawn of War® - Soulstorm" label="Warhammer® 40,000: Dawn of War® - Soulstorm">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Frontlines™: Fuel of War™" label="Frontlines™: Fuel of War™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Saints Row 2" label="Saints Row 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gish" label="Gish">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Desperados 2: Cooper's Revenge" label="Desperados 2: Cooper's Revenge">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Act of War: High Treason" label="Act of War: High Treason">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Death to Spies" label="Death to Spies">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Codename: Panzers - Cold War" label="Codename: Panzers - Cold War">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty: World at War" label="Call of Duty: World at War">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="King's Quest™ Collection" label="King's Quest™ Collection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Space Quest™ Collection" label="Space Quest™ Collection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Aces of the Galaxy™" label="Aces of the Galaxy™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="TimeShift™" label="TimeShift™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="3D Ultra™ Minigolf Adventures" label="3D Ultra™ Minigolf Adventures">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prototype™" label="Prototype™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Duty®: Modern Warfare® 2" label="Call of Duty®: Modern Warfare® 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Club™" label="The Club™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Total War: EMPIRE – Definitive Edition" label="Total War: EMPIRE – Definitive Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="TrackMania Nations Forever" label="TrackMania Nations Forever">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sherlock Holmes - Nemesis" label="Sherlock Holmes - Nemesis">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dracula Origin" label="Dracula Origin">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sherlock Holmes: The Mystery of the Mummy" label="Sherlock Holmes: The Mystery of the Mummy">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sherlock Holmes: The Awakened - Remastered Edition" label="Sherlock Holmes: The Awakened - Remastered Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sherlock Holmes: The Silver Earring" label="Sherlock Holmes: The Silver Earring">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sherlock Holmes versus Jack the Ripper" label="Sherlock Holmes versus Jack the Ripper">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Shadowgrounds Survivor" label="Shadowgrounds Survivor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gumboy Tournament" label="Gumboy Tournament">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Space Trader: Merchant Marine" label="Space Trader: Merchant Marine">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Pacific Storm" label="Pacific Storm">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Pacific Storm Allies" label="Pacific Storm Allies">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Penguins Arena: Sedna's World" label="Penguins Arena: Sedna's World">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Obulis" label="Obulis">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Larva Mortus" label="Larva Mortus">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chains" label="Chains">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Overlord™" label="Overlord™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Maelstrom: The Battle for Earth Begins" label="Maelstrom: The Battle for Earth Begins">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hospital Tycoon" label="Hospital Tycoon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Theft Auto III" label="Grand Theft Auto III">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Theft Auto: San Andreas" label="Grand Theft Auto: San Andreas">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Manhunt" label="Manhunt">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Max Payne" label="Max Payne">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Max Payne 2: The Fall of Max Payne" label="Max Payne 2: The Fall of Max Payne">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Theft Auto" label="Grand Theft Auto">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Theft Auto 2" label="Grand Theft Auto 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bully: Scholarship Edition" label="Bully: Scholarship Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Theft Auto IV" label="Grand Theft Auto IV">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Culpa Innata" label="Culpa Innata">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sacred Gold" label="Sacred Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Darkstar One" label="Darkstar One">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Jack Keane" label="Jack Keane">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="FlatOut: Ultimate Carnage" label="FlatOut: Ultimate Carnage">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Exodus from the Earth " label="Exodus from the Earth ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Perimeter 2: New Earth" label="Perimeter 2: New Earth">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SlamIt Pinball Big Score" label="SlamIt Pinball Big Score">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ankh 2: Heart of Osiris " label="Ankh 2: Heart of Osiris ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ankh 3: Battle of the Gods" label="Ankh 3: Battle of the Gods">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="BC Kings" label="BC Kings">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Port Royale 2" label="Port Royale 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="9th Company: Roots Of Terror" label="9th Company: Roots Of Terror">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="PuzzleQuest: Challenge of the Warlords" label="PuzzleQuest: Challenge of the Warlords">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prison Tycoon 3™: Lockdown" label="Prison Tycoon 3™: Lockdown">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="18 Wheels of Steel: American Long Haul" label="18 Wheels of Steel: American Long Haul">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hunting Unlimited™ 2008" label="Hunting Unlimited™ 2008">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mahjongg Investigations: Under Suspicion" label="Mahjongg Investigations: Under Suspicion">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ride! Carnival Tycoon" label="Ride! Carnival Tycoon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sprint Cars Road to Knoxville" label="Sprint Cars Road to Knoxville">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Midnight Outlaw: 6 Hours to SunUp" label="Midnight Outlaw: 6 Hours to SunUp">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Drakensang" label="Drakensang">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mission Runway" label="Mission Runway">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Overlord™: Raising Hell" label="Overlord™: Raising Hell">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rise of the Argonauts" label="Rise of the Argonauts">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Damnation" label="Damnation">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Overlord II" label="Overlord II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Operation Flashpoint: Dragon Rising" label="Operation Flashpoint: Dragon Rising">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ninja Reflex: Steamworks Edition" label="Ninja Reflex: Steamworks Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="America's Army 3" label="America's Army 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Unreal 2: The Awakening" label="Unreal 2: The Awakening">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Unreal Tournament 3 Black" label="Unreal Tournament 3 Black">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Unreal Tournament: Game of the Year Edition" label="Unreal Tournament: Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Unreal Gold" label="Unreal Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prince of Persia: Warrior Within™" label="Prince of Persia: Warrior Within™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Far Cry®" label="Far Cry®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prince of Persia: The Two Thrones™" label="Prince of Persia: The Two Thrones™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Rainbow Six® Vegas" label="Tom Clancy's Rainbow Six® Vegas">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Splinter Cell®" label="Tom Clancy's Splinter Cell®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Splinter Cell Chaos Theory®" label="Tom Clancy's Splinter Cell Chaos Theory®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Splinter Cell Double Agent®" label="Tom Clancy's Splinter Cell Double Agent®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prince of Persia®: The Sands of Time" label="Prince of Persia®: The Sands of Time">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Ghost Recon® Desert Siege™" label="Tom Clancy's Ghost Recon® Desert Siege™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Rainbow Six Lockdown™" label="Tom Clancy's Rainbow Six Lockdown™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rayman Raving Rabbids™" label="Rayman Raving Rabbids™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Assassin's Creed™: Director's Cut Edition" label="Assassin's Creed™: Director's Cut Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Rainbow Six® Vegas 2" label="Tom Clancy's Rainbow Six® Vegas 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Beyond Good and Evil™" label="Beyond Good and Evil™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Petz® Horsez® 2" label="Petz® Horsez® 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heroes of Might &amp; Magic V" label="Heroes of Might &amp; Magic V">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Brothers in Arms: Road to Hill 30™" label="Brothers in Arms: Road to Hill 30™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silent Hunter®: Wolves of the Pacific" label="Silent Hunter®: Wolves of the Pacific">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silent Hunter® III" label="Silent Hunter® III">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silent Hunter®: Wolves of the Pacific U-Boat Missions" label="Silent Hunter®: Wolves of the Pacific U-Boat Missions">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Cold Fear™" label="Cold Fear™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Ghost Recon®" label="Tom Clancy's Ghost Recon®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="IL-2 Sturmovik: 1946" label="IL-2 Sturmovik: 1946">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heroes of Might &amp; Magic V: Tribes of the East" label="Heroes of Might &amp; Magic V: Tribes of the East">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Heroes of Might &amp; Magic V: Hammers of Fate" label="Heroes of Might &amp; Magic V: Hammers of Fate">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Brothers in Arms: Hell's Highway™" label="Brothers in Arms: Hell's Highway™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Harvest: Massive Encounter" label="Harvest: Massive Encounter">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Wonderful End of the World" label="The Wonderful End of the World">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="AaAaAA!!! - A Reckless Disregard for Gravity" label="AaAaAA!!! - A Reckless Disregard for Gravity">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warhammer 40,000: Dawn of War II" label="Warhammer 40,000: Dawn of War II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Oddworld: Abe's Oddysee®" label="Oddworld: Abe's Oddysee®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Oddworld: Abe's Exoddus®" label="Oddworld: Abe's Exoddus®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Planet Busters" label="Planet Busters">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="7 Wonders II" label="7 Wonders II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Luxor Amun Rising" label="Luxor Amun Rising">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Luxor 2" label="Luxor 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Luxor 3" label="Luxor 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Little Farm" label="Little Farm">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Luxor" label="Luxor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Discovery! A Seek and Find Adventure" label="Discovery! A Seek and Find Adventure">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Samantha Swift and the Hidden Roses of Athena" label="Samantha Swift and the Hidden Roses of Athena">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="7 Wonders: Treasures of Seven" label="7 Wonders: Treasures of Seven">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Luxor: Quest for the Afterlife " label="Luxor: Quest for the Afterlife ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Samantha Swift and the Golden Touch" label="Samantha Swift and the Golden Touch">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Virtual Villagers: A New Home" label="Virtual Villagers: A New Home">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Virtual Villagers: The Lost Children" label="Virtual Villagers: The Lost Children">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Plant Tycoon" label="Plant Tycoon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fish Tycoon" label="Fish Tycoon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Virtual Villagers - The Secret City" label="Virtual Villagers - The Secret City">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Virtual Families" label="Virtual Families">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="F.E.A.R. 2: Project Origin" label="F.E.A.R. 2: Project Origin">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chaos Theory" label="Chaos Theory">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Trials 2: Second Edition" label="Trials 2: Second Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Monster Trucks Nitro " label="Monster Trucks Nitro ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Insecticide Part 1" label="Insecticide Part 1">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Velvet Assassin" label="Velvet Assassin">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Legendary" label="Legendary">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sid Meier's Civilization IV: Colonization" label="Sid Meier's Civilization IV: Colonization">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Children of the Nile: Enhanced Edition" label="Children of the Nile: Enhanced Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Children of the Nile: Alexandria" label="Children of the Nile: Alexandria">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hinterland" label="Hinterland">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mosby's Confederacy" label="Mosby's Confederacy">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crysis" label="Crysis">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crysis Warhead®" label="Crysis Warhead®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SPORE™" label="SPORE™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mirror's Edge™" label="Mirror's Edge™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Need for Speed Undercover" label="Need for Speed Undercover">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SPORE™ Creepy &amp; Cute Parts Pack" label="SPORE™ Creepy &amp; Cute Parts Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dragon Age: Origins" label="Dragon Age: Origins">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mass Effect" label="Mass Effect">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dead Space" label="Dead Space">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Command &amp; Conquer: Red Alert 3" label="Command &amp; Conquer: Red Alert 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zombie Panic! Source" label="Zombie Panic! Source">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Empires Mod" label="Empires Mod">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Precipice of Darkness, Episode One" label="Precipice of Darkness, Episode One">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Precipice of Darkness, Episode Two" label="Precipice of Darkness, Episode Two">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Spectraball" label="Spectraball">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crazy Machines 2" label="Crazy Machines 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crazy Machines" label="Crazy Machines">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Helldorado" label="Helldorado">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mata Hari" label="Mata Hari">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Defense Grid: The Awakening" label="Defense Grid: The Awakening">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mayhem Intergalactic" label="Mayhem Intergalactic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="And Yet It Moves" label="And Yet It Moves">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Silent Hill Homecoming" label="Silent Hill Homecoming">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tank Universal" label="Tank Universal">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Eternity's Child" label="Eternity's Child">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Brothers in Arms: Earned in Blood™" label="Brothers in Arms: Earned in Blood™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's Rainbow Six® 3 Gold" label="Tom Clancy's Rainbow Six® 3 Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Far Cry® 2: Fortune's Edition" label="Far Cry® 2: Fortune's Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Prince of Persia®" label="Prince of Persia®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Galactic Bowling" label="Galactic Bowling">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="S.T.A.L.K.E.R.: Clear Sky" label="S.T.A.L.K.E.R.: Clear Sky">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Red Faction" label="Red Faction">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Company of Heroes: Tales of Valor" label="Company of Heroes: Tales of Valor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Red Faction II" label="Red Faction II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Starscape" label="Starscape">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mr. Robot" label="Mr. Robot">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Witcher: Enhanced Edition Director's Cut" label="The Witcher: Enhanced Edition Director's Cut">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="LEGO® Batman™: The Videogame" label="LEGO® Batman™: The Videogame">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Watchmen: The End is Nigh" label="Watchmen: The End is Nigh">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Watchmen: The End is Nigh Part 2" label="Watchmen: The End is Nigh Part 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gravitron 2" label="Gravitron 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Project Aftermath" label="Project Aftermath">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Pyroblazer®" label="Pyroblazer®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Flock!" label="Flock!">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Street Fighter® IV" label="Street Fighter® IV">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bionic Commando" label="Bionic Commando">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bionic Commando: Rearmed" label="Bionic Commando: Rearmed">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Resident Evil™ 5/ Biohazard 5®" label="Resident Evil™ 5/ Biohazard 5®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Driver® Parallel Lines" label="Driver® Parallel Lines">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tom Clancy's EndWar™" label="Tom Clancy's EndWar™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Call of Juarez®: Bound in Blood" label="Call of Juarez®: Bound in Blood">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="World of Goo" label="World of Goo">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mount &amp; Blade" label="Mount &amp; Blade">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Penumbra: Black Plague Gold Edition" label="Penumbra: Black Plague Gold Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hearts of Iron 2 Complete" label="Hearts of Iron 2 Complete">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Penumbra Overture" label="Penumbra Overture">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zeno Clash" label="Zeno Clash">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fallout 3" label="Fallout 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rogue Warrior" label="Rogue Warrior">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Elder Scrolls III: Morrowind® Game of the Year Edition" label="The Elder Scrolls III: Morrowind® Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Elder Scrolls IV: Oblivion® Game of the Year Edition" label="The Elder Scrolls IV: Oblivion® Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fallout 3: Game of the Year Edition" label="Fallout 3: Game of the Year Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Spectromancer" label="Spectromancer">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Yosumin!™" label="Yosumin!™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gyromancer" label="Gyromancer">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Imperium Romanum Gold Edition" label="Imperium Romanum Gold Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Europa Universalis: Rome - Gold Edition " label="Europa Universalis: Rome - Gold Edition ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Grand Ages: Rome" label="Grand Ages: Rome">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ceville" label="Ceville">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tropico 3" label="Tropico 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Puzzle Quest: Galactrix" label="Puzzle Quest: Galactrix">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Puzzle Kingdoms" label="Puzzle Kingdoms">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="King Arthur - The Role-playing Wargame" label="King Arthur - The Role-playing Wargame">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crusaders: Thy Kingdom Come" label="Crusaders: Thy Kingdom Come">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Aquaria" label="Aquaria">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SPORE™ Galactic Adventures" label="SPORE™ Galactic Adventures">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Burnout Paradise: The Ultimate Box" label="Burnout Paradise: The Ultimate Box">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Command &amp; Conquer 3: Tiberium Wars" label="Command &amp; Conquer 3: Tiberium Wars">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Command &amp; Conquer: Red Alert 3 - Uprising" label="Command &amp; Conquer: Red Alert 3 - Uprising">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Command &amp; Conquer 3: Kane's Wrath" label="Command &amp; Conquer 3: Kane's Wrath">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Medal of Honor: Airborne" label="Medal of Honor: Airborne">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Need for Speed: Shift" label="Need for Speed: Shift">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Cricket Revolution" label="Cricket Revolution">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Eschalon: Book I" label="Eschalon: Book I">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Madballs in Babo:Invasion " label="Madballs in Babo:Invasion ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Europa Universalis III Complete" label="Europa Universalis III Complete">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Knights of Honor" label="Knights of Honor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Elven Legacy" label="Elven Legacy">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hearts of Iron III" label="Hearts of Iron III">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="King's Bounty: The Legend" label="King's Bounty: The Legend">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Supreme Ruler 2020 Gold" label="Supreme Ruler 2020 Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="East India Company" label="East India Company">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Majesty 2" label="Majesty 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Majesty Gold HD" label="Majesty Gold HD">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Maw" label="The Maw">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Drug Wars" label="Drug Wars">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Braid" label="Braid">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crayon Physics Deluxe" label="Crayon Physics Deluxe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Path" label="The Path">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Graveyard" label="The Graveyard">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fatale" label="Fatale">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Summer Athletics" label="Summer Athletics">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dangerous High School Girls in Trouble!™" label="Dangerous High School Girls in Trouble!™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mevo and The Grooveriders" label="Mevo and The Grooveriders">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Space Giraffe" label="Space Giraffe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Twin Sector" label="Twin Sector">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Yumsters 2: Around the World" label="Yumsters 2: Around the World">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Musaic Box" label="Musaic Box">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Blueberry Garden" label="Blueberry Garden">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Osmos" label="Osmos">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Caster" label="Caster">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dark Sector" label="Dark Sector">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tunnel Rats" label="Tunnel Rats">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Danger by Design" label="Nancy Drew®: Danger by Design">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Last Train to Blue Moon Canyon" label="Nancy Drew®: Last Train to Blue Moon Canyon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: The Haunted Carousel" label="Nancy Drew®: The Haunted Carousel">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Curse of Blackmoor Manor" label="Nancy Drew®: Curse of Blackmoor Manor">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Danger on Deception Island" label="Nancy Drew®: Danger on Deception Island">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Ghost Dogs of Moon Lake" label="Nancy Drew®: Ghost Dogs of Moon Lake">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Legend of the Crystal Skull" label="Nancy Drew®: Legend of the Crystal Skull">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew® Dossier: Lights, Camera, Curses!" label="Nancy Drew® Dossier: Lights, Camera, Curses!">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Secret of the Old Clock" label="Nancy Drew®: Secret of the Old Clock">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Secret of the Scarlet Hand" label="Nancy Drew®: Secret of the Scarlet Hand">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: The Creature of Kapu Cave" label="Nancy Drew®: The Creature of Kapu Cave">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: The Haunting of Castle Malloy" label="Nancy Drew®: The Haunting of Castle Malloy">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: The Phantom of Venice" label="Nancy Drew®: The Phantom of Venice">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: The White Wolf of Icicle Creek" label="Nancy Drew®: The White Wolf of Icicle Creek">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nancy Drew®: Ransom of the Seven Ships" label="Nancy Drew®: Ransom of the Seven Ships">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Raycatcher" label="Raycatcher">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="LUXOR: Mah Jong" label="LUXOR: Mah Jong">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chainz 2: Relinked" label="Chainz 2: Relinked">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Midnight Mysteries" label="Midnight Mysteries">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Everyday Genius: SquareLogic" label="Everyday Genius: SquareLogic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zombie Bowl-o-Rama" label="Zombie Bowl-o-Rama">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Metal Drift" label="Metal Drift">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Indiana Jones® and the Last Crusade™" label="Indiana Jones® and the Last Crusade™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="LEGO® Indiana Jones™: The Original Adventures" label="LEGO® Indiana Jones™: The Original Adventures">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="LOOM™" label="LOOM™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Starfighter™" label="STAR WARS™ Starfighter™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Secret of Monkey Island: Special Edition" label="The Secret of Monkey Island: Special Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ - Knights of the Old Republic™" label="STAR WARS™ - Knights of the Old Republic™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Jedi Knight: Dark Forces II" label="STAR WARS™ Jedi Knight: Dark Forces II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ Jedi Knight - Mysteries of the Sith™" label="STAR WARS™ Jedi Knight - Mysteries of the Sith™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ - Dark Forces" label="STAR WARS™ - Dark Forces">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Lucidity™" label="Lucidity™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™: The Clone Wars - Republic Heroes™" label="STAR WARS™: The Clone Wars - Republic Heroes™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition" label="STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="LEGO® Star Wars™ - The Complete Saga" label="LEGO® Star Wars™ - The Complete Saga">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force Xtreme 2" label="Delta Force Xtreme 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force" label="Delta Force">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force 2" label="Delta Force 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force Land Warrior" label="Delta Force Land Warrior">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force: Task Force Dagger" label="Delta Force: Task Force Dagger">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force: Xtreme" label="Delta Force: Xtreme">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force: Black Hawk Down" label="Delta Force: Black Hawk Down">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Delta Force — Black Hawk Down: Team Sabre" label="Delta Force — Black Hawk Down: Team Sabre">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Armored Fist 3" label="Armored Fist 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="F-16 Multirole Fighter" label="F-16 Multirole Fighter">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="F-22 Lightning 3" label="F-22 Lightning 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="MiG-29 Fulcrum" label="MiG-29 Fulcrum">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Comanche 4" label="Comanche 4">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tachyon: The Fringe" label="Tachyon: The Fringe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Joint Operations: Combined Arms Gold" label="Joint Operations: Combined Arms Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Restaurant Empire II" label="Restaurant Empire II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Alien Shooter" label="Alien Shooter">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Alien Shooter: Revisited" label="Alien Shooter: Revisited">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Alien Shooter 2: Reloaded" label="Alien Shooter 2: Reloaded">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zombie Shooter" label="Zombie Shooter">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Zombie Shooter 2" label="Zombie Shooter 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tropico Reloaded" label="Tropico Reloaded">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Broken Sword 2 - the Smoking Mirror: Remastered" label="Broken Sword 2 - the Smoking Mirror: Remastered">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Broken Sword 3 - the Sleeping Dragon" label="Broken Sword 3 - the Sleeping Dragon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Crash Time 3" label="Crash Time 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Arma 2" label="Arma 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Death to Spies: Moment of Truth" label="Death to Spies: Moment of Truth">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="XIII Century – Gold Edition" label="XIII Century – Gold Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Light of Altair" label="Light of Altair">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Order of War™" label="Order of War™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Massive Assault" label="Massive Assault">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Massive Assault: Phantom Renaissance" label="Massive Assault: Phantom Renaissance">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chronicles of Mystery: The Scorpio Ritual" label="Chronicles of Mystery: The Scorpio Ritual">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Project Freedom" label="Project Freedom">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Combat Wings: Battle of Britain" label="Combat Wings: Battle of Britain">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Bad Rats: the Rats' Revenge" label="Bad Rats: the Rats' Revenge">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mini Ninjas" label="Mini Ninjas">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Flora's Fruit Farm" label="Flora's Fruit Farm">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Warfare" label="Warfare">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Clutch" label="Clutch">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Big Brain Wolf" label="Big Brain Wolf">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Trine Enchanted Edition" label="Trine Enchanted Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="BRAINPIPE: A Plunge to Unhumanity" label="BRAINPIPE: A Plunge to Unhumanity">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Foreign Legion: Buckets of Blood" label="Foreign Legion: Buckets of Blood">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tradewinds Classics" label="Tradewinds Classics">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Tradewinds Caravans + Odyssey Pack" label="Tradewinds Caravans + Odyssey Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Cake Mania Collection" label="Cake Mania Collection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Monster Mash" label="Monster Mash">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Kuros" label="Kuros">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Angle of Attack" label="Angle of Attack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="All Aspect Warfare" label="All Aspect Warfare">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Void" label="The Void">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ninja Blade" label="Ninja Blade">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Aztaka" label="Aztaka">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chocolatier®: Decadence by Design™" label="Chocolatier®: Decadence by Design™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Cooking Dash®" label="Cooking Dash®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Diaper Dash®" label="Diaper Dash®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Diner Dash:® Hometown Hero™" label="Diner Dash:® Hometown Hero™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Emerald City Confidential™" label="Emerald City Confidential™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Wandering Willows™" label="Wandering Willows™">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Wedding Dash® 2: Rings Around the World" label="Wedding Dash® 2: Rings Around the World">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="DinerTown Tycoon" label="DinerTown Tycoon">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack" label="Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Magnetis " label="Magnetis ">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Windosill" label="Windosill">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Quantz" label="Quantz">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Jewel Quest Pack" label="Jewel Quest Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mahjong Quest Collection" label="Mahjong Quest Collection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Coconut Queen" label="Coconut Queen">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Build-A-Lot" label="Build-A-Lot">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Build-A-Lot 2: Town of the Year" label="Build-A-Lot 2: Town of the Year">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Build-A-Lot 3: Passport to Europe" label="Build-A-Lot 3: Passport to Europe">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Build-A-Lot 4: Power Source" label="Build-A-Lot 4: Power Source">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Roogoo" label="Roogoo">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fallout 2: A Post Nuclear Role Playing Game" label="Fallout 2: A Post Nuclear Role Playing Game">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Fallout Tactics: Brotherhood of Steel" label="Fallout Tactics: Brotherhood of Steel">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Kingpin — Life of Crime" label="Kingpin — Life of Crime">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="MDK" label="MDK">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="MDK 2" label="MDK 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Earthworm Jim 2" label="Earthworm Jim 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Dungeon Siege II" label="Dungeon Siege II">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gothic® 3" label="Gothic® 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="SpellForce - Platinum Edition" label="SpellForce - Platinum Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Painkiller: Resurrection" label="Painkiller: Resurrection">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Nation Red" label="Nation Red">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="ItzaBitza" label="ItzaBitza">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="ItzaZoo" label="ItzaZoo">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Risen" label="Risen">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Rush for Berlin Gold" label="Rush for Berlin Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Secret Files: Tunguska" label="Secret Files: Tunguska">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Secret Files 2: Puritas Cordis" label="Secret Files 2: Puritas Cordis">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="AI War: Fleet Command" label="AI War: Fleet Command">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Sacraboar" label="Sacraboar">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Machinarium" label="Machinarium">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Samorost 2" label="Samorost 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Serious Sam HD: The First Encounter" label="Serious Sam HD: The First Encounter">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Hammerfight" label="Hammerfight">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Altitude" label="Altitude">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Doom Rails" label="Doom Rails">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Torchlight" label="Torchlight">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Earthworm Jim 3D" label="Earthworm Jim 3D">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gratuitous Space Battles" label="Gratuitous Space Battles">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="The Bard's Tale" label="The Bard's Tale">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="For The Glory: A Europa Universalis Game" label="For The Glory: A Europa Universalis Game">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Elven Legacy: Magic" label="Elven Legacy: Magic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Elven Legacy: Siege" label="Elven Legacy: Siege">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Elven Legacy: Ranger" label="Elven Legacy: Ranger">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="World of Zoo" label="World of Zoo">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Devil May Cry 4" label="Devil May Cry 4">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mystery Case Files: Madame Fate®" label="Mystery Case Files: Madame Fate®">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geneforge 3" label="Geneforge 3">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geneforge 4: Rebellion" label="Geneforge 4: Rebellion">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geneforge 5: Overthrow" label="Geneforge 5: Overthrow">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Company of Heroes" label="Company of Heroes">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Lunnye Devitsy" label="Lunnye Devitsy">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Action" label="Action">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Free to Play" label="Free to Play">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Indie" label="Indie">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Strategy" label="Strategy">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="RPG" label="RPG">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Casual" label="Casual">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Simulation" label="Simulation">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Racing" label="Racing">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Adventure" label="Adventure">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Violent" label="Violent">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Nudity" label="Nudity">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Sports" label="Sports">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Gore" label="Gore">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Half-Life 2: Lost Coast" target="Action" id="0" />
+      <edge source="Half-Life Deathmatch: Source" target="Action" id="1" />
+      <edge source="Half-Life 2: Episode One" target="Action" id="2" />
+      <edge source="Portal" target="Action" id="3" />
+      <edge source="Half-Life 2: Episode Two" target="Action" id="4" />
+      <edge source="Team Fortress 2" target="Action" id="5" />
+      <edge source="Team Fortress 2" target="Free to Play" id="6" />
+      <edge source="Left 4 Dead" target="Action" id="7" />
+      <edge source="Left 4 Dead 2" target="Action" id="8" />
+      <edge source="Rag Doll Kung Fu" target="Indie" id="9" />
+      <edge source="Red Orchestra: Ostfront 41-45" target="Action" id="10" />
+      <edge source="Killing Floor" target="Action" id="11" />
+      <edge source="SiN Episodes: Emergence" target="Action" id="12" />
+      <edge source="Darwinia" target="Indie" id="13" />
+      <edge source="Darwinia" target="Strategy" id="14" />
+      <edge source="Uplink" target="Indie" id="15" />
+      <edge source="Uplink" target="Strategy" id="16" />
+      <edge source="DEFCON" target="Indie" id="17" />
+      <edge source="DEFCON" target="Strategy" id="18" />
+      <edge source="Multiwinia" target="Indie" id="19" />
+      <edge source="Dangerous Waters" target="Strategy" id="20" />
+      <edge source="Space Empires IV Deluxe" target="Strategy" id="21" />
+      <edge source="Disciples II: Rise of the Elves " target="Strategy" id="22" />
+      <edge source="Disciples II: Gallean's Return" target="Strategy" id="23" />
+      <edge source="Iron Warriors: T - 72 Tank Command " target="Strategy" id="24" />
+      <edge source="Space Empires V" target="Strategy" id="25" />
+      <edge source="Arx Fatalis" target="RPG" id="26" />
+      <edge source="Earth 2160" target="Strategy" id="27" />
+      <edge source="Two Worlds Epic Edition" target="RPG" id="28" />
+      <edge source="Dark Messiah of Might &amp; Magic" target="Action" id="29" />
+      <edge source="Dark Messiah of Might &amp; Magic" target="RPG" id="30" />
+      <edge source="Quake III Arena" target="Action" id="31" />
+      <edge source="Wolfenstein 3D" target="Action" id="32" />
+      <edge source="Ultimate Doom" target="Action" id="33" />
+      <edge source="Final DOOM" target="Action" id="34" />
+      <edge source="DOOM II" target="Action" id="35" />
+      <edge source="QUAKE" target="Action" id="36" />
+      <edge source="QUAKE II" target="Action" id="37" />
+      <edge source="QUAKE II Mission Pack: The Reckoning" target="Action" id="38" />
+      <edge source="QUAKE II Mission Pack: Ground Zero" target="Action" id="39" />
+      <edge source="QUAKE III: Team Arena" target="Action" id="40" />
+      <edge source="HeXen: Beyond Heretic" target="Action" id="41" />
+      <edge source="HeXen: Deathkings of the Dark Citadel" target="Action" id="42" />
+      <edge source="Heretic: Shadow of the Serpent Riders" target="Action" id="43" />
+      <edge source="The Ship: Murder Party" target="Action" id="44" />
+      <edge source="The Ship: Murder Party" target="Indie" id="45" />
+      <edge source="The Ship: Murder Party" target="RPG" id="46" />
+      <edge source="Shadowgrounds" target="Action" id="47" />
+      <edge source="Gumboy - Crazy Adventures™" target="Casual" id="48" />
+      <edge source="Gumboy - Crazy Adventures™" target="Indie" id="49" />
+      <edge source="Alpha Prime" target="Action" id="50" />
+      <edge source="Vampire: The Masquerade - Bloodlines" target="Action" id="51" />
+      <edge source="GUN™" target="Action" id="52" />
+      <edge source="Call of Duty®" target="Action" id="53" />
+      <edge source="Call of Duty® 2" target="Action" id="54" />
+      <edge source="Call of Duty: United Offensive" target="Action" id="55" />
+      <edge source="Act of War: Direct Action" target="Action" id="56" />
+      <edge source="ThreadSpace: Hyperbol" target="Action" id="57" />
+      <edge source="ThreadSpace: Hyperbol" target="Indie" id="58" />
+      <edge source="ThreadSpace: Hyperbol" target="Strategy" id="59" />
+      <edge source="ARMA: Combat Operations" target="Action" id="60" />
+      <edge source="X2: The Threat" target="Strategy" id="61" />
+      <edge source="X3: Reunion" target="Strategy" id="62" />
+      <edge source="X3: Terran Conflict" target="Action" id="63" />
+      <edge source="X3: Terran Conflict" target="Simulation" id="64" />
+      <edge source="X3: Terran Conflict" target="Strategy" id="65" />
+      <edge source="688(I) Hunter/Killer" target="Strategy" id="66" />
+      <edge source="Fleet Command" target="Strategy" id="67" />
+      <edge source="Sub Command" target="Strategy" id="68" />
+      <edge source="FlatOut 2™" target="Racing" id="69" />
+      <edge source="Xpand Rally" target="Racing" id="70" />
+      <edge source="Call of Juarez™" target="Action" id="71" />
+      <edge source="Xpand Rally Xtreme" target="Racing" id="72" />
+      <edge source="Men of War: Red Tide" target="Strategy" id="73" />
+      <edge source="King's Bounty: Armored Princess" target="RPG" id="74" />
+      <edge source="King's Bounty: Armored Princess" target="Strategy" id="75" />
+      <edge source="Genesis Rising" target="Strategy" id="76" />
+      <edge source="Safecracker: The Ultimate Puzzle Adventure" target="Adventure" id="77" />
+      <edge source="Safecracker: The Ultimate Puzzle Adventure" target="Casual" id="78" />
+      <edge source="Painkiller Overdose" target="Action" id="79" />
+      <edge source="Zuma Deluxe" target="Casual" id="80" />
+      <edge source="Heavy Weapon Deluxe" target="Casual" id="81" />
+      <edge source="Peggle Deluxe" target="Casual" id="82" />
+      <edge source="Peggle Extreme" target="Casual" id="83" />
+      <edge source="Venice Deluxe" target="Casual" id="84" />
+      <edge source="Mystery P.I.™ - The Lottery Ticket" target="Casual" id="85" />
+      <edge source="Amazing Adventures The Lost Tomb™" target="Casual" id="86" />
+      <edge source="Mystery P.I.™ - The Vegas Heist" target="Casual" id="87" />
+      <edge source="Amazing Adventures Around the World" target="Casual" id="88" />
+      <edge source="Peggle™ Nights" target="Casual" id="89" />
+      <edge source="Bejeweled Twist" target="Strategy" id="90" />
+      <edge source="Bejeweled Twist" target="Casual" id="91" />
+      <edge source="Mystery P.I.™ - The New York Fortune" target="Casual" id="92" />
+      <edge source="The Wizard's Pen™" target="Casual" id="93" />
+      <edge source="Plants vs. Zombies GOTY Edition" target="Strategy" id="94" />
+      <edge source="Escape Rosecliff Island" target="Casual" id="95" />
+      <edge source="Mystery P.I. - Lost in Los Angeles" target="Casual" id="96" />
+      <edge source="Zuma's Revenge!" target="Action" id="97" />
+      <edge source="Zuma's Revenge!" target="Casual" id="98" />
+      <edge source="Sniper Elite" target="Action" id="99" />
+      <edge source="Judge Dredd: Dredd vs. Death" target="Action" id="100" />
+      <edge source="Evil Genius" target="Strategy" id="101" />
+      <edge source="Advent Rising" target="Action" id="102" />
+      <edge source="BloodRayne" target="Action" id="103" />
+      <edge source="BloodRayne 2" target="Action" id="104" />
+      <edge source="Psychonauts" target="Action" id="105" />
+      <edge source="Sid Meier's Civilization® IV" target="Strategy" id="106" />
+      <edge source="Sid Meier's Civilization® III Complete" target="Strategy" id="107" />
+      <edge source="Sid Meier's Pirates!" target="RPG" id="108" />
+      <edge source="Shattered Union" target="Strategy" id="109" />
+      <edge source="CivCity: Rome" target="Strategy" id="110" />
+      <edge source="Civilization IV®: Warlords" target="Strategy" id="111" />
+      <edge source="Garry's Mod" target="Indie" id="112" />
+      <edge source="Garry's Mod" target="Simulation" id="113" />
+      <edge source="Poker Superstars II" target="Casual" id="114" />
+      <edge source="Poker Superstars II" target="Strategy" id="115" />
+      <edge source="Poker Superstars II" target="Indie" id="116" />
+      <edge source="RACE - The WTCC Game" target="Racing" id="117" />
+      <edge source="RACE: Caterham Expansion" target="Racing" id="118" />
+      <edge source="RoboBlitz" target="Action" id="119" />
+      <edge source="RoboBlitz" target="Indie" id="120" />
+      <edge source="Silverfall" target="RPG" id="121" />
+      <edge source="City Life 2008" target="Simulation" id="122" />
+      <edge source="City Life 2008" target="Strategy" id="123" />
+      <edge source="Silverfall: Earth Awakening" target="RPG" id="124" />
+      <edge source="S.T.A.L.K.E.R.: Shadow of Chernobyl" target="Action" id="125" />
+      <edge source="S.T.A.L.K.E.R.: Shadow of Chernobyl" target="RPG" id="126" />
+      <edge source="Full Spectrum Warrior" target="Action" id="127" />
+      <edge source="Full Spectrum Warrior" target="Strategy" id="128" />
+      <edge source="Full Spectrum Warrior: Ten Hammers" target="Action" id="129" />
+      <edge source="Full Spectrum Warrior: Ten Hammers" target="Strategy" id="130" />
+      <edge source="Company of Heroes - Legacy Edition" target="Violent" id="131" />
+      <edge source="Company of Heroes - Legacy Edition" target="Action" id="132" />
+      <edge source="Company of Heroes - Legacy Edition" target="Strategy" id="133" />
+      <edge source="Warhammer® 40,000: Dawn of War® - Game of the Year Edition" target="Strategy" id="134" />
+      <edge source="Warhammer® 40,000: Dawn of War® - Dark Crusade" target="Strategy" id="135" />
+      <edge source="Total War: MEDIEVAL II – Definitive Edition" target="Strategy" id="136" />
+      <edge source="Rome: Total War™ - Collection" target="Strategy" id="137" />
+      <edge source="Rome: Total War™ - Alexander" target="Strategy" id="138" />
+      <edge source="Medieval II: Total War™ Kingdoms" target="Strategy" id="139" />
+      <edge source="Heroes of Annihilated Empires" target="Strategy" id="140" />
+      <edge source="Zen of Sudoku" target="Casual" id="141" />
+      <edge source="Zen of Sudoku" target="Indie" id="142" />
+      <edge source="STAR WARS™ Republic Commando™" target="Action" id="143" />
+      <edge source="Indiana Jones® and the Fate of Atlantis™" target="Adventure" id="144" />
+      <edge source="STAR WARS™ Jedi Knight - Jedi Academy™" target="Action" id="145" />
+      <edge source="STAR WARS™ Jedi Knight II - Jedi Outcast™" target="Action" id="146" />
+      <edge source="The Dig®" target="Adventure" id="147" />
+      <edge source="Star Wars: Battlefront 2 (Classic, 2005)" target="Action" id="148" />
+      <edge source="Thrillville®: Off the Rails™" target="Action" id="149" />
+      <edge source="Thrillville®: Off the Rails™" target="Adventure" id="150" />
+      <edge source="Thrillville®: Off the Rails™" target="Racing" id="151" />
+      <edge source="Thrillville®: Off the Rails™" target="Simulation" id="152" />
+      <edge source="Thrillville®: Off the Rails™" target="Strategy" id="153" />
+      <edge source="Armed and Dangerous®" target="Action" id="154" />
+      <edge source="Ghost Master®" target="Strategy" id="155" />
+      <edge source="Vegas: Make It Big™" target="Strategy" id="156" />
+      <edge source="FlatOut" target="Racing" id="157" />
+      <edge source="Making History: The Calm &amp; the Storm" target="Action" id="158" />
+      <edge source="Making History: The Calm &amp; the Storm" target="Strategy" id="159" />
+      <edge source="Ducati World Championship" target="Racing" id="160" />
+      <edge source="Dreamfall: The Longest Journey" target="Adventure" id="161" />
+      <edge source="Dreamfall: The Longest Journey" target="RPG" id="162" />
+      <edge source="The Longest Journey" target="Action" id="163" />
+      <edge source="The Longest Journey" target="Adventure" id="164" />
+      <edge source="The Longest Journey" target="RPG" id="165" />
+      <edge source="Joint Task Force" target="Action" id="166" />
+      <edge source="Joint Task Force" target="Strategy" id="167" />
+      <edge source="Nexus - The Jupiter Incident" target="Indie" id="168" />
+      <edge source="Nexus - The Jupiter Incident" target="Simulation" id="169" />
+      <edge source="Nexus - The Jupiter Incident" target="Strategy" id="170" />
+      <edge source="Lost Planet™: Extreme Condition" target="Action" id="171" />
+      <edge source="Lost Planet™: Extreme Condition" target="Adventure" id="172" />
+      <edge source="Devil May Cry® 3 Special Edition" target="Action" id="173" />
+      <edge source="Commandos: Behind Enemy Lines" target="Action" id="174" />
+      <edge source="Commandos: Beyond the Call of Duty" target="Action" id="175" />
+      <edge source="Commandos 2: Men of Courage" target="Action" id="176" />
+      <edge source="Commandos 3: Destination Berlin" target="Action" id="177" />
+      <edge source="Hitman 2: Silent Assassin" target="Action" id="178" />
+      <edge source="Hitman: Blood Money" target="Action" id="179" />
+      <edge source="Battlestations: Midway" target="Action" id="180" />
+      <edge source="Just Cause" target="Action" id="181" />
+      <edge source="Hitman: Codename 47" target="Action" id="182" />
+      <edge source="Deus Ex: Game of the Year Edition" target="Action" id="183" />
+      <edge source="Deus Ex: Invisible War" target="Action" id="184" />
+      <edge source="Thief: Deadly Shadows" target="Action" id="185" />
+      <edge source="Tomb Raider: Legend" target="Action" id="186" />
+      <edge source="Tomb Raider: Legend" target="Adventure" id="187" />
+      <edge source="Project: Snowblind" target="Action" id="188" />
+      <edge source="Rogue Trooper" target="Action" id="189" />
+      <edge source="Jade Empire™: Special Edition" target="RPG" id="190" />
+      <edge source="Trackmania United Forever Star Edition" target="Racing" id="191" />
+      <edge source="Runaway, A Road Adventure" target="Adventure" id="192" />
+      <edge source="Runaway, The Dream of The Turtle" target="Adventure" id="193" />
+      <edge source="Loki" target="RPG" id="194" />
+      <edge source="X-Blades" target="Nudity" id="195" />
+      <edge source="X-Blades" target="Violent" id="196" />
+      <edge source="X-Blades" target="Action" id="197" />
+      <edge source="X-Blades" target="Adventure" id="198" />
+      <edge source="X-Blades" target="RPG" id="199" />
+      <edge source="Sid Meier's Railroads!" target="Strategy" id="200" />
+      <edge source="Railroad Tycoon 3" target="Strategy" id="201" />
+      <edge source="Railroad Tycoon II Platinum" target="Strategy" id="202" />
+      <edge source="X-COM: Terror From the Deep" target="Strategy" id="203" />
+      <edge source="X-COM: Apocalypse" target="Strategy" id="204" />
+      <edge source="X-COM: Interceptor" target="Strategy" id="205" />
+      <edge source="X-COM: UFO Defense" target="Strategy" id="206" />
+      <edge source="X-COM: Enforcer" target="Strategy" id="207" />
+      <edge source="Men of War™" target="Strategy" id="208" />
+      <edge source="Death Track®: Resurrection" target="Racing" id="209" />
+      <edge source="NecroVision" target="Action" id="210" />
+      <edge source="Call of Duty® 4: Modern Warfare®" target="Action" id="211" />
+      <edge source="Tomb Raider: Anniversary" target="Action" id="212" />
+      <edge source="Tomb Raider: Anniversary" target="Adventure" id="213" />
+      <edge source="Kane and Lynch: Dead Men™" target="Action" id="214" />
+      <edge source="Conflict: Denied Ops" target="Action" id="215" />
+      <edge source="Tomb Raider: Underworld" target="Action" id="216" />
+      <edge source="Tomb Raider: Underworld" target="Adventure" id="217" />
+      <edge source="Battlestations Pacific" target="Action" id="218" />
+      <edge source="Battlestations Pacific" target="Strategy" id="219" />
+      <edge source="Bone: Out From Boneville" target="Adventure" id="220" />
+      <edge source="Bone: The Great Cow Race" target="Adventure" id="221" />
+      <edge source="Telltale Texas Hold ‘Em" target="Casual" id="222" />
+      <edge source="Strong Bad's Cool Game for Attractive People: Season 1" target="Adventure" id="223" />
+      <edge source="Geometry Wars: Retro Evolved" target="Casual" id="224" />
+      <edge source="RACE 07" target="Racing" id="225" />
+      <edge source="Civilization IV: Beyond the Sword" target="Strategy" id="226" />
+      <edge source="Freedom Force" target="RPG" id="227" />
+      <edge source="Freedom Force" target="Strategy" id="228" />
+      <edge source="Freedom Force vs. the Third Reich" target="RPG" id="229" />
+      <edge source="Freedom Force vs. the Third Reich" target="Strategy" id="230" />
+      <edge source="Spear of Destiny" target="Action" id="231" />
+      <edge source="Return to Castle Wolfenstein" target="Action" id="232" />
+      <edge source="QUAKE Mission Pack 2: Dissolution of Eternity" target="Action" id="233" />
+      <edge source="QUAKE Mission Pack 1: Scourge of Armagon" target="Action" id="234" />
+      <edge source="DOOM 3" target="Action" id="235" />
+      <edge source="HeXen II" target="Action" id="236" />
+      <edge source="Master Levels for Doom II" target="Action" id="237" />
+      <edge source="Commander Keen" target="Action" id="238" />
+      <edge source="Warhammer® 40,000: Dawn of War® – Winter Assault" target="Strategy" id="239" />
+      <edge source="Company of Heroes: Opposing Fronts" target="Action" id="240" />
+      <edge source="Company of Heroes: Opposing Fronts" target="Strategy" id="241" />
+      <edge source="Warhammer® 40,000: Dawn of War® - Soulstorm" target="Strategy" id="242" />
+      <edge source="Frontlines™: Fuel of War™" target="Action" id="243" />
+      <edge source="Saints Row 2" target="Action" id="244" />
+      <edge source="Gish" target="Indie" id="245" />
+      <edge source="Desperados 2: Cooper's Revenge" target="Action" id="246" />
+      <edge source="Act of War: High Treason" target="Action" id="247" />
+      <edge source="Death to Spies" target="Action" id="248" />
+      <edge source="Death to Spies" target="Adventure" id="249" />
+      <edge source="Codename: Panzers - Cold War" target="Simulation" id="250" />
+      <edge source="Codename: Panzers - Cold War" target="Strategy" id="251" />
+      <edge source="Call of Duty: World at War" target="Action" id="252" />
+      <edge source="King's Quest™ Collection" target="Adventure" id="253" />
+      <edge source="Space Quest™ Collection" target="Adventure" id="254" />
+      <edge source="Aces of the Galaxy™" target="Action" id="255" />
+      <edge source="Aces of the Galaxy™" target="Casual" id="256" />
+      <edge source="TimeShift™" target="Action" id="257" />
+      <edge source="3D Ultra™ Minigolf Adventures" target="Sports" id="258" />
+      <edge source="Prototype™" target="Action" id="259" />
+      <edge source="Prototype™" target="Adventure" id="260" />
+      <edge source="Call of Duty®: Modern Warfare® 2" target="Action" id="261" />
+      <edge source="The Club™" target="Action" id="262" />
+      <edge source="Total War: EMPIRE – Definitive Edition" target="Strategy" id="263" />
+      <edge source="TrackMania Nations Forever" target="Racing" id="264" />
+      <edge source="Sherlock Holmes - Nemesis" target="Adventure" id="265" />
+      <edge source="Sherlock Holmes - Nemesis" target="RPG" id="266" />
+      <edge source="Dracula Origin" target="Adventure" id="267" />
+      <edge source="Sherlock Holmes: The Mystery of the Mummy" target="Adventure" id="268" />
+      <edge source="Sherlock Holmes: The Awakened - Remastered Edition" target="Adventure" id="269" />
+      <edge source="Sherlock Holmes: The Silver Earring" target="Adventure" id="270" />
+      <edge source="Sherlock Holmes versus Jack the Ripper" target="Adventure" id="271" />
+      <edge source="Sherlock Holmes versus Jack the Ripper" target="RPG" id="272" />
+      <edge source="Shadowgrounds Survivor" target="Action" id="273" />
+      <edge source="Gumboy Tournament" target="Casual" id="274" />
+      <edge source="Gumboy Tournament" target="Indie" id="275" />
+      <edge source="Gumboy Tournament" target="Racing" id="276" />
+      <edge source="Space Trader: Merchant Marine" target="Action" id="277" />
+      <edge source="Space Trader: Merchant Marine" target="Indie" id="278" />
+      <edge source="Space Trader: Merchant Marine" target="Strategy" id="279" />
+      <edge source="Pacific Storm" target="Simulation" id="280" />
+      <edge source="Pacific Storm" target="Strategy" id="281" />
+      <edge source="Pacific Storm Allies" target="Simulation" id="282" />
+      <edge source="Pacific Storm Allies" target="Strategy" id="283" />
+      <edge source="Penguins Arena: Sedna's World" target="Action" id="284" />
+      <edge source="Penguins Arena: Sedna's World" target="Casual" id="285" />
+      <edge source="Penguins Arena: Sedna's World" target="Indie" id="286" />
+      <edge source="Obulis" target="Casual" id="287" />
+      <edge source="Obulis" target="Indie" id="288" />
+      <edge source="Larva Mortus" target="Action" id="289" />
+      <edge source="Larva Mortus" target="Indie" id="290" />
+      <edge source="Chains" target="Indie" id="291" />
+      <edge source="Overlord™" target="RPG" id="292" />
+      <edge source="Maelstrom: The Battle for Earth Begins" target="Strategy" id="293" />
+      <edge source="Hospital Tycoon" target="Simulation" id="294" />
+      <edge source="Grand Theft Auto III" target="Action" id="295" />
+      <edge source="Grand Theft Auto: San Andreas" target="Action" id="296" />
+      <edge source="Manhunt" target="Action" id="297" />
+      <edge source="Max Payne" target="Action" id="298" />
+      <edge source="Max Payne 2: The Fall of Max Payne" target="Action" id="299" />
+      <edge source="Grand Theft Auto" target="Action" id="300" />
+      <edge source="Grand Theft Auto 2" target="Action" id="301" />
+      <edge source="Bully: Scholarship Edition" target="Action" id="302" />
+      <edge source="Bully: Scholarship Edition" target="Adventure" id="303" />
+      <edge source="Grand Theft Auto IV" target="Action" id="304" />
+      <edge source="Grand Theft Auto IV" target="Adventure" id="305" />
+      <edge source="Culpa Innata" target="RPG" id="306" />
+      <edge source="Culpa Innata" target="Casual" id="307" />
+      <edge source="Culpa Innata" target="Adventure" id="308" />
+      <edge source="Sacred Gold" target="Action" id="309" />
+      <edge source="Sacred Gold" target="RPG" id="310" />
+      <edge source="Darkstar One" target="Action" id="311" />
+      <edge source="Jack Keane" target="Adventure" id="312" />
+      <edge source="FlatOut: Ultimate Carnage" target="Racing" id="313" />
+      <edge source="Exodus from the Earth " target="Action" id="314" />
+      <edge source="Perimeter 2: New Earth" target="Strategy" id="315" />
+      <edge source="SlamIt Pinball Big Score" target="Casual" id="316" />
+      <edge source="Ankh 2: Heart of Osiris " target="Adventure" id="317" />
+      <edge source="Ankh 3: Battle of the Gods" target="Adventure" id="318" />
+      <edge source="BC Kings" target="Strategy" id="319" />
+      <edge source="Port Royale 2" target="Strategy" id="320" />
+      <edge source="9th Company: Roots Of Terror" target="Strategy" id="321" />
+      <edge source="PuzzleQuest: Challenge of the Warlords" target="Casual" id="322" />
+      <edge source="Prison Tycoon 3™: Lockdown" target="Strategy" id="323" />
+      <edge source="18 Wheels of Steel: American Long Haul" target="Racing" id="324" />
+      <edge source="Hunting Unlimited™ 2008" target="Action" id="325" />
+      <edge source="Hunting Unlimited™ 2008" target="Adventure" id="326" />
+      <edge source="Hunting Unlimited™ 2008" target="Strategy" id="327" />
+      <edge source="Mahjongg Investigations: Under Suspicion" target="Casual" id="328" />
+      <edge source="Ride! Carnival Tycoon" target="Simulation" id="329" />
+      <edge source="Sprint Cars Road to Knoxville" target="Racing" id="330" />
+      <edge source="Midnight Outlaw: 6 Hours to SunUp" target="Racing" id="331" />
+      <edge source="Drakensang" target="RPG" id="332" />
+      <edge source="Mission Runway" target="Simulation" id="333" />
+      <edge source="Overlord™: Raising Hell" target="RPG" id="334" />
+      <edge source="Rise of the Argonauts" target="RPG" id="335" />
+      <edge source="Damnation" target="Action" id="336" />
+      <edge source="Damnation" target="Adventure" id="337" />
+      <edge source="Overlord II" target="RPG" id="338" />
+      <edge source="Operation Flashpoint: Dragon Rising" target="Action" id="339" />
+      <edge source="Ninja Reflex: Steamworks Edition" target="Casual" id="340" />
+      <edge source="Ninja Reflex: Steamworks Edition" target="Indie" id="341" />
+      <edge source="America's Army 3" target="Action" id="342" />
+      <edge source="Unreal 2: The Awakening" target="Action" id="343" />
+      <edge source="Unreal Tournament 3 Black" target="Action" id="344" />
+      <edge source="Unreal Tournament: Game of the Year Edition" target="Action" id="345" />
+      <edge source="Unreal Gold" target="Action" id="346" />
+      <edge source="Prince of Persia: Warrior Within™" target="Action" id="347" />
+      <edge source="Prince of Persia: Warrior Within™" target="Adventure" id="348" />
+      <edge source="Far Cry®" target="Action" id="349" />
+      <edge source="Prince of Persia: The Two Thrones™" target="Action" id="350" />
+      <edge source="Prince of Persia: The Two Thrones™" target="Adventure" id="351" />
+      <edge source="Tom Clancy's Rainbow Six® Vegas" target="Action" id="352" />
+      <edge source="Tom Clancy's Splinter Cell®" target="Action" id="353" />
+      <edge source="Tom Clancy's Splinter Cell Chaos Theory®" target="Action" id="354" />
+      <edge source="Tom Clancy's Splinter Cell Double Agent®" target="Action" id="355" />
+      <edge source="Prince of Persia®: The Sands of Time" target="Action" id="356" />
+      <edge source="Prince of Persia®: The Sands of Time" target="Adventure" id="357" />
+      <edge source="Tom Clancy's Ghost Recon® Desert Siege™" target="Action" id="358" />
+      <edge source="Tom Clancy's Rainbow Six Lockdown™" target="Action" id="359" />
+      <edge source="Rayman Raving Rabbids™" target="Action" id="360" />
+      <edge source="Rayman Raving Rabbids™" target="Adventure" id="361" />
+      <edge source="Assassin's Creed™: Director's Cut Edition" target="Action" id="362" />
+      <edge source="Assassin's Creed™: Director's Cut Edition" target="Adventure" id="363" />
+      <edge source="Tom Clancy's Rainbow Six® Vegas 2" target="Action" id="364" />
+      <edge source="Beyond Good and Evil™" target="Action" id="365" />
+      <edge source="Beyond Good and Evil™" target="Adventure" id="366" />
+      <edge source="Petz® Horsez® 2" target="Simulation" id="367" />
+      <edge source="Heroes of Might &amp; Magic V" target="Strategy" id="368" />
+      <edge source="Brothers in Arms: Road to Hill 30™" target="Action" id="369" />
+      <edge source="Silent Hunter®: Wolves of the Pacific" target="Simulation" id="370" />
+      <edge source="Silent Hunter® III" target="Simulation" id="371" />
+      <edge source="Silent Hunter®: Wolves of the Pacific U-Boat Missions" target="Simulation" id="372" />
+      <edge source="Cold Fear™" target="Action" id="373" />
+      <edge source="Tom Clancy's Ghost Recon®" target="Action" id="374" />
+      <edge source="IL-2 Sturmovik: 1946" target="Simulation" id="375" />
+      <edge source="Heroes of Might &amp; Magic V: Tribes of the East" target="Strategy" id="376" />
+      <edge source="Heroes of Might &amp; Magic V: Hammers of Fate" target="Strategy" id="377" />
+      <edge source="Brothers in Arms: Hell's Highway™" target="Action" id="378" />
+      <edge source="Harvest: Massive Encounter" target="Strategy" id="379" />
+      <edge source="Harvest: Massive Encounter" target="Indie" id="380" />
+      <edge source="The Wonderful End of the World" target="Indie" id="381" />
+      <edge source="The Wonderful End of the World" target="Casual" id="382" />
+      <edge source="AaAaAA!!! - A Reckless Disregard for Gravity" target="Action" id="383" />
+      <edge source="AaAaAA!!! - A Reckless Disregard for Gravity" target="Indie" id="384" />
+      <edge source="AaAaAA!!! - A Reckless Disregard for Gravity" target="Sports" id="385" />
+      <edge source="Warhammer 40,000: Dawn of War II" target="Strategy" id="386" />
+      <edge source="Oddworld: Abe's Oddysee®" target="Adventure" id="387" />
+      <edge source="Oddworld: Abe's Exoddus®" target="Adventure" id="388" />
+      <edge source="Planet Busters" target="Indie" id="389" />
+      <edge source="Planet Busters" target="Casual" id="390" />
+      <edge source="7 Wonders II" target="Casual" id="391" />
+      <edge source="Luxor Amun Rising" target="Casual" id="392" />
+      <edge source="Luxor 2" target="Casual" id="393" />
+      <edge source="Luxor 3" target="Casual" id="394" />
+      <edge source="Little Farm" target="Casual" id="395" />
+      <edge source="Luxor" target="Casual" id="396" />
+      <edge source="Discovery! A Seek and Find Adventure" target="Casual" id="397" />
+      <edge source="Samantha Swift and the Hidden Roses of Athena" target="Casual" id="398" />
+      <edge source="7 Wonders: Treasures of Seven" target="Casual" id="399" />
+      <edge source="Luxor: Quest for the Afterlife " target="Casual" id="400" />
+      <edge source="Samantha Swift and the Golden Touch" target="Casual" id="401" />
+      <edge source="Virtual Villagers: A New Home" target="Casual" id="402" />
+      <edge source="Virtual Villagers: A New Home" target="Simulation" id="403" />
+      <edge source="Virtual Villagers: The Lost Children" target="Casual" id="404" />
+      <edge source="Virtual Villagers: The Lost Children" target="Simulation" id="405" />
+      <edge source="Plant Tycoon" target="Casual" id="406" />
+      <edge source="Plant Tycoon" target="Simulation" id="407" />
+      <edge source="Fish Tycoon" target="Casual" id="408" />
+      <edge source="Fish Tycoon" target="Simulation" id="409" />
+      <edge source="Virtual Villagers - The Secret City" target="Casual" id="410" />
+      <edge source="Virtual Villagers - The Secret City" target="Simulation" id="411" />
+      <edge source="Virtual Families" target="Casual" id="412" />
+      <edge source="Virtual Families" target="Simulation" id="413" />
+      <edge source="F.E.A.R. 2: Project Origin" target="Action" id="414" />
+      <edge source="Chaos Theory" target="Casual" id="415" />
+      <edge source="Chaos Theory" target="Indie" id="416" />
+      <edge source="Trials 2: Second Edition" target="Indie" id="417" />
+      <edge source="Trials 2: Second Edition" target="Racing" id="418" />
+      <edge source="Trials 2: Second Edition" target="Sports" id="419" />
+      <edge source="Monster Trucks Nitro " target="Indie" id="420" />
+      <edge source="Monster Trucks Nitro " target="Racing" id="421" />
+      <edge source="Monster Trucks Nitro " target="Sports" id="422" />
+      <edge source="Insecticide Part 1" target="Action" id="423" />
+      <edge source="Insecticide Part 1" target="Adventure" id="424" />
+      <edge source="Velvet Assassin" target="Action" id="425" />
+      <edge source="Legendary" target="Action" id="426" />
+      <edge source="Sid Meier's Civilization IV: Colonization" target="Strategy" id="427" />
+      <edge source="Children of the Nile: Enhanced Edition" target="Strategy" id="428" />
+      <edge source="Children of the Nile: Enhanced Edition" target="Simulation" id="429" />
+      <edge source="Children of the Nile: Alexandria" target="Strategy" id="430" />
+      <edge source="Children of the Nile: Alexandria" target="Simulation" id="431" />
+      <edge source="Hinterland" target="RPG" id="432" />
+      <edge source="Hinterland" target="Strategy" id="433" />
+      <edge source="Mosby's Confederacy" target="Strategy" id="434" />
+      <edge source="Crysis" target="Action" id="435" />
+      <edge source="Crysis Warhead®" target="Action" id="436" />
+      <edge source="SPORE™" target="Simulation" id="437" />
+      <edge source="Mirror's Edge™" target="Action" id="438" />
+      <edge source="Mirror's Edge™" target="Adventure" id="439" />
+      <edge source="Need for Speed Undercover" target="Action" id="440" />
+      <edge source="Need for Speed Undercover" target="Racing" id="441" />
+      <edge source="SPORE™ Creepy &amp; Cute Parts Pack" target="Simulation" id="442" />
+      <edge source="Dragon Age: Origins" target="RPG" id="443" />
+      <edge source="Mass Effect" target="Action" id="444" />
+      <edge source="Mass Effect" target="RPG" id="445" />
+      <edge source="Dead Space" target="Action" id="446" />
+      <edge source="Command &amp; Conquer: Red Alert 3" target="Strategy" id="447" />
+      <edge source="Zombie Panic! Source" target="Action" id="448" />
+      <edge source="Zombie Panic! Source" target="Free to Play" id="449" />
+      <edge source="Zombie Panic! Source" target="Indie" id="450" />
+      <edge source="Empires Mod" target="Action" id="451" />
+      <edge source="Empires Mod" target="Free to Play" id="452" />
+      <edge source="Empires Mod" target="Strategy" id="453" />
+      <edge source="Precipice of Darkness, Episode One" target="Adventure" id="454" />
+      <edge source="Precipice of Darkness, Episode One" target="RPG" id="455" />
+      <edge source="Precipice of Darkness, Episode Two" target="Adventure" id="456" />
+      <edge source="Precipice of Darkness, Episode Two" target="RPG" id="457" />
+      <edge source="Spectraball" target="Casual" id="458" />
+      <edge source="Spectraball" target="Indie" id="459" />
+      <edge source="Crazy Machines 2" target="Casual" id="460" />
+      <edge source="Crazy Machines 2" target="Strategy" id="461" />
+      <edge source="Crazy Machines" target="Casual" id="462" />
+      <edge source="Crazy Machines" target="Strategy" id="463" />
+      <edge source="Helldorado" target="Strategy" id="464" />
+      <edge source="Mata Hari" target="Adventure" id="465" />
+      <edge source="Defense Grid: The Awakening" target="Indie" id="466" />
+      <edge source="Defense Grid: The Awakening" target="Strategy" id="467" />
+      <edge source="Mayhem Intergalactic" target="Indie" id="468" />
+      <edge source="Mayhem Intergalactic" target="Strategy" id="469" />
+      <edge source="And Yet It Moves" target="Action" id="470" />
+      <edge source="And Yet It Moves" target="Indie" id="471" />
+      <edge source="Silent Hill Homecoming" target="Adventure" id="472" />
+      <edge source="Tank Universal" target="Action" id="473" />
+      <edge source="Tank Universal" target="Indie" id="474" />
+      <edge source="Eternity's Child" target="Adventure" id="475" />
+      <edge source="Eternity's Child" target="Indie" id="476" />
+      <edge source="Brothers in Arms: Earned in Blood™" target="Action" id="477" />
+      <edge source="Tom Clancy's Rainbow Six® 3 Gold" target="Action" id="478" />
+      <edge source="Far Cry® 2: Fortune's Edition" target="Action" id="479" />
+      <edge source="Prince of Persia®" target="Action" id="480" />
+      <edge source="Prince of Persia®" target="Adventure" id="481" />
+      <edge source="Galactic Bowling" target="Indie" id="482" />
+      <edge source="Galactic Bowling" target="Casual" id="483" />
+      <edge source="Galactic Bowling" target="Sports" id="484" />
+      <edge source="S.T.A.L.K.E.R.: Clear Sky" target="Action" id="485" />
+      <edge source="S.T.A.L.K.E.R.: Clear Sky" target="RPG" id="486" />
+      <edge source="Red Faction" target="Action" id="487" />
+      <edge source="Company of Heroes: Tales of Valor" target="Strategy" id="488" />
+      <edge source="Red Faction II" target="Action" id="489" />
+      <edge source="Red Faction II" target="Strategy" id="490" />
+      <edge source="Starscape" target="Action" id="491" />
+      <edge source="Starscape" target="Indie" id="492" />
+      <edge source="Starscape" target="Strategy" id="493" />
+      <edge source="Mr. Robot" target="Action" id="494" />
+      <edge source="Mr. Robot" target="Indie" id="495" />
+      <edge source="Mr. Robot" target="Strategy" id="496" />
+      <edge source="The Witcher: Enhanced Edition Director's Cut" target="Action" id="497" />
+      <edge source="The Witcher: Enhanced Edition Director's Cut" target="RPG" id="498" />
+      <edge source="LEGO® Batman™: The Videogame" target="Action" id="499" />
+      <edge source="LEGO® Batman™: The Videogame" target="Adventure" id="500" />
+      <edge source="Watchmen: The End is Nigh" target="Action" id="501" />
+      <edge source="Watchmen: The End is Nigh Part 2" target="Action" id="502" />
+      <edge source="Gravitron 2" target="Indie" id="503" />
+      <edge source="Gravitron 2" target="Casual" id="504" />
+      <edge source="Project Aftermath" target="Strategy" id="505" />
+      <edge source="Project Aftermath" target="Action" id="506" />
+      <edge source="Project Aftermath" target="Indie" id="507" />
+      <edge source="Pyroblazer®" target="Racing" id="508" />
+      <edge source="Flock!" target="Casual" id="509" />
+      <edge source="Flock!" target="Strategy" id="510" />
+      <edge source="Street Fighter® IV" target="Action" id="511" />
+      <edge source="Bionic Commando" target="Action" id="512" />
+      <edge source="Bionic Commando" target="Adventure" id="513" />
+      <edge source="Bionic Commando: Rearmed" target="Action" id="514" />
+      <edge source="Resident Evil™ 5/ Biohazard 5®" target="Action" id="515" />
+      <edge source="Resident Evil™ 5/ Biohazard 5®" target="Adventure" id="516" />
+      <edge source="Driver® Parallel Lines" target="Racing" id="517" />
+      <edge source="Tom Clancy's EndWar™" target="Strategy" id="518" />
+      <edge source="Call of Juarez®: Bound in Blood" target="Action" id="519" />
+      <edge source="World of Goo" target="Indie" id="520" />
+      <edge source="Mount &amp; Blade" target="Indie" id="521" />
+      <edge source="Mount &amp; Blade" target="RPG" id="522" />
+      <edge source="Penumbra: Black Plague Gold Edition" target="Nudity" id="523" />
+      <edge source="Penumbra: Black Plague Gold Edition" target="Gore" id="524" />
+      <edge source="Penumbra: Black Plague Gold Edition" target="Action" id="525" />
+      <edge source="Penumbra: Black Plague Gold Edition" target="Adventure" id="526" />
+      <edge source="Penumbra: Black Plague Gold Edition" target="Indie" id="527" />
+      <edge source="Hearts of Iron 2 Complete" target="Strategy" id="528" />
+      <edge source="Penumbra Overture" target="Gore" id="529" />
+      <edge source="Penumbra Overture" target="Action" id="530" />
+      <edge source="Penumbra Overture" target="Adventure" id="531" />
+      <edge source="Penumbra Overture" target="Indie" id="532" />
+      <edge source="Zeno Clash" target="Action" id="533" />
+      <edge source="Zeno Clash" target="Indie" id="534" />
+      <edge source="Fallout 3" target="RPG" id="535" />
+      <edge source="Rogue Warrior" target="Action" id="536" />
+      <edge source="The Elder Scrolls III: Morrowind® Game of the Year Edition" target="RPG" id="537" />
+      <edge source="The Elder Scrolls IV: Oblivion® Game of the Year Edition" target="RPG" id="538" />
+      <edge source="Fallout 3: Game of the Year Edition" target="RPG" id="539" />
+      <edge source="Spectromancer" target="Strategy" id="540" />
+      <edge source="Yosumin!™" target="Casual" id="541" />
+      <edge source="Gyromancer" target="RPG" id="542" />
+      <edge source="Imperium Romanum Gold Edition" target="Simulation" id="543" />
+      <edge source="Imperium Romanum Gold Edition" target="Strategy" id="544" />
+      <edge source="Europa Universalis: Rome - Gold Edition " target="Strategy" id="545" />
+      <edge source="Grand Ages: Rome" target="Simulation" id="546" />
+      <edge source="Grand Ages: Rome" target="Strategy" id="547" />
+      <edge source="Ceville" target="Action" id="548" />
+      <edge source="Ceville" target="Adventure" id="549" />
+      <edge source="Ceville" target="Strategy" id="550" />
+      <edge source="Tropico 3" target="Simulation" id="551" />
+      <edge source="Tropico 3" target="Strategy" id="552" />
+      <edge source="Puzzle Quest: Galactrix" target="Casual" id="553" />
+      <edge source="Puzzle Quest: Galactrix" target="RPG" id="554" />
+      <edge source="Puzzle Kingdoms" target="Casual" id="555" />
+      <edge source="King Arthur - The Role-playing Wargame" target="RPG" id="556" />
+      <edge source="King Arthur - The Role-playing Wargame" target="Strategy" id="557" />
+      <edge source="Crusaders: Thy Kingdom Come" target="Strategy" id="558" />
+      <edge source="Aquaria" target="Indie" id="559" />
+      <edge source="SPORE™ Galactic Adventures" target="Action" id="560" />
+      <edge source="SPORE™ Galactic Adventures" target="Simulation" id="561" />
+      <edge source="Burnout Paradise: The Ultimate Box" target="Racing" id="562" />
+      <edge source="Command &amp; Conquer 3: Tiberium Wars" target="Strategy" id="563" />
+      <edge source="Command &amp; Conquer: Red Alert 3 - Uprising" target="Strategy" id="564" />
+      <edge source="Command &amp; Conquer 3: Kane's Wrath" target="Strategy" id="565" />
+      <edge source="Medal of Honor: Airborne" target="Action" id="566" />
+      <edge source="Need for Speed: Shift" target="Racing" id="567" />
+      <edge source="Cricket Revolution" target="Indie" id="568" />
+      <edge source="Cricket Revolution" target="Simulation" id="569" />
+      <edge source="Cricket Revolution" target="Sports" id="570" />
+      <edge source="Eschalon: Book I" target="Indie" id="571" />
+      <edge source="Eschalon: Book I" target="RPG" id="572" />
+      <edge source="Madballs in Babo:Invasion " target="Indie" id="573" />
+      <edge source="Europa Universalis III Complete" target="Strategy" id="574" />
+      <edge source="Knights of Honor" target="Strategy" id="575" />
+      <edge source="Elven Legacy" target="RPG" id="576" />
+      <edge source="Elven Legacy" target="Strategy" id="577" />
+      <edge source="Hearts of Iron III" target="Strategy" id="578" />
+      <edge source="King's Bounty: The Legend" target="RPG" id="579" />
+      <edge source="King's Bounty: The Legend" target="Strategy" id="580" />
+      <edge source="Supreme Ruler 2020 Gold" target="Strategy" id="581" />
+      <edge source="East India Company" target="Strategy" id="582" />
+      <edge source="Majesty 2" target="Simulation" id="583" />
+      <edge source="Majesty 2" target="Strategy" id="584" />
+      <edge source="Majesty Gold HD" target="Strategy" id="585" />
+      <edge source="Majesty Gold HD" target="Simulation" id="586" />
+      <edge source="The Maw" target="Action" id="587" />
+      <edge source="The Maw" target="Indie" id="588" />
+      <edge source="Drug Wars" target="Action" id="589" />
+      <edge source="Drug Wars" target="Indie" id="590" />
+      <edge source="Braid" target="Casual" id="591" />
+      <edge source="Braid" target="Indie" id="592" />
+      <edge source="Braid" target="Strategy" id="593" />
+      <edge source="Crayon Physics Deluxe" target="Casual" id="594" />
+      <edge source="Crayon Physics Deluxe" target="Indie" id="595" />
+      <edge source="The Path" target="Adventure" id="596" />
+      <edge source="The Path" target="Indie" id="597" />
+      <edge source="The Graveyard" target="Indie" id="598" />
+      <edge source="The Graveyard" target="Simulation" id="599" />
+      <edge source="Fatale" target="Adventure" id="600" />
+      <edge source="Fatale" target="Casual" id="601" />
+      <edge source="Fatale" target="Indie" id="602" />
+      <edge source="Summer Athletics" target="Sports" id="603" />
+      <edge source="Dangerous High School Girls in Trouble!™" target="RPG" id="604" />
+      <edge source="Dangerous High School Girls in Trouble!™" target="Indie" id="605" />
+      <edge source="Dangerous High School Girls in Trouble!™" target="Casual" id="606" />
+      <edge source="Mevo and The Grooveriders" target="Indie" id="607" />
+      <edge source="Mevo and The Grooveriders" target="Casual" id="608" />
+      <edge source="Space Giraffe" target="Indie" id="609" />
+      <edge source="Twin Sector" target="Action" id="610" />
+      <edge source="Twin Sector" target="Adventure" id="611" />
+      <edge source="Yumsters 2: Around the World" target="Indie" id="612" />
+      <edge source="Yumsters 2: Around the World" target="Casual" id="613" />
+      <edge source="Musaic Box" target="Indie" id="614" />
+      <edge source="Musaic Box" target="Casual" id="615" />
+      <edge source="Blueberry Garden" target="Adventure" id="616" />
+      <edge source="Blueberry Garden" target="Indie" id="617" />
+      <edge source="Osmos" target="Indie" id="618" />
+      <edge source="Osmos" target="Casual" id="619" />
+      <edge source="Caster" target="Action" id="620" />
+      <edge source="Caster" target="Adventure" id="621" />
+      <edge source="Caster" target="Casual" id="622" />
+      <edge source="Caster" target="Indie" id="623" />
+      <edge source="Caster" target="RPG" id="624" />
+      <edge source="Caster" target="Strategy" id="625" />
+      <edge source="Dark Sector" target="Action" id="626" />
+      <edge source="Tunnel Rats" target="Action" id="627" />
+      <edge source="Nancy Drew®: Danger by Design" target="Adventure" id="628" />
+      <edge source="Nancy Drew®: Last Train to Blue Moon Canyon" target="Adventure" id="629" />
+      <edge source="Nancy Drew®: The Haunted Carousel" target="Adventure" id="630" />
+      <edge source="Nancy Drew®: Curse of Blackmoor Manor" target="Adventure" id="631" />
+      <edge source="Nancy Drew®: Danger on Deception Island" target="Adventure" id="632" />
+      <edge source="Nancy Drew®: Ghost Dogs of Moon Lake" target="Adventure" id="633" />
+      <edge source="Nancy Drew®: Legend of the Crystal Skull" target="Adventure" id="634" />
+      <edge source="Nancy Drew® Dossier: Lights, Camera, Curses!" target="Adventure" id="635" />
+      <edge source="Nancy Drew® Dossier: Lights, Camera, Curses!" target="Casual" id="636" />
+      <edge source="Nancy Drew®: Secret of the Old Clock" target="Adventure" id="637" />
+      <edge source="Nancy Drew®: Secret of the Scarlet Hand" target="Action" id="638" />
+      <edge source="Nancy Drew®: The Creature of Kapu Cave" target="Adventure" id="639" />
+      <edge source="Nancy Drew®: The Haunting of Castle Malloy" target="Adventure" id="640" />
+      <edge source="Nancy Drew®: The Phantom of Venice" target="Adventure" id="641" />
+      <edge source="Nancy Drew®: The White Wolf of Icicle Creek" target="Adventure" id="642" />
+      <edge source="Nancy Drew®: Ransom of the Seven Ships" target="Adventure" id="643" />
+      <edge source="Raycatcher" target="Indie" id="644" />
+      <edge source="Raycatcher" target="Casual" id="645" />
+      <edge source="LUXOR: Mah Jong" target="Casual" id="646" />
+      <edge source="Chainz 2: Relinked" target="Casual" id="647" />
+      <edge source="Midnight Mysteries" target="Adventure" id="648" />
+      <edge source="Midnight Mysteries" target="Casual" id="649" />
+      <edge source="Everyday Genius: SquareLogic" target="Casual" id="650" />
+      <edge source="Everyday Genius: SquareLogic" target="Indie" id="651" />
+      <edge source="Everyday Genius: SquareLogic" target="Strategy" id="652" />
+      <edge source="Zombie Bowl-o-Rama" target="Sports" id="653" />
+      <edge source="Zombie Bowl-o-Rama" target="Casual" id="654" />
+      <edge source="Metal Drift" target="Action" id="655" />
+      <edge source="Metal Drift" target="Indie" id="656" />
+      <edge source="Metal Drift" target="Racing" id="657" />
+      <edge source="Metal Drift" target="Sports" id="658" />
+      <edge source="Indiana Jones® and the Last Crusade™" target="Adventure" id="659" />
+      <edge source="LEGO® Indiana Jones™: The Original Adventures" target="Action" id="660" />
+      <edge source="LEGO® Indiana Jones™: The Original Adventures" target="Adventure" id="661" />
+      <edge source="LOOM™" target="Adventure" id="662" />
+      <edge source="STAR WARS™ Starfighter™" target="Action" id="663" />
+      <edge source="STAR WARS™ Starfighter™" target="Simulation" id="664" />
+      <edge source="The Secret of Monkey Island: Special Edition" target="Adventure" id="665" />
+      <edge source="STAR WARS™ - Knights of the Old Republic™" target="Adventure" id="666" />
+      <edge source="STAR WARS™ - Knights of the Old Republic™" target="RPG" id="667" />
+      <edge source="STAR WARS™ Jedi Knight: Dark Forces II" target="Action" id="668" />
+      <edge source="STAR WARS™ Jedi Knight - Mysteries of the Sith™" target="Action" id="669" />
+      <edge source="STAR WARS™ - Dark Forces" target="Action" id="670" />
+      <edge source="Lucidity™" target="Casual" id="671" />
+      <edge source="STAR WARS™: The Clone Wars - Republic Heroes™" target="Action" id="672" />
+      <edge source="STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition" target="Action" id="673" />
+      <edge source="LEGO® Star Wars™ - The Complete Saga" target="Adventure" id="674" />
+      <edge source="Delta Force Xtreme 2" target="Action" id="675" />
+      <edge source="Delta Force" target="Action" id="676" />
+      <edge source="Delta Force 2" target="Action" id="677" />
+      <edge source="Delta Force Land Warrior" target="Action" id="678" />
+      <edge source="Delta Force: Task Force Dagger" target="Action" id="679" />
+      <edge source="Delta Force: Xtreme" target="Action" id="680" />
+      <edge source="Delta Force: Black Hawk Down" target="Action" id="681" />
+      <edge source="Delta Force — Black Hawk Down: Team Sabre" target="Action" id="682" />
+      <edge source="Armored Fist 3" target="Simulation" id="683" />
+      <edge source="F-16 Multirole Fighter" target="Simulation" id="684" />
+      <edge source="F-22 Lightning 3" target="Simulation" id="685" />
+      <edge source="MiG-29 Fulcrum" target="Simulation" id="686" />
+      <edge source="Comanche 4" target="Action" id="687" />
+      <edge source="Comanche 4" target="Simulation" id="688" />
+      <edge source="Tachyon: The Fringe" target="Simulation" id="689" />
+      <edge source="Joint Operations: Combined Arms Gold" target="Action" id="690" />
+      <edge source="Restaurant Empire II" target="Casual" id="691" />
+      <edge source="Restaurant Empire II" target="Indie" id="692" />
+      <edge source="Restaurant Empire II" target="Simulation" id="693" />
+      <edge source="Restaurant Empire II" target="Strategy" id="694" />
+      <edge source="Alien Shooter" target="Action" id="695" />
+      <edge source="Alien Shooter" target="Indie" id="696" />
+      <edge source="Alien Shooter" target="RPG" id="697" />
+      <edge source="Alien Shooter: Revisited" target="Action" id="698" />
+      <edge source="Alien Shooter: Revisited" target="Indie" id="699" />
+      <edge source="Alien Shooter: Revisited" target="RPG" id="700" />
+      <edge source="Alien Shooter 2: Reloaded" target="Action" id="701" />
+      <edge source="Alien Shooter 2: Reloaded" target="Indie" id="702" />
+      <edge source="Alien Shooter 2: Reloaded" target="RPG" id="703" />
+      <edge source="Zombie Shooter" target="Action" id="704" />
+      <edge source="Zombie Shooter" target="Indie" id="705" />
+      <edge source="Zombie Shooter" target="RPG" id="706" />
+      <edge source="Zombie Shooter 2" target="Action" id="707" />
+      <edge source="Zombie Shooter 2" target="Indie" id="708" />
+      <edge source="Zombie Shooter 2" target="RPG" id="709" />
+      <edge source="Tropico Reloaded" target="Simulation" id="710" />
+      <edge source="Tropico Reloaded" target="Strategy" id="711" />
+      <edge source="Broken Sword 2 - the Smoking Mirror: Remastered" target="Adventure" id="712" />
+      <edge source="Broken Sword 3 - the Sleeping Dragon" target="Adventure" id="713" />
+      <edge source="Crash Time 3" target="Action" id="714" />
+      <edge source="Crash Time 3" target="Racing" id="715" />
+      <edge source="Arma 2" target="Action" id="716" />
+      <edge source="Arma 2" target="Simulation" id="717" />
+      <edge source="Arma 2" target="Strategy" id="718" />
+      <edge source="Death to Spies: Moment of Truth" target="Action" id="719" />
+      <edge source="XIII Century – Gold Edition" target="Strategy" id="720" />
+      <edge source="Light of Altair" target="Indie" id="721" />
+      <edge source="Light of Altair" target="Simulation" id="722" />
+      <edge source="Light of Altair" target="Strategy" id="723" />
+      <edge source="Order of War™" target="Strategy" id="724" />
+      <edge source="Massive Assault" target="Strategy" id="725" />
+      <edge source="Massive Assault: Phantom Renaissance" target="Strategy" id="726" />
+      <edge source="Chronicles of Mystery: The Scorpio Ritual" target="Adventure" id="727" />
+      <edge source="Project Freedom" target="Action" id="728" />
+      <edge source="Project Freedom" target="Simulation" id="729" />
+      <edge source="Combat Wings: Battle of Britain" target="Simulation" id="730" />
+      <edge source="Bad Rats: the Rats' Revenge" target="Indie" id="731" />
+      <edge source="Mini Ninjas" target="Action" id="732" />
+      <edge source="Mini Ninjas" target="Adventure" id="733" />
+      <edge source="Flora's Fruit Farm" target="Casual" id="734" />
+      <edge source="Warfare" target="Strategy" id="735" />
+      <edge source="Clutch" target="Action" id="736" />
+      <edge source="Clutch" target="Racing" id="737" />
+      <edge source="Big Brain Wolf" target="Adventure" id="738" />
+      <edge source="Big Brain Wolf" target="Casual" id="739" />
+      <edge source="Big Brain Wolf" target="Strategy" id="740" />
+      <edge source="Trine Enchanted Edition" target="Action" id="741" />
+      <edge source="Trine Enchanted Edition" target="Adventure" id="742" />
+      <edge source="Trine Enchanted Edition" target="Indie" id="743" />
+      <edge source="BRAINPIPE: A Plunge to Unhumanity" target="Casual" id="744" />
+      <edge source="BRAINPIPE: A Plunge to Unhumanity" target="Indie" id="745" />
+      <edge source="Foreign Legion: Buckets of Blood" target="Action" id="746" />
+      <edge source="Foreign Legion: Buckets of Blood" target="Indie" id="747" />
+      <edge source="Tradewinds Classics" target="Casual" id="748" />
+      <edge source="Tradewinds Caravans + Odyssey Pack" target="Casual" id="749" />
+      <edge source="Cake Mania Collection" target="Casual" id="750" />
+      <edge source="Monster Mash" target="Casual" id="751" />
+      <edge source="Kuros" target="Casual" id="752" />
+      <edge source="Angle of Attack" target="Action" id="753" />
+      <edge source="Angle of Attack" target="Simulation" id="754" />
+      <edge source="All Aspect Warfare" target="Action" id="755" />
+      <edge source="All Aspect Warfare" target="Simulation" id="756" />
+      <edge source="The Void" target="Nudity" id="757" />
+      <edge source="The Void" target="Action" id="758" />
+      <edge source="The Void" target="Adventure" id="759" />
+      <edge source="Ninja Blade" target="Action" id="760" />
+      <edge source="Aztaka" target="Action" id="761" />
+      <edge source="Aztaka" target="RPG" id="762" />
+      <edge source="Aztaka" target="Indie" id="763" />
+      <edge source="Chocolatier®: Decadence by Design™" target="Simulation" id="764" />
+      <edge source="Cooking Dash®" target="Simulation" id="765" />
+      <edge source="Diaper Dash®" target="Simulation" id="766" />
+      <edge source="Diner Dash:® Hometown Hero™" target="Simulation" id="767" />
+      <edge source="Emerald City Confidential™" target="Adventure" id="768" />
+      <edge source="Wandering Willows™" target="Adventure" id="769" />
+      <edge source="Wandering Willows™" target="RPG" id="770" />
+      <edge source="Wedding Dash® 2: Rings Around the World" target="Simulation" id="771" />
+      <edge source="DinerTown Tycoon" target="Simulation" id="772" />
+      <edge source="Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack" target="Adventure" id="773" />
+      <edge source="Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack" target="Indie" id="774" />
+      <edge source="Magnetis " target="Indie" id="775" />
+      <edge source="Magnetis " target="Casual" id="776" />
+      <edge source="Windosill" target="Adventure" id="777" />
+      <edge source="Windosill" target="Casual" id="778" />
+      <edge source="Windosill" target="Indie" id="779" />
+      <edge source="Quantz" target="Indie" id="780" />
+      <edge source="Quantz" target="Casual" id="781" />
+      <edge source="Jewel Quest Pack" target="Casual" id="782" />
+      <edge source="Mahjong Quest Collection" target="Casual" id="783" />
+      <edge source="Coconut Queen" target="Casual" id="784" />
+      <edge source="Coconut Queen" target="Simulation" id="785" />
+      <edge source="Build-A-Lot" target="Simulation" id="786" />
+      <edge source="Build-A-Lot 2: Town of the Year" target="Simulation" id="787" />
+      <edge source="Build-A-Lot 3: Passport to Europe" target="Simulation" id="788" />
+      <edge source="Build-A-Lot 4: Power Source" target="Simulation" id="789" />
+      <edge source="Roogoo" target="Casual" id="790" />
+      <edge source="Fallout 2: A Post Nuclear Role Playing Game" target="RPG" id="791" />
+      <edge source="Fallout Tactics: Brotherhood of Steel" target="Strategy" id="792" />
+      <edge source="Kingpin — Life of Crime" target="Action" id="793" />
+      <edge source="MDK" target="Action" id="794" />
+      <edge source="MDK 2" target="Action" id="795" />
+      <edge source="Earthworm Jim 2" target="Action" id="796" />
+      <edge source="Earthworm Jim 2" target="Adventure" id="797" />
+      <edge source="Dungeon Siege II" target="RPG" id="798" />
+      <edge source="Gothic® 3" target="Action" id="799" />
+      <edge source="Gothic® 3" target="RPG" id="800" />
+      <edge source="SpellForce - Platinum Edition" target="Action" id="801" />
+      <edge source="SpellForce - Platinum Edition" target="RPG" id="802" />
+      <edge source="Painkiller: Resurrection" target="Action" id="803" />
+      <edge source="Nation Red" target="Action" id="804" />
+      <edge source="Nation Red" target="Indie" id="805" />
+      <edge source="ItzaBitza" target="Casual" id="806" />
+      <edge source="ItzaZoo" target="Casual" id="807" />
+      <edge source="Risen" target="RPG" id="808" />
+      <edge source="Rush for Berlin Gold" target="Strategy" id="809" />
+      <edge source="Secret Files: Tunguska" target="Adventure" id="810" />
+      <edge source="Secret Files 2: Puritas Cordis" target="Adventure" id="811" />
+      <edge source="AI War: Fleet Command" target="Indie" id="812" />
+      <edge source="AI War: Fleet Command" target="Strategy" id="813" />
+      <edge source="Sacraboar" target="Action" id="814" />
+      <edge source="Sacraboar" target="Strategy" id="815" />
+      <edge source="Sacraboar" target="Indie" id="816" />
+      <edge source="Machinarium" target="Adventure" id="817" />
+      <edge source="Machinarium" target="Indie" id="818" />
+      <edge source="Samorost 2" target="Adventure" id="819" />
+      <edge source="Samorost 2" target="Casual" id="820" />
+      <edge source="Samorost 2" target="Indie" id="821" />
+      <edge source="Serious Sam HD: The First Encounter" target="Action" id="822" />
+      <edge source="Serious Sam HD: The First Encounter" target="Indie" id="823" />
+      <edge source="Hammerfight" target="Action" id="824" />
+      <edge source="Hammerfight" target="Indie" id="825" />
+      <edge source="Altitude" target="Action" id="826" />
+      <edge source="Altitude" target="Free to Play" id="827" />
+      <edge source="Altitude" target="Indie" id="828" />
+      <edge source="Doom Rails" target="Action" id="829" />
+      <edge source="Doom Rails" target="Indie" id="830" />
+      <edge source="Torchlight" target="RPG" id="831" />
+      <edge source="Earthworm Jim 3D" target="Action" id="832" />
+      <edge source="Earthworm Jim 3D" target="Adventure" id="833" />
+      <edge source="Gratuitous Space Battles" target="Indie" id="834" />
+      <edge source="Gratuitous Space Battles" target="Simulation" id="835" />
+      <edge source="Gratuitous Space Battles" target="Strategy" id="836" />
+      <edge source="The Bard's Tale" target="Action" id="837" />
+      <edge source="The Bard's Tale" target="Adventure" id="838" />
+      <edge source="The Bard's Tale" target="RPG" id="839" />
+      <edge source="For The Glory: A Europa Universalis Game" target="Strategy" id="840" />
+      <edge source="Elven Legacy: Magic" target="Strategy" id="841" />
+      <edge source="Elven Legacy: Siege" target="Strategy" id="842" />
+      <edge source="Elven Legacy: Ranger" target="Strategy" id="843" />
+      <edge source="World of Zoo" target="Simulation" id="844" />
+      <edge source="Devil May Cry 4" target="Action" id="845" />
+      <edge source="Devil May Cry 4" target="Adventure" id="846" />
+      <edge source="Mystery Case Files: Madame Fate®" target="Casual" id="847" />
+      <edge source="Geneforge 3" target="Strategy" id="848" />
+      <edge source="Geneforge 3" target="RPG" id="849" />
+      <edge source="Geneforge 3" target="Indie" id="850" />
+      <edge source="Geneforge 4: Rebellion" target="Strategy" id="851" />
+      <edge source="Geneforge 4: Rebellion" target="RPG" id="852" />
+      <edge source="Geneforge 4: Rebellion" target="Indie" id="853" />
+      <edge source="Geneforge 5: Overthrow" target="Strategy" id="854" />
+      <edge source="Geneforge 5: Overthrow" target="RPG" id="855" />
+      <edge source="Geneforge 5: Overthrow" target="Indie" id="856" />
+      <edge source="Company of Heroes" target="Violent" id="857" />
+      <edge source="Company of Heroes" target="Action" id="858" />
+      <edge source="Company of Heroes" target="Strategy" id="859" />
+      <edge source="Lunnye Devitsy" target="Casual" id="860" />
+      <edge source="Lunnye Devitsy" target="Indie" id="861" />
+    </edges>
+  </graph>
+</gexf>

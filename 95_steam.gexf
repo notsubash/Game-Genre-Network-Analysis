@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-07-14">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Team Fortress Classic" label="Team Fortress Classic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life: Opposing Force" label="Half-Life: Opposing Force">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life" label="Half-Life">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Carmageddon Max Pack" label="Carmageddon Max Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Action" label="Action">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Indie" label="Indie">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Racing" label="Racing">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Team Fortress Classic" target="Action" id="0" />
+      <edge source="Half-Life: Opposing Force" target="Action" id="1" />
+      <edge source="Half-Life" target="Action" id="2" />
+      <edge source="Carmageddon Max Pack" target="Action" id="3" />
+      <edge source="Carmageddon Max Pack" target="Indie" id="4" />
+      <edge source="Carmageddon Max Pack" target="Racing" id="5" />
+    </edges>
+  </graph>
+</gexf>
