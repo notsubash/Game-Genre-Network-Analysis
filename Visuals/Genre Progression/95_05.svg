@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="760.34094"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-360.340912 -369.000000 760.340942 677.000000" height="677.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Action id_Violent"
+              d="M 270.073212,-73.534210 A 515.105011,515.105011 0,0 1,-134.835541,235.468246"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Adventure"
+              d="M 208.190338,-129.437286 A 448.960553,448.960553 0,0 1,-212.193100,-216.437515"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_RPG"
+              d="M 331.033173,-73.849442 A 226.750072,226.750072 0,0 1,299.751343,63.671146"
+              stroke="#61a4a7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Indie"
+              d="M 245.690262,-85.004387 A 317.295596,317.295596 0,0 1,50.387589,17.374544"
+              stroke="#9a96e5" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Casual"
+              d="M 310.166748,-69.444038 A 407.884785,407.884785 0,0 1,126.415184,262.569733"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Racing"
+              d="M 228.733444,-98.843391 A 532.890095,532.890095 0,0 1,-295.220154,-13.593914"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Violent id_Adventure"
+              d="M -185.156570,216.715347 A 400.249618,400.249618 0,0 1,-247.753769,-209.698669"
+              stroke="#f97743" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Strategy"
+              d="M 228.708786,80.404091 A 423.043476,423.043476 0,0 1,16.264912,-308.998535"
+              stroke="#28b36a" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RPG id_Indie"
+              d="M 225.567566,114.818588 A 262.377182,262.377182 0,0 1,27.845322,73.842430"
+              stroke="#61a4a7" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Strategy id_Indie"
+              d="M 31.978266,-311.884186 A 299.743208,299.743208 0,0 1,17.667330,-48.615795"
+              stroke="#61a4a7" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Casual"
+              d="M 34.735180,65.523239 A 244.017807,244.017807 0,0 1,104.080444,248.299332"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Indie id_Racing"
+              d="M -110.148468,43.942764 A 244.924688,244.924688 0,0 1,-300.553101,-5.033435"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#9a96e5" r="92.0" cx="300.0607"
+                class="id_Action" cy="-168.93207" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="16.0"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="27.6" cx="-164.6685"
+                class="id_Violent" cy="238.6297" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="27.6" cx="-234.4284"
+                class="id_Adventure" cy="-236.57681" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="43.7" cx="271.20084"
+                class="id_RPG" cy="101.63321" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="7.6"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="27.6" cx="18.89852"
+                class="id_Strategy" cy="-338.88272" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="75.9" cx="-32.112167"
+                class="id_Indie" cy="17.173656" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="13.2"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="27.6" cx="100.75675"
+                class="id_Casual" cy="278.11465" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="27.6" cx="-322.9874"
+                class="id_Racing" cy="-24.950827" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="300.0607" y="-164.56683" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Action">
+            Action
+        </text>
+        <text font-size="24" x="-164.6685" y="242.99493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Violent">
+            Violent
+        </text>
+        <text font-size="24" x="-234.4284" y="-232.21158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adventure">
+            Adventure
+        </text>
+        <text font-size="24" x="271.20084" y="106.074615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RPG">
+            RPG
+        </text>
+        <text font-size="24" x="18.89852" y="-333.25186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Strategy">
+            Strategy
+        </text>
+        <text font-size="24" x="-32.112167" y="21.53889" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Indie">
+            Indie
+        </text>
+        <text font-size="24" x="100.75675" y="282.55606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Casual">
+            Casual
+        </text>
+        <text font-size="24" x="-322.9874" y="-19.39321" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Racing">
+            Racing
+        </text>
+    </g>
+</svg>

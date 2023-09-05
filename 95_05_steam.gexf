@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-08-20">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Counter-Strike" label="Counter-Strike">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Team Fortress Classic" label="Team Fortress Classic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Day of Defeat" label="Day of Defeat">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Deathmatch Classic" label="Deathmatch Classic">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life: Opposing Force" label="Half-Life: Opposing Force">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Ricochet" label="Ricochet">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life" label="Half-Life">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Counter-Strike: Condition Zero" label="Counter-Strike: Condition Zero">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life: Blue Shift" label="Half-Life: Blue Shift">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life 2" label="Half-Life 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Counter-Strike: Source" label="Counter-Strike: Source">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life: Source" label="Half-Life: Source">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Half-Life 2: Deathmatch" label="Half-Life 2: Deathmatch">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Unreal Tournament 2004: Editor's Choice Edition" label="Unreal Tournament 2004: Editor's Choice Edition">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Mafia" label="Mafia">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Gothic 1" label="Gothic 1">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geneforge 1" label="Geneforge 1">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Geneforge 2" label="Geneforge 2">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Chicken Shoot Gold" label="Chicken Shoot Gold">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Carmageddon Max Pack" label="Carmageddon Max Pack">
+        <attvalues>
+          <attvalue for="0" value="Games" />
+        </attvalues>
+      </node>
+      <node id="Action" label="Action">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Violent" label="Violent">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Adventure" label="Adventure">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="RPG" label="RPG">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Strategy" label="Strategy">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Indie" label="Indie">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Casual" label="Casual">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+      <node id="Racing" label="Racing">
+        <attvalues>
+          <attvalue for="0" value="Genres" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Counter-Strike" target="Action" id="0" />
+      <edge source="Team Fortress Classic" target="Action" id="1" />
+      <edge source="Day of Defeat" target="Action" id="2" />
+      <edge source="Deathmatch Classic" target="Action" id="3" />
+      <edge source="Half-Life: Opposing Force" target="Action" id="4" />
+      <edge source="Ricochet" target="Action" id="5" />
+      <edge source="Half-Life" target="Action" id="6" />
+      <edge source="Counter-Strike: Condition Zero" target="Action" id="7" />
+      <edge source="Half-Life: Blue Shift" target="Action" id="8" />
+      <edge source="Half-Life 2" target="Action" id="9" />
+      <edge source="Counter-Strike: Source" target="Action" id="10" />
+      <edge source="Half-Life: Source" target="Action" id="11" />
+      <edge source="Half-Life 2: Deathmatch" target="Action" id="12" />
+      <edge source="Unreal Tournament 2004: Editor's Choice Edition" target="Action" id="13" />
+      <edge source="Mafia" target="Violent" id="14" />
+      <edge source="Mafia" target="Action" id="15" />
+      <edge source="Mafia" target="Adventure" id="16" />
+      <edge source="Gothic 1" target="Action" id="17" />
+      <edge source="Gothic 1" target="RPG" id="18" />
+      <edge source="Geneforge 1" target="Strategy" id="19" />
+      <edge source="Geneforge 1" target="RPG" id="20" />
+      <edge source="Geneforge 1" target="Indie" id="21" />
+      <edge source="Geneforge 2" target="Strategy" id="22" />
+      <edge source="Geneforge 2" target="RPG" id="23" />
+      <edge source="Geneforge 2" target="Indie" id="24" />
+      <edge source="Chicken Shoot Gold" target="Action" id="25" />
+      <edge source="Chicken Shoot Gold" target="Casual" id="26" />
+      <edge source="Chicken Shoot Gold" target="Indie" id="27" />
+      <edge source="Carmageddon Max Pack" target="Action" id="28" />
+      <edge source="Carmageddon Max Pack" target="Indie" id="29" />
+      <edge source="Carmageddon Max Pack" target="Racing" id="30" />
+    </edges>
+  </graph>
+</gexf>
